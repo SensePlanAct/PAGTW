@@ -17,6 +17,18 @@ with c as file:
         print(linea)
 c.close()
 
+########################################################################################################################
+#
+#                                           Ejemplo de uso de DictWriter()
+cs = open("coordenadas_salida.csv", "w")
+with cs as file:
+    w = csv.DictWriter(cs, fieldnames=['latitud', 'longitud'], delimiter=',', lineterminator='\n')
+    w.writeheader()
+    #for i in range(0, len(puntos)):
+    #    w.writerow("".join(puntos[i][0]))
+########################################################################################################################
+
+
 m = folium.Map(
     location=[43.3614, -5.8593],
     zoom_start=13
