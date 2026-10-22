@@ -29,14 +29,15 @@ distancia_euc = distancia_euclidea(punto_origen, punto_destino)
 m = folium.Map(location=[lat1, lon1], zoom_start=3)
 folium.Marker(location=punto_origen, icon=folium.Icon(color="red"), popup="Península Ibérica").add_to(m)
 folium.Marker(location=punto_destino, icon=folium.Icon(color="red"), popup="América").add_to(m)
+punto3=[((lat1+lat2)/2)-3, ((lon1+lon2)/2)-3]
+linea = [punto_origen,punto_destino,punto3]
 
-linea = [punto_origen,punto_destino]
 folium.PolyLine(
     locations=linea,
     color="yellow",
     tooltip=f"Distancia Haversine: {distancia_hav} km"
 ).add_to(m)
 
-punto3=[(lat1+lat2)/2, ((lon1+lon2)/2)-3]
-folium.PolyLine(locations=[punto_origen,punto3, punto_destino], color="gray", dash_array="5",tooltip='Distancia Euclidea: {distancia_euc}').add_to(m)
+
+folium.PolyLine(locations=[punto_origen, punto_destino], color="gray", dash_array="5",tooltip='Distancia Euclidea: {distancia_euc}').add_to(m)
 m.save("mapa1.html")
