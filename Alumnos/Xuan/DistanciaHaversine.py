@@ -29,11 +29,7 @@ distancia_euc = distancia_euclidea(punto_origen, punto_destino)
 m = folium.Map(location=[lat1, lon1], zoom_start=3)
 folium.Marker(location=punto_origen, icon=folium.Icon(color="red"), popup="Península Ibérica").add_to(m)
 folium.Marker(location=punto_destino, icon=folium.Icon(color="red"), popup="América").add_to(m)
-folium.PolyLine(
-    locations=[punto_origen, punto_destino],
-    color="red",
-    tooltip=f"Distancia Euclídea: {distancia_euc:.2f}°"
-).add_to(m)
+
 linea = [punto_origen,punto_destino]
 folium.PolyLine(
     locations=linea,
