@@ -30,7 +30,7 @@ m = folium.Map(location=[lat1, lon1], zoom_start=3)
 folium.Marker(location=punto_origen, icon=folium.Icon(color="red"), popup="Península Ibérica").add_to(m)
 folium.Marker(location=punto_destino, icon=folium.Icon(color="red"), popup="América").add_to(m)
 punto3=[((lat1+lat2)/2)-3, ((lon1+lon2)/2)-3]
-linea = [punto_origen,punto_destino,punto3]
+linea = [punto_origen,punto3,punto_destino]
 
 folium.PolyLine(
     locations=linea,
