@@ -2,7 +2,6 @@ import math
 import folium
 lat1 = float(input("Introduce la latitud de origen: "))
 lon1 = float(input("Introduce la longitud de origen: "))
-
 lat2 = float(input("Introduce la latitud de destino: "))
 lon2 = float(input("Introduce la longitud de destino: "))
 def distancia_haversine(coord1, coord2):
