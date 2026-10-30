@@ -4,7 +4,7 @@ from shapely.geometry import Point
 from shapely import transform
 import csv
 puntos=[]
-c = open("../carreno_lat_lon.csv")
+c = open("carreno_lat_lon.csv")
 with c as file:
     contenido = csv.DictReader(file, delimiter=',') #si el fichero tiene una fila con los nombres de las columnas no necesito ponerlo, en caso contrario tengo que añadir
     #un parámetro que sea fieldnames=['campo1','campo2','campo3',...] para que me cree las entradas correctas en los diccionarios.
@@ -14,7 +14,7 @@ with c as file:
         puntos.append(punto)
 transformer = pyproj.Transformer.from_crs("EPSG:4326","EPSG:3857",always_xy=True)
 print(puntos)
-poligono_wgs84 = Polygon([latitud,longitud])
+poligono_wgs84 = Polygon(puntos)
 
 proyeccion = lambda x, y: transformer.transform(x,y)
 poligono = transform(poligono_wgs84, proyeccion,interleaved=False)
