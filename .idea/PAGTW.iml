@@ -5,7 +5,7 @@
       <excludeFolder url="file://$MODULE_DIR$/.venv" />
       <excludeFolder url="file://$MODULE_DIR$/proyecciones python/.venv" />
     </content>
-    <orderEntry type="jdk" jdkName="~\Desktop\geomatica\.venv" jdkType="Python SDK" />
+    <orderEntry type="jdk" jdkName="Python 3.14 (PAGTW) (2)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
 </module>

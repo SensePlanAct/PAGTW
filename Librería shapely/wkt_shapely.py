@@ -22,6 +22,6 @@ poligonoF = Polygon([(43,-76), (43,-6),(41,-5),])
 poligonoS = shapely.Polygon([(43,-76), (43,-6),(41,-5),])
 poligonoM = shapely.Polygon([(4564099.122524217, -557305.2572745769), (4786738.104110763, -669141.0570442461),(4786738.104110763, -13377019)])
 
-print(pUnto.wkt, linea.wkt, linea.length)
+print(pUnto.wkt, linea.wkt, linea.length,sep="\n")
 print(poligonoS.wkt, poligonoS.length, poligonoS.area)
 print(poligonoM.wkt, poligonoM.length, poligonoM.area)
