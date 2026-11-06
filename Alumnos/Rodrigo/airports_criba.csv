@@ -1,0 +1,2533 @@
+latitude_deg,longitude_deg,name,municipality
+24.44128,54.51696,Sas Al Nakheel Air Base,Sas Al Nakheel
+38.748317,105.58416,Alxa Left Banner Bayanhot Airport,Bayanhot
+40.494884,49.977065,Zabrat Airport,Zabrat
+40.807313,49.431481,Sitalchay Airbase,Sitalchay
+39.006162,48.806312,Qizilagach Air Base,Qizilagach
+42.454899,26.3522,Bezmer Air Base,Bezmer
+65.656573,-18.072018,Akureyri International Airport,Akureyri
+65.641296,-23.5462,Bildudalur Airport,Bildudalur
+65.28330231,-14.40139961,Egilsstaðir Airport,Egilsstaðir
+66.5458,-18.0173,Grímsey Airport,Grímsey/Sandvík
+64.295601,-15.2272,Hornafjörður Airport,Höfn
+65.952301,-17.426001,Húsavík Airport,Húsavík
+66.058098,-23.1353,Ísafjörður Airport,Ísafjörður
+63.985001,-22.6056,Keflavik International Airport,Reykjavík
+64.128732,-21.93759,Reykjavík Domestic Airport,Reykjavík
+65.6558,-16.9181,Mývatn Airport,Myvatn
+66.137847,-18.908157,Siglufjörður Airport,Siglufjörður
+63.42430115,-20.27890015,Vestmannaeyjar Airport,Vestmannaeyjar
+65.720596,-14.8506,Vopnafjörður Airport,Vopnafjörður
+42.5728,21.035801,Priština Adem Jashari International Airport,Prishtina
+5.79,101.15,Betong International Airport,Betong
+54.439999,30.2967,Orsha Airport - Balbasovo Air Base,Orsha
+52.556999,24.884001,Osovtsy Air Base,Byaroza
+39.669998,121.765999,Laohutun Air Base,Dalian (Wafangdian)
+39.450901,122.017998,Pulandian Air Base,Dalian (Pulandian)
+40.14916611,116.3213882,Beijing Shahezhen Air Base,Beijing
+39.81111145,116.7083359,Beijing Tongxian Air Base,Beijing
+41.26079941,116.6179962,Fengning Air Base,
+40.737015,111.229749,Hohhot Bikeqi Air Base,Hohhot
+39.717499,113.142998,Huairen Air Base,Shuozhou
+39.757801,116.125999,Liangxiangzhen Air Base,Beijing
+38.781101,117.068001,Tangguantun Air Base,Jinghai
+37.407799,111.966003,Wenshui Air Base,Lüliang
+39.37329865,117.0950012,Yangcun Air Base,
+40.50310135,116.1080017,Yongning Air Base,Yongning
+40.102501,117.887001,Tangshan Zunhua Air Base,Tangshan
+30.705299,103.949997,Chengdu Huangtianba Air Base,Chengdu (Qingyang)
+29.4953,106.359001,Chongqing Baishiyi Air Base,Chongqing
+24.988192,103.642833,Luliang Air Base,Qujing (Luliang)
+23.3953,103.334,Honghe Mengzi Airport / Mengzi Air Base,Honghe
+30.49099,103.466139,Qionglai Air Base,Chengdu (Qionglai)
+23.71559906,103.8270035,Wenshan Air Base,
+25.445299,100.735001,Xiangyun Midu Air Base,Dali (Xiangyun)
+22.120481,107.125046,Baihe Ningming Air Base,Ningming
+28.068522,112.957306,Changsha Datuopu Airport / Changsha Air Base,Changsha (Tianxin)
+30.798599,111.809998,Dangyang Air Base,Yichang (Dangyang)
+18.6922,109.161003,Foluo Northeast Air Base,Ledong (Da'anzhen)
+31.73842,106.644872,Bazhong Enyang Airport,Bazhong
+23.330799,110.009003,Guiping Mengxu Air Base,Guiping (Guigang)
+19.697201,109.725998,Jialaishi Air Base,Lingao (Jialai)
+26.58720016,112.8919983,Leiyang Air Base,
+18.4944,109.987999,Lingshui Air Base,Lingshui (Huayuan)
+34.449507,115.459261,Shangqiu Air Base,Shangqiu
+34.86125,113.729631,Zhengzhou Air Base,Zhengzhou
+24.9786,113.420998,Shaoguan Danxia Airport,Shaoguan
+21.3958,110.199997,Suixi Air Base,Zhanjiang (Suixi)
+26.856899,114.737,Jinggangshan Airport,Ji'an
+36.000428,117.625833,Guodu Air Base,Xintai. Tai'an
+30.95359,113.911774,Xiaogan Air Base,Xiaogan (Xiaonan)
+38.403025,116.930924,Cangxian Air Base,Cangzhou
+36.331163,120.025538,Jiaozhou Jiaocheng Air Base,Qingdao (Jiaozhou)
+37.491153,116.116726,Jiugucheng Air Base,Hengshui
+34.75389862,114.3389969,Kaifeng Air Base,Kaifeng
+36.9636,120.591003,Laiyang Air Base,Yantai
+33.685434,112.89053,Luyang Air Base,Xuchang (Pingdingshan)
+34.229285,117.245665,Xuzhou Daguozhang Air Base,Xuzhou
+36.027468,119.43778,Zhucheng Air Base,Weifang (Zhucheng)
+34.53125,107.470679,Baoji Air Base,Baoji (Fengxiang)
+36.3367,100.480003,Hainanzhou Gonghe Airport,Hainan (Gonghe)
+40.49979,120.659295,Huangdicun Naval Air Base,Huludao
+35.917801,104.218002,Lanzhou Air Base,Lanzhou (Yuzhong)
+35.3083,103.835999,Lintao Air Base,Dingxi (Lintao)
+39.554699,98.884201,Qingshui Air Base,Jiuquan (Suzhou)
+43.466593,87.531177,Ürümqi South Air Base,Ürümqi
+42.180621,87.186784,Malan Air Base,Hoxud. Bayingolin
+34.275907,108.2658,Wugong Air Base,Xianyang (Wugong)
+43.951175,87.079232,Ürümqi Changji Air Base,Ashilixiang
+37.9883,102.567001,Wuwei Air Base,Wuwei
+34.153059,108.599739,Xi'an Air Base,Xi'an (Huyi)
+25.5483,114.619003,Xincheng Air Base,Ganzhou
+43.077202,92.808098,Yaerbashi Test Range,Yizhou. Hami
+34.642248,109.241867,Yanliang Air Base,Xi'an (Yanliang)
+30.287581,122.144401,Daishan Air Base,Zhoushan
+31.909401,117.658997,Feidong Air Base,Hefei
+26.003857,119.312832,Fuzhou Air Base,Fuzhou (Cangshan)
+25.0261,118.806999,Huian Air Base,Quanzhou (Huian)
+30.3353,120.240997,Hangzhou Jianqiao Airport,Hangzhou
+30.698056,120.663056,Jiaxing Nanhu Airport,Xiuzhou. Hangzhou
+25.5728,119.459999,Longtian Air Base,Fuzhou (Fuqing)
+28.421205,115.923375,Nanchang Xiangtang Air Base,Nanchang
+29.9228,121.573997,Ningbo Zhuangqiao Air Base,Ningbo
+31.324438,121.409508,Shanghai Dachang Air Base,Shanghai (Baoshan)
+30.25521,114.062805,Wuhan Hannan Municipal Airport,Wuhan (Hannan)
+28.023283,115.549649,Zhangshu Air Base,Yichun
+43.906591,125.197005,Changchun Air Base,Changchun
+39.482845,116.372295,Beijing Nanjiao Airport,Beijing
+40.401402,99.789398,Dingxin-Shuangchengzi Air Base,Jiuquan (Jinta)
+42.078899,121.662003,Fuxin Air Base,Xihe. Fuxin
+43.526293,124.78466,Gongzhuling Air Base,Siping
+42.525934,123.984683,Kaiyuan Air Base,Qinghe. Tieling
+45.259457,126.893536,Lalin Air Base,Harbin
+40.900409,118.677878,Pingquan Air Base,Chengde
+41.8708,123.439003,Shenyang Beiling Air Base,Huanggu. Shenyang
+41.822498,123.299004,Shenyang Yuhong Quansheng Airport,Yuhong. Shenyang
+43.156898,124.292,Siping Air Base,Siping
+40.298992,120.36152,Suizhong Air Base,Huludao (Suizhong)
+38.912201,121.238998,Tuchengzi Air Base,Dalian (Lüshunkou)
+28.604567,86.798,Shigatse Tingri Airport,Xigazê (Dingri)
+37.661333,75.288877,Tashikuergan Hongqilafu Airport,Tashikuergan
+29.438627,103.749218,Leshan Airport,Leshan (Wutongqiao)
+29.360905,119.180829,Jiande Qiandaohu General Airport,Hangzhou
+18.28754,109.46372,Sanya Air Base,Sanya (Tianya)
+31.215334,120.789328,Chenghu General Airport,Suzhou
+30.797725,119.590287,Anji Tianzihu General Airport,Anji
+26.99838,107.759041,Jiuzhou Airport,Jiuzhou
+30.673944,114.63089,Paozhuwan Air Base,Wuhan (Xinzhou)
+30.087612,114.31366,Shanpo Air Base,Wuhan
+30.397898,81.13317,Ali Pulan Airport,Burang Town
+27.2235,111.6741,Shaodong Airport,Shaoyang (Shaodong)
+27.987589,112.604971,Ningxiang Airport,
+40.480965,111.575174,Hohhot Shengle International Airport (under construction),Hohhot
+27.205843,103.691511,Zhaotong Zhaoyang Airport,Zhaotong
+33.166292,117.058344,Bengbu Tenghu Airport,Bengbu
+39.958592,116.256765,[Duplicate] Beijing Xijiao Airport,Beijing
+35.329133,110.3829,Hancheng Heyang Airport,Zhiyang Town
+39.289671,121.762195,Sanshilipu Air Base,Dalian (Jinzhou)
+50.20843,14.92585,Kostomlaty Airstrip,
+51.190667,4.463153,Antwerp International Airport (Deurne),Antwerp
+50.758598,4.76833,Beauvechain Air Base,Beauvechain
+51.168301,5.47,Kleine Brogel Air Base,Kleine Brogel
+50.901402,4.48444,Brussels Airport,Zaventem
+50.461963,4.459562,Brussels South Charleroi Airport,Charleroi
+50.575802,3.831,Chièvres Air Base,Chièvres
+51.090302,2.65278,Koksijde Air Base,Koksijde
+50.24330139,4.645830154,Florennes Air Base,Florennes
+50.818878,3.209551,Kortrijk-Wevelgem International Airport,Wevelgem
+50.638574,5.443897,Liège Airport,Grâce-Hollogne
+51.1998,2.874673,Ostend-Bruges International Airport,Oostende
+50.981945,12.506389,Leipzig–Altenburg Airport,Nobitz
+53.8787,14.1523,Heringsdorf Airport,Zirchow
+53.6022,13.306,Neubrandenburg Trollenhagen Airport,Trollenhagen
+51.363335,14.95,Rothenburg/Görlitz Airfield,Rothenburg/Oberlausitz
+52.361738,13.502341,Berlin Brandenburg Airport,Berlin
+51.134123,13.767831,Dresden Airport,Dresden
+50.978281,10.960713,Erfurt-Weimar Airport,Erfurt
+50.026706,8.55835,Frankfurt Main Airport,Frankfurt am Main
+52.133816,7.688482,Münster Osnabrück Airport,Greven
+53.630402,9.98823,Hamburg Helmut Schmidt Airport,Hamburg
+50.865898,7.14274,Cologne Bonn Airport,Köln (Cologne)
+51.289501,6.76678,Düsseldorf Airport,Düsseldorf
+48.353802,11.7861,Munich Airport,Munich
+49.498699,11.078056,Nuremberg Airport,Nuremberg
+51.420657,12.232705,Leipzig/Halle Airport,Schkeuditz
+49.214545,7.109735,Saarbrücken Airport,Saarbrücken
+48.689899,9.22196,Stuttgart Airport,Stuttgart
+52.461102,9.68508,Hannover Airport,Hannover
+53.046786,8.78932,Bremen Airport,Bremen
+49.96,8.643043,Frankfurt-Egelsbach Airport,Egelsbach
+49.946353,7.261734,Frankfurt-Hahn Airport,Frankfurt am Main (Lautzenhausen)
+49.473057,8.514167,Mannheim-City Airport,Mannheim
+49.967499,8.147222,Mainz-Finthen Airfield,Mainz
+50.991604,10.47973,Eisenach-Kindel Airport,Hörselberg-Hainich
+50.707699,8.08297,Siegerland Airport,Burbach
+53.535278,9.835556,Hamburg-Finkenwerder Airport,Hamburg
+54.37957,10.145266,Kiel-Holtenau Airport,Kiel
+53.805401,10.7192,Lübeck Blankensee Airport,Lübeck
+47.988092,10.238248,Memmingen Allgau Airport,Memmingen
+51.964722,8.544444,Bielefeld Airport,Bielefeld
+51.230278,6.504444,Mönchengladbach Airport,Mönchengladbach
+51.612527,8.617459,Paderborn Lippstadt Airport,Büren
+51.601362,6.141228,Weeze (Niederrhein) Airport,Weeze
+51.518299,7.61224,Dortmund Airport,Dortmund
+48.425278,10.931667,Augsburg Airport,Augsburg
+48.512019,12.034865,Landshut Airfield,Landshut
+48.081402,11.2831,Oberpfaffenhofen Airport,Weßling
+47.671299,9.51149,Bodensee Airport Friedrichshafen,Friedrichshafen
+49.920403,10.914233,Bamberg-Breitenau Airfield,Bamberg
+49.985001,11.64,Bayreuth Airport,Bindlach
+50.288544,11.852876,Hof-Plauen Airport,Hof
+48.7794,8.0805,Karlsruhe Baden-Baden Airport,Rheinmünster
+47.973331,8.522222,Donaueschingen-Villingen Airfield,Donaueschingen
+48.369301,7.82772,Lahr Airport,Lahr/Schwarzwald
+48.05389,9.372778,Mengen-Hohentengen Airfield,Mengen
+49.118332,9.783889,Adolf Würth Airport,Schwäbisch Hall
+52.000832,12.148611,Zerbst Airfield,Straguth
+52.319199,10.5561,Braunschweig-Wolfsburg Airport,Braunschweig
+51.418395,9.391638,Kassel Airport,Calden
+54.9132,8.34047,Westerland Sylt Airport,Sylt
+59.259599,24.204799,Ämari Air Base,Keila
+58.99079895,22.83069992,Kärdla Airport,Kärdla
+58.22990036,22.5095005,Kuressaare Airport,Kuressaare
+58.41899872,24.4727993,Pärnu Airport,Pärnu
+59.413246,24.83264,Lennart Meri Tallinn Airport,Tallinn
+58.307438,26.686473,Tartu Airport,Tartu
+68.36260223,23.42429924,Enontekio Airport,Enontekio
+61.856039,24.786686,Halli Airport,Jämsä
+60.318363,24.963341,Helsinki Vantaa Airport,Helsinki (Vantaa)
+62.1661,30.073601,Kitee Airport,Kitee
+68.6073,27.4053,Ivalo Airport,Ivalo
+62.658815,29.619398,Joensuu Airport,Joensuu
+62.399502,25.678301,Jyväskylä Airport,Jyväskylän Maalaiskunta
+63.127102,23.051399,Kauhava Airfield,Kauhava
+65.77870178,24.58209991,Kemi-Tornio Airport,Kemi / Tornio
+64.2855,27.6924,Kajaani Airport,Kajaani
+62.463212,22.390817,Kauhajoki Airfield,Kauhajoki
+63.721199,23.143101,Kokkola-Pietarsaari Airport,Kokkola / Kruunupyy
+65.987602,29.239401,Kuusamo Airport,Kuusamo
+67.700996,24.8468,Kittilä International Airport,Kittilä
+63.007099,27.7978,Kuopio Airport,Kuopio / Siilinjärvi
+61.044601,28.144743,Lappeenranta Airport,Lappeenranta
+60.1222,19.898199,Mariehamn Airport,Mariehamn
+61.6866,27.201799,Mikkeli Airport,Mikkeli
+64.930099,25.354601,Oulu Airport,Oulu / Oulunsalo
+61.4617,21.799999,Pori Airport,Pori
+60.479167,26.593889,Helsinki East-Redstone Aerodrome,Helsinki (Pyhtää)
+66.563327,25.829751,Rovaniemi Airport,Rovaniemi
+61.9431,28.945101,Savonlinna Airport,Savonlinna
+62.692101,22.8323,Seinäjoki Airport,Seinäjoki / Ilmajoki
+67.39499664,26.61910057,Sodankyla Airport,Sodankyla
+61.414101,23.604401,Tampere-Pirkkala Airport,Tampere / Pirkkala
+60.514099,22.2628,Turku Airport,Turku
+60.8964,26.9384,Utti Air Base,Utti / Valkeala
+63.05023,21.762543,Vaasa Airport,Vaasa
+62.171101,27.868601,Varkaus Airport,Varkaus / Joroinen
+64.054722,24.725278,Ylivieska Airfield,Ylivieska
+54.65750122,-6.215829849,Belfast International Airport,Belfast
+54.398274,-7.651179,Enniskillen/St Angelo Airport,Enniskillen. Fermanagh and Omagh
+54.618099,-5.8725,George Best Belfast City Airport,Belfast
+55.042801,-7.16111,City of Derry Airport,Derry. Derry and Strabane
+52.453899,-1.74803,Birmingham Airport,Birmingham. West Midlands
+51.894199,-2.16722,Gloucestershire Airport,Staverton. Gloucestershire
+52.919998,-1.07917,Nottingham City Airport,Nottingham. Nottinghamshire
+53.349375,-2.279521,Manchester Airport,Manchester. Greater Manchester
+51.0872,-4.15034,Royal Marines Base Chivenor,Chivenor
+51.152199,-1.74741,MoD Boscombe Down,Salisbury. Wiltshire
+50.08610153,-5.255710125,RNAS Culdrose,Helston
+51.405229,-3.433254,MOD St Athan,St Athan. Vale of Glamorgan
+51.009399,-2.63882,RNAS Yeovilton,Yeovil. Somerset
+55.437199,-5.68639,Campbeltown Airport,Campbeltown
+59.19060135,-2.772219896,Eday Airport,Eday
+51.83309937,-4.961110115,Haverfordwest Airport,Haverfordwest
+51.396702,-3.34333,Cardiff International Airport,Cardiff
+51.601366,-4.071006,Swansea Airport,Swansea
+51.382326,-2.716453,Bristol Airport,Bristol
+53.334863,-2.849637,Liverpool John Lennon Airport,Liverpool
+51.874699,-0.368333,London Luton Airport,Luton. Luton
+50.780483,-1.839576,Bournemouth Airport,Bournemouth
+50.950298,-1.3568,Southampton Airport,Southampton
+51.18744,-1.031663,Lasham Airfield,Alton. Hampshire
+50.440601,-4.99541,Cornwall Airport Newquay,Newquay
+49.706104,-2.21472,Alderney Airport,Saint Anne
+49.435001,-2.60197,Guernsey Airport,Saint Peter Port
+49.207901,-2.19551,Jersey Airport,St. Peter
+50.835602,-0.297222,Brighton City Airport,Brighton. East Sussex
+51.3307991,0.032499999,London Biggin Hill Airport,London
+51.148744,-0.185739,London Gatwick Airport,London
+51.505299,0.055278,London City Airport,London
+51.275799,-0.776333,Farnborough Airport,Farnborough. Hampshire
+51.323898,-0.8475,Blackbushe Airport,Camberley. Surrey
+51.470748,-0.459909,London Heathrow Airport,London
+51.570562,0.693627,London Southend Airport,Southend-on-Sea. Essex
+50.956246,0.939074,Lydd London Ashford Airport,Romney Marsh. Kent
+54.9375,-2.80917,Carlisle Lake District Airport,Carlisle. Cumbria
+53.771702,-3.02861,Blackpool Airport,Blackpool
+53.576152,-0.34954,Humberside Airport,Grimsby. Lincolnshire
+54.1286111,-3.2675,Barrow Walney Island Airport,Barrow-in-Furness
+53.865898,-1.66057,Leeds Bradford Airport,Leeds. West Yorkshire
+53.745098,-2.88306,Warton Aerodrome,Warton
+53.178101,-2.97778,Hawarden Airport,Broughton
+54.083081,-4.623871,Isle of Man Airport,Castletown. Rushen
+55.037958,-1.689577,Newcastle International Airport,Newcastle upon Tyne. Tyne and Wear
+54.509201,-1.42941,Teesside International Airport,Darlington. Durham
+52.8311,-1.32806,East Midlands Airport,Nottingham. Leicestershire
+55.04999924,-2.549999952,RAF Spadeadam,Spadeadam
+52.798199,-2.66804,RAF Shawbury,Shrewsbury. Shropshire
+53.2481,-4.53534,Anglesey Airport,Angelsey
+58.957903,-2.905077,Kirkwall Airport,Kirkwall. Orkney Islands
+59.878899,-1.29556,Sumburgh Airport,Lerwick. Shetland
+58.4589,-3.09306,Wick John O'Groats Airport,Wick
+57.2019,-2.19778,Aberdeen International Airport,Aberdeen
+57.5425,-4.0475,Inverness Airport,Inverness. Highland
+55.871899,-4.43306,Glasgow Airport,Glasgow
+55.950145,-3.372288,Edinburgh Airport,Ingliston. Edinburgh
+55.682708,-6.257525,Islay Airport,Isle of Islay. Argyll and Bute
+55.501499,-4.577182,Glasgow Prestwick Airport,Prestwick. South Ayrshire
+57.481098,-7.36278,Benbecula Airport,Balivanich
+56.452499,-3.02583,Dundee Airport,Dundee
+58.215599,-6.33111,Stornoway Airport,Stornoway. Western Isles
+57.0228,-7.44306,Barra Airport,Eoligarry
+56.499199,-6.86917,Tiree Airport,Balemartine. Argyll and Bute
+56.37398,-2.868862,Leuchars Station Airfield,Leuchars. Fife
+57.7052,-3.33917,RAF Lossiemouth,Lossiemouth. Moray
+52.205002,0.175,Cambridge City Airport,Cambridge. Cambridgeshire
+52.6758,1.28278,Norwich Airport,Norwich. Norfolk
+51.884998,0.235,London Stansted Airport,London. Essex
+52.072201,-0.616667,Cranfield Airport,Cranfield. Central Bedfordshire
+50.734261,-3.413984,Exeter International Airport,Exeter. Devon
+51.836899,-1.32,London Oxford Airport,Kidlington. Oxfordshire
+51.614366,-1.095991,RAF Benson,Wallingford. Oxfordshire
+52.40954,0.561161,RAF Lakenheath,Brandon. Suffolk
+52.3619,0.486406,RAF Mildenhall,Bury Saint Edmunds. Suffolk
+52.127451,0.956189,Wattisham Airfield,Ipswich. Suffolk
+51.683568,-1.789172,RAF Fairford,Fairford. Gloucestershire
+51.75,-1.58362,RAF Brize Norton,Carterton. Oxfordshire
+51.2341,-0.942825,RAF Odiham,Hook. Hampshire
+52.640524,-2.305326,RAF Cosford,Cosford. Shropshire
+51.553001,-0.418167,RAF Northolt,Northolt. Greater London
+53.092999,-0.166014,RAF Coningsby,Lincoln. Lincolnshire
+54.297191,-1.538944,RAF Leeming,Northallerton. North Yorkshire
+53.834747,-1.194678,Leeds East Airport,Tadcaster. North Yorkshire
+52.342602,0.772939,RAF Honington,Bury Saint Edmunds. Suffolk
+52.612598,-0.476453,RAF Wittering,Peterborough. Cambridgeshire
+53.166199,-0.523811,RAF Waddington,Lincoln. Lincolnshire
+54.204116,-1.380265,RAF Topcliffe,Thirsk. North Yorkshire
+53.027308,-0.493104,RAF Cranwell,Sleaford. Lincolnshire
+52.960616,-0.559428,RAF Barkston Heath,Grantham. Lincolnshire
+52.648395,0.550692,RAF Marham,King's Lynn. Norfolk
+52.308601,4.76389,Amsterdam Airport Schiphol,Amsterdam
+51.255299,5.60139,Kempen Airport Budel,Weert
+50.911087,5.769401,Maastricht Aachen Airport,Maastricht
+52.0606,5.87306,Deelen Air Base,Arnhem
+51.45009995,5.374529839,Eindhoven Airport,Eindhoven
+53.119107,6.577652,Groningen Airport Eelde,Groningen
+51.567402,4.93183,Gilze Rijen Air Base,Rijen
+52.923401,4.78062,De Kooy Airfield / Den Helder Naval Air Station,Den Helder
+52.453188,5.514622,Lelystad Airport,Lelystad
+53.22859955,5.760560036,Leeuwarden Air Base,Leeuwarden
+51.956902,4.43722,Rotterdam The Hague Airport,Rotterdam
+52.275833,6.889167,Twente Airport,Enschede
+51.657222,5.707778,Volkel Air Base,Uden
+51.4491,4.34203,Woensdrecht Air Base,Hoogerheide
+51.841301,-8.49111,Cork International Airport,Cork
+55.0442009,-8.340999603,Donegal Airport,Donegal
+53.428713,-6.262121,Dublin Airport,Dublin
+53.910439,-8.817002,Ireland West Airport Knock,Charlestown
+52.180901,-9.52378,Kerry Airport,Farranfore
+53.30170059,-6.451330185,Casement Air Base,Baldonnel
+52.702,-8.92482,Shannon Airport,Shannon
+54.28020096,-8.599209785,Sligo Airport,Sligo
+52.187199,-7.08696,Waterford Airport,Waterford
+53.351622,-6.490357,Weston Airport,Leixlip
+56.303331,10.618286,Aarhus Airport,Aarhus
+55.740335,9.157019,Billund Airport,Billund
+55.61790085,12.65600014,Copenhagen Kastrup Airport,Copenhagen
+55.525902,8.5534,Esbjerg Airport,Esbjerg
+56.297139,9.104311,Midtjyllands Airport / Air Base Karup,Karup
+54.699447,11.438163,Lolland Falster Maribo Airport,Rødby
+55.475307,10.327206,Odense Hans Christian Andersen Airport,Odense
+55.585602,12.1314,Copenhagen Roskilde Airport,Roskilde
+55.063301,14.7596,Bornholm Airport,Rønne
+54.96440125,9.791729927,Sønderborg Airport,Sønderborg
+57.503502,10.2294,Sindal Airport,Sindal
+55.221048,9.26702,Skrydstrup Air Base,Vojens
+56.550201,9.17298,Skive Airport,Skive
+57.068802,8.70522,Thisted Airport,Thisted
+55.436298,9.33092,Kolding Vamdrup Airfield,Kolding / Vamdrup
+62.063256,-7.275782,Vágar Airport,Vágar
+55.990101,8.35391,Stauning Vestjylland  Airport,Skjern
+57.094763,9.84993,Aalborg Airport,Aalborg
+49.626845,6.212134,Luxembourg-Findel International Airport,Luxembourg
+62.560443,6.110845,Ålesund Airport,Ålesund
+69.295193,16.139379,Andøya Airport. Andenes,Andenes
+69.976097,23.3717,Alta Airport,Alta
+65.461098,12.2175,Brønnøysund Airport. Brønnøy,Brønnøy
+67.269203,14.3653,Bodø Airport,Bodø
+60.2934,5.21814,Bergen Airport. Flesland,Bergen
+70.60025,29.692612,Båtsfjord Airport,Båtsfjord
+70.871517,29.034097,Berlevåg Airport,Berlevåg
+58.204201,8.08537,Kristiansand Airport,Kristiansand(Kjevik)
+69.055801,18.5404,Bardufoss Airport,Målselv
+68.491302,16.678101,Harstad/Narvik Airport,Evenes
+61.58359909,5.024720192,Florø Airport,Florø
+60.193901,11.1004,Oslo-Gardermoen International Airport,Oslo (Gardermoen)
+59.345299,5.20836,Haugesund Airport. Karmøy,Karmøy
+70.679703,23.6686,Hammerfest Airport,Hammerfest
+71.009697,25.983601,Honningsvåg Airport. Valan,Honningsvåg
+63.111801,7.82452,Kristiansund Airport. Kvernberget,Kvernberget
+69.7258,29.8913,Kirkenes Airport. Høybuktmoen,Kirkenes
+68.15249634,13.6093998,Leknes Airport,Leknes
+71.029701,27.8267,Mehamn Airport,Mehamn
+62.744701,7.2625,Molde Airport. Årø,Årø
+65.783997,13.2149,Mosjøen Airport. Kjærstad,Mosjøen
+70.068802,24.973499,Lakselv Airport. Banak,Lakselv
+59.565071,9.213152,Notodden Airport,Notodden
+63.69889832,9.604000092,Ørland Airport,Ørland
+62.18000031,6.074100018,Ørsta-Volda Airport. Hovden,Ørsta
+66.36389923,14.30140018,Mo i Rana Airport. Røssvoll,Mo i Rana
+64.83830261,11.14610004,Rørvik Airport. Ryum,Rørvik
+62.57839966,11.34230042,Røros Airport,Røros
+59.378817,10.785439,Moss Airport. Rygge,Oslo
+78.246101,15.4656,Svalbard Airport. Longyear,Longyearbyen
+68.243301,14.6692,Svolvær Airport. Helle,Svolvær
+68.578827,15.033417,Stokmarknes Airport. Skagen,Hadsel
+59.185001,9.56694,Skien Airport,Geiteryggen
+59.791901,5.34085,Stord Airport. Sørstokken,Leirvik
+69.786797,20.9594,Sørkjosen Airport,Sørkjosen
+70.3554,31.044901,Vardø Airport. Svartnes,Vardø
+65.956802,12.4689,Sandnessjøen Airport. Stokka,Alstahaug
+69.683296,18.9189,Tromsø Airport,Tromsø
+59.186699,10.2586,Sandefjord Airport. Torp,Sandefjord(Torp)
+63.457802,10.924,Trondheim Airport. Værnes,Trondheim
+70.0653,29.8447,Vadsø Airport,Vadsø
+58.876701,5.63778,Stavanger Airport. Sola,Stavanger
+53.096802,17.977699,Ignacy Jan Paderewski Bydgoszcz Airport,Bydgoszcz
+54.416525,17.765734,Cewice Naval Air Base,Siemirowice
+51.551021,21.892322,Deblin Military Air Base,Dęblin
+54.377602,18.4662,Gdańsk Lech Wałęsa Airport,Gdańsk
+52.829399,18.330601,Inowroclaw Military Air Base,
+50.077702,19.7848,Kraków John Paul II International Airport,Balice
+52.331699,16.9664,Krzesiny Military Air Base,Poznań
+50.476015,19.080705,Katowice Wojciech Korfanty International Airport,Katowice
+51.240157,22.713461,Lublin Airport,Lublin
+51.551701,19.1791,Łask Air Base,Łask
+51.721901,19.3981,Łódź Władysław Reymont Airport,Łódź
+52.004945,19.143792,Leźnica Wielka Air Base,Leźnica Wielka
+54.026598,19.135718,Malbork Królewo Air Base,Królewo
+53.3951,16.0828,Miroslawiec Military Air Base,Mirosławiec
+52.19549942,21.65589905,Minsk Mazowiecki Military Air Base,
+52.451099,20.6518,Warsaw Modlin Airport,Nowy Dwór Mazowiecki
+52.421598,16.823359,Poznań-Ławica Airport,Poznań
+52.380087,17.853155,Powidz Military Air Base,Powidz
+51.38937,21.214742,Warsaw Radom Airport,Radom
+50.109791,22.024155,Rzeszów-Jasionka Airport,Jasionka
+53.584702,14.9022,Solidarity Szczecin–Goleniów Airport,Szczecin(Glewice)
+53.7906,15.8263,Swidwin Military Air Base,
+53.481899,20.9377,Olsztyn-Mazury Airport,Szymany
+51.5844,20.097799,Tomaszów Mazowiecki Military Air Base,Nowy Glinnik
+52.165699,20.9671,Warsaw Chopin Airport,Warsaw
+51.103719,16.882096,Copernicus Wrocław Airport,Wrocław
+52.1385,15.7986,Zielona Góra-Babimost Airport,Nowe Kramsko
+41.9527,2.3072,Folgueroles Airfield,Folgueroles
+58.397666,15.522422,Malmen Air Base,Linköping
+56.266701,15.265,Ronneby Airport,Ronneby
+58.4981,13.0532,Råda Air Base,Råda
+57.6628,12.2798,Göteborg Landvetter Airport,Göteborg
+57.75759888,14.06869984,Jönköping Airport,Jönköping
+57.7747,11.8704,Säve Airport,Göteborg
+58.456402,13.9727,Skövde Airport,Skövde
+58.31809998,12.34500027,Trollhättan-Vänersborg Airport,Trollhättan
+58.426399,12.7144,Såtenäs Air Base,Såtenäs
+59.345901,14.4959,Karlskoga Airport,Karlskoga
+60.957901,14.5114,Mora Airport,Mora
+58.789656,16.911479,Stockholm Skavsta Airport,Nyköping
+61.16508,12.83352,Scandinavian Mountains Airport,Malung-Sälen
+55.9217,14.0855,Kristianstad Airport,Kristianstad
+56.685501,16.2876,Kalmar Airport,Kalmar
+55.535564,13.376327,Malmö Sturup Airport,Malmö
+56.69110107,12.82019997,Halmstad Airport,Halmstad
+56.92910004,14.72799969,Växjö Kronoberg Airport,Växjö
+67.13240051,20.81459999,Gällivare Airport,Gällivare
+63.048599,17.7689,Kramfors-Sollefteå Höga Kusten Airport,Nyland
+64.548302,18.7162,Lycksele Airport,Lycksele
+62.52809906,17.44389915,Sundsvall-Härnösand Airport,Sundsvall/ Härnösand
+63.40829849,18.98999977,Örnsköldsvik Airport,Örnsköldsvik
+67.821999,20.3368,Kiruna Airport,Kiruna
+64.62480164,21.07690048,Skellefteå Airport,Skellefteå
+63.791801,20.282801,Umeå Airport,Umeå
+64.579102,16.833599,Vilhelmina South Lapland Airport,Vilhelmina
+65.59030151,19.28190041,Arvidsjaur Airport,Arvidsjaur
+61.261501,17.0991,Söderhamn Airport,Söderhamn
+63.193546,14.504168,Åre Östersund Airport,Östersund
+59.22370148,15.03800011,Örebro Airport,Örebro
+59.444698,13.3374,Karlstad Airport,Karlstad
+59.589401,16.6336,Stockholm Västerås Airport,Stockholm / Västerås
+65.5438,22.122,Luleå Airport,Luleå
+59.64849,17.928829,Stockholm-Arlanda Airport,Stockholm
+59.354401,17.9417,Stockholm-Bromma Airport,Stockholm
+60.422001,15.5152,Dala Airport,Borlange
+58.404909,15.684499,Linköping City Airport,Linköping
+58.5862999,16.25060081,Norrköping Airport,Norrköping
+60.1576,12.9913,Torsby Airport,Torsby
+59.351101,16.708401,Eskilstuna Airport,Eskilstuna
+57.6628,18.346201,Visby Airport,Visby
+56.29610062,12.84710026,Ängelholm-Helsingborg Airport,Ängelholm
+56.082802,13.2125,Ljungbyhed Airfield,Ljungbyhed
+64.960899,17.6966,Storuman Airport,Storuman
+49.976507,6.698413,Spangdahlem Air Base,Trier
+49.436901,7.60028,Ramstein Air Base,Ramstein-Miesenbach
+52.2785,9.08217,Bückeburg Air Base,Bückeburg
+52.591202,10.0221,Celle Army Airfield,Celle
+51.1146,9.286,Fritzlar Army Airfield,Fritzlar
+48.220299,9.91002,Laupheim Air Base,Laupheim
+49.39162,9.956747,Niederstetten Army Air Base,Niederstetten
+52.919399,10.185827,Faßberg Air Base,Faßberg
+49.6987,11.9402,Grafenwöhr Army Air Field,Grafenwöhr
+49.216541,11.836064,Hohenfels Army Airfield,Hohenfels
+53.767689,8.659201,Sea-Airport Cuxhaven/Nordholz / Nordholz Naval Airbase,Wurster Nordseeküste
+52.585556,8.342222,Diepholz Air Base,Diepholz
+50.9608,6.04242,Geilenkirchen Air Base,Geilenkirchen
+54.312199,9.53817,Hohn Air Base,Hohn
+53.918201,12.2783,Rostock-Laage Airport,Laage
+50.8312,6.65817,Nörvenich Air Base,Nörvenich
+54.459301,9.51633,Schleswig Air Base,Jagel
+53.547798,7.66733,Wittmundhafen Air Base,Wittmund
+52.457298,9.42717,Wunstorf Air Base,
+50.04980087,8.325400352,Wiesbaden Army Airfield,Wiesbaden
+50.173801,7.06333,Büchel Air Base,Alflen
+51.767799,13.1677,Holzdorf Air Base,Holzdorf
+48.71569824,11.5340004,Ingolstadt Manching Airport,Manching
+48.185504,10.8612,Lechfeld Air Base,Graben
+48.710999,11.2115,Neuburg Air Base,Neuburg an der Donau
+56.534698,25.8925,Jēkabpils Air Base,Jēkabpils
+56.517502,21.096901,Liepāja International Airport,Liepāja
+56.920752,23.970711,Riga International Airport,Riga
+56.9422,23.2239,Jūrmala Airport,Tukums
+54.963965,24.08582,Kaunas International Airport,Kaunas
+55.31169891,23.95639992,Kėdainiai Air Base,Kėdainiai
+55.973202,21.093901,Palanga International Airport,Palanga
+55.72940063,24.46080017,Panevėžys Air Base,Panevėžys
+55.89390182,23.39500046,Šiauliai International Airport,Šiauliai
+56.070599,23.5581,Barysiai Airfield,Šiauliai
+54.634102,25.285801,Vilnius International Airport,Vilnius
+-7.31327,72.411102,Naval Support Facility Diego Garcia,Diego Garcia
+41.9291,41.863499,Ozurgeti Air Base,Ozurgeti
+42.24030572,42.04549313,Senaki Air Base,Senaki
+35.191341,25.326588,(*)Kasteli Hellenic Air Force Base,Kasteli
+30.410714,33.15535,Bardawil International Airport,El Hassana
+31.055324,33.827964,El Arish International Airport,El Arish
+31.078138,34.153131,El Jora Airport,El Jora
+28.684292,34.064409,Saint Catherine International Airport,Saint Catherine
+27.977272,34.394717,Sharm El Sheikh International Airport,Sharm El Sheikh
+29.594496,34.775752,Taba International Airport,Taba
+44.557598,15.7744,Udbina Airfield,Udbina
+46.55149,18.942299,Kalocsa-Foktő Airfield,Kalocsa
+30.677339,104.529397,Chengdu Huaizhou Airport,Chengdu (Jintang)
+-7.749527,111.946831,Dhoho International Airport,Kediri
+-0.874989,100.351997,Tabing Airport,Padang
+0.063851,111.473572,Susilo Airport,Sintang
+-3.739503,137.031183,Bilorai Airport,Bilogai
+26.747736,82.163664,Maharshi Valmiki International Airport,Faizabad
+20.814608,77.717765,Amravati  Airport,Amravati
+16.002552,73.529846,Sindhudurg Airport,Chipi
+18.984597,73.065253,Navi Mumbai International Airport,Navi Mumbai
+13.858024,75.618868,Rashtrakavi Kuvempu Airport,Shimoga
+26.96683,93.638792,Itanagar Donyi Polo Hollongi Airport,Hollongi
+20.395781,78.216272,Sant Gadge Baba Yavatmal Airport,Yavatmal
+28.179868,77.611843,Noida International Airport,Gautam Buddha Nagar
+22.98753,83.19612,Maa Mahamaya Airport,Ambikapur
+33.816262,41.436712,H1 New Air Base,Anah
+33.36372375,40.58802414,H2 Air Base,
+32.92938232,39.74510193,H3 Air Base,
+33.0745697,39.599617,H3 Northwest AFB,
+32.74492645,39.59955597,H3 Southwest Air Base,
+30.546518,46.602779,Jalibah Southeast Air Base,Jalibah
+32.11684036,46.3822403,Kut Al Hayy East Air Base,
+31.45658112,47.28979111,Qalat Salih Air Base,
+33.279327,44.493706,Rasheed Air Base,Baghdad
+32.40611267,39.12361145,Ruwayshid Air Base,
+35.85926437,42.14213943,Sahl Sinjar Air Base,
+34.16554,44.264304,Samarra East Air Base / Dhuluiya Airport,Dhuluiya
+35.139721,44.133888,Tal Ashtah New Air Base,
+34.93722153,44.48277664,Tuz Khurmatu Air Base,
+28.04816,55.521791,Oghab 44 Airbase,Tarom Rural District
+30.3435,36.147701,King Feisal Air Base,Al-Jafr
+40.944401,72.977798,Jalal-Abad Airport,Jalal-Abad
+10.914244,103.226652,Dara Sakor International Airport,Ta Noun
+11.359987,104.921272,Techo International Airport,Phnom Penh (Boeng Khyang)
+38.00739,125.777321,Haeju Airfield,Haeju
+39.731218,125.110159,Kwaksan Air Base,Kwaksan
+38.690201,126.606003,Koksan Air Base,Koksan
+38.653459,125.78888,Hwangju Airbase,Hwangju
+39.505001,125.963997,Pukchang Air Base,Sunchon
+39.996257,127.611694,Toksan Air Base,Tŏksan-dong
+40.6814,128.151001,Hwangsuwon Airbase,Kimhyonggwon
+40.364375,127.264252,Changjin Air Force Base,Changjin
+40.359822,128.720584,Riwon Airbase,Riwon-gun
+38.425487,125.019093,Kwail Air Base,Kwail
+38.913877,125.821309,Uthachi Highway Strip Airport,Pyongyang (Ryokpo)
+38.663481,126.586618,Koksan 2 Highway Strip,Koksan
+34.973003,126.617118,Naju Juksanbo Airfield,Naju-si (Naju City)
+50.736074,78.538942,Kurchatov Airfield,Kurchatov
+49.219952,81.317368,Zhangiztobe Air Base,Zhangiztobe
+50.536891,79.194689,Dolon Air Base,Semey
+20.323986,100.165392,Bokeo International Airport,Ton Phueng
+42.035802,20.415955,Kukës International Airport,Kukës
+40.7719,19.901899,Kuçovë Air Base,Kuçovë
+41.4147,19.7206,Tirana International Airport Mother Teresa,Rinas
+42.569917,27.515173,Burgas Airport,Burgas
+43.151402,25.7129,Gorna Oryahovitsa Airport,Gorna Oryahovitsa
+42.067799,24.8508,Plovdiv International Airport,Plovdiv
+42.290401,24.714001,Graf Ignatievo Air Base,Graf Ignatievo
+43.451771,24.502423,Dolna Mitropoliya Air Base,Dolna Mitropoliya
+42.696357,23.417671,Sofia Airport,Sofia
+43.423801,28.181299,Balchik Airfield,Balchik
+43.232101,27.8251,Varna Airport,Varna
+35.153064,33.507352,Ercan International Airport,Tymbou (Kirklar)
+35.23591,33.720088,Geçitkale Airbase,Lefkoniko (Geçitkale)
+34.875099,33.624901,Larnaca International Airport,Larnaca
+34.717999,32.485699,Paphos International Airport,Paphos
+34.590401,32.9879,RAF Akrotiri,Akrotiri
+42.562247,18.265543,Dubrovnik Ruđer Bošković Airport,Dubrovnik
+45.462355,18.811278,Osijek Airport,Osijek(Klisa)
+44.893501,13.9222,Pula Airport,Pula
+45.216376,14.57085,Rijeka Airport,Rijeka(Omišalj)
+43.284454,16.678362,Brač Airport,Gornji Humac
+43.538898,16.298,Split Saint Jerome Airport,Split
+45.742901,16.0688,Zagreb Franjo Tuđman International Airport,Velika Gorica
+44.096986,15.353565,Zadar Airport,Zadar
+38.948502,-1.86352,Albacete Airport / Los Llanos Air Base,Albacete
+38.2822,-0.558156,Alicante-Elche Miguel Hernández Airport,Alicante
+36.843899,-2.3701,Almería Airport,Almería
+43.563599,-6.03462,Asturias Airport,Ranón
+37.841999,-4.84888,Córdoba Airport,Córdoba
+43.301102,-2.91061,Bilbao Airport,Bilbao
+42.357601,-3.62076,Burgos Airport,Burgos
+41.2971,2.07846,Josep Tarradellas Barcelona-El Prat Airport,Barcelona
+38.8913,-6.82133,Badajoz Airport,Badajoz
+40.213889,0.073333,Castellón-Costa Azahar Airport,Castellón de la Plana
+43.302101,-8.37726,A Coruña Airport,Culleredo
+40.370701,-3.78514,Madrid-Cuatro Vientos Airport,Madrid
+41.728185,0.535023,Lleida-Alguaire Airport,Lleida
+37.133202,-3.63569,Armilla Air Base,Armilla
+41.904639,2.761774,Girona-Costa Brava Airport,Girona
+37.188702,-3.77736,F.G.L. Airport Granada-Jaén Airport,Granada
+40.294102,-3.72383,Getafe Air Base,Getafe
+38.872898,1.37312,Ibiza Airport,Ibiza (Eivissa)
+36.744598,-6.06011,Jerez Airport,Jerez de la Frontera
+37.775002,-0.812389,San Javier Airport,San Javier
+42.590709,-5.653406,León Airport,La Virgen del Camino
+42.460953,-2.322235,Logroño-Agoncillo Airport,Logroño
+40.493407,-3.572249,Adolfo Suárez Madrid–Barajas Airport,Madrid
+36.678234,-4.500208,Málaga-Costa del Sol Airport,Málaga
+39.862598,4.21865,Menorca Airport,Mahón (Maó)
+37.802852,-1.124884,Region of Murcia International Airport,Corvera
+37.17490005,-5.615940094,Moron Air Base,Morón
+39.551701,2.73881,Palma de Mallorca Airport,Palma de Mallorca
+42.77,-1.64633,Pamplona Airport,Pamplona
+37.951099,-1.23032,Alcantarilla Air Base,Alcantarilla
+38.856479,-3.969944,Ciudad Real International Airport,Ciudad Real
+41.147509,1.168354,Reus Airport,Reus
+36.64519882,-6.349460125,Rota Naval Station Airport,Rota
+40.952099,-5.50199,Salamanca Airport,Salamanca
+43.356499,-1.79061,San Sebastián Airport,Hondarribia
+42.896301,-8.41514,Santiago-Rosalía de Castro Airport,Santiago de Compostela
+42.3386,1.40917,Pirineus - la Seu d'Urgel Airport,La Seu d'Urgell Pyrenees and Andorra
+40.410269,-1.217366,Teruel Airport,Teruel
+40.487875,-3.456808,Madrid–Torrejón Airport / Torrejón Air Base,Madrid
+39.489162,-0.480961,Valencia Airport,Valencia
+41.7061,-4.85194,Valladolid Airport,Valladolid
+42.882801,-2.72447,Vitoria Airport,Alava
+42.2318,-8.62677,Vigo Airport,Vigo
+43.427101,-3.82001,Seve Ballesteros-Santander Airport,Santander
+41.666199,-1.04155,Zaragoza Airport,Zaragoza
+37.417999,-5.89311,Seville Airport,Seville
+50.962101,1.95476,Calais Marck Airport,Calais
+49.868871,3.029566,Péronne Saint-Quentin Airfield,Monchy-Lagache. Somme
+50.518284,1.621656,Le Touquet-Côte d'Opale Airport,Le Touquet-Paris-Plage
+50.327823,3.461061,Valenciennes-Denain Airfield,Prouvy
+49.873004,2.387074,Amiens Glisy Airfield,Amiens
+44.174171,0.59309,Agen La Garenne airport,Agen
+44.533298,-1.125,Cazaux (BA 120) Air Base,Cazaux (La Teste-de-Buch)
+44.82865,-0.715356,Bordeaux–Mérignac Airport,Bordeaux
+44.825298,0.518611,Bergerac Dordogne-Périgord airport,Bergerac
+43.545601,1.3675,Toulouse-Francazal (BA 101) Air Base,Toulouse/Francazal. Haute-Garonne
+45.658298,-0.3175,Cognac-Châteaubernard (BA 709) Air Base,Cognac/Châteaubernard
+46.179199,-1.19528,La Rochelle Île de Ré Airport,La Rochelle
+46.5877,0.306666,Poitiers-Biard Airport,Poitiers/Biard
+46.222599,2.36396,Montluçon-Guéret Airport,Lépaud. Creuse
+45.862801,1.17944,Limoges Airport,Limoges/Bellegarde
+43.911701,-0.5075,Mont-de-Marsan (BA 118) Air Base,Mont-de-Marsan
+46.313477,-0.394529,Niort - Marais Poitevin Airport,Niort/Souché
+43.629101,1.36382,Toulouse-Blagnac Airport,Toulouse/Blagnac
+43.380001,-0.418611,Pau Pyrénées Airport,Pau/Pyrénées (Uzein)
+43.178699,-0.006439,Tarbes-Lourdes-Pyrénées Airport,Tarbes/Lourdes/Pyrénées
+45.729198,0.221456,Angoulême Brie-Champniers airport,Angoulême
+45.198101,0.815556,Périgueux-Bassillac Airport,Périgueux/Bassillac
+43.468372,-1.523223,Biarritz Pays Basque airport,Biarritz
+44.351398,1.47528,Cahors Lalbenque airport,Cahors
+43.007801,1.10315,Aérodrome de Saint-Girons - Antichan,Saint-Girons/Antichan
+44.596401,-1.11083,Aérodrome d'Arcachon-La Teste-de-Buch,Arcachon/La Teste-de-Buch
+43.913898,2.11306,Albi Le Sequestre airport,Albi
+43.556301,2.28918,Castres Mazamet Airport,Castres
+44.407902,2.48267,Rodez–Aveyron Airport,Rodez/Marcillac
+45.628101,-0.9725,Royan-Médis Airport,Royan/Médis
+43.683606,0.599747,Auch Gers Airfield,Auch
+45.887798,-0.983056,Rochefort-Saint-Agnant (BA 721) Airport,Rochefort/Saint-Agnant
+48.109901,7.35901,Colmar Houssen airport,Colmar
+47.038955,5.427589,Dole Tavaux Airport,Dole
+49.122398,5.46905,Verdun-Le Rozelier Airfield,Sommedieue. Meuse
+44.544367,4.372194,Aubenas-South Ardèche Airport,Lanas. Ardèche
+48.982101,6.25132,Metz-Nancy-Lorraine Airport,Goin
+47.560299,-0.312222,Angers Marcé airport,Angers
+42.5527,9.48373,Bastia-Poretta International airport,Bastia
+42.530422,8.792984,Calvi Sainte Catherine Airport,Calvi
+41.50185,9.097092,Figari Sud-Corse Airport,Figari
+41.923599,8.80292,Ajaccio Napoléon Bonaparte airport,Ajaccio
+41.9244,9.406,Solenzara (BA 126) Air Base,Solenzara
+47.850201,3.49711,Auxerre Branches airport,Auxerre
+45.6381,5.88023,Chambéry Aix les Bains airport,Chambéry
+45.786701,3.16917,Clermont-Ferrand Auvergne airport,Clermont-Ferrand
+47.060158,2.369633,Bourges airport,Bourges
+46.192001,6.26839,Annemasse Airfield,Annemasse
+45.725996,5.090139,Lyon Saint-Exupéry Airport,Colombier-Saugnieu. Rhône
+46.295131,4.795977,Mâcon-Charnay Airfield,Charnay-lès-Mâcon. Saône-et-Loire
+46.414019,4.014177,Saint-Yan Airport,L'Hôpital-le-Mercier. Saône-et-Loire
+46.053818,3.999023,Roanne-Renaison Airport,Saint-Léger-sur-Roanne
+45.928947,6.0987,Annecy Meythet airport,Annecy
+45.3629,5.32937,Grenoble Alpes Isère Airport,Grenoble
+44.9216,4.9699,Valence-Chabeuil Airport,Chabeuil. Drôme
+46.16969,3.403637,Vichy-Charmeil Airport,Charmeil. Allier
+44.891399,2.42194,Aurillac airport,Aurillac
+46.860221,1.728326,Châteauroux Déols airport,Châteauroux
+45.727947,4.943991,Lyon Bron Airport,Chassieu. Lyon
+43.384701,6.38714,Le Luc-Le Cannet Airfield,Le Cannet-des-Maures. Var
+43.547998,6.955176,Cannes Mandelieu Airport,Cannes
+45.5406,4.29639,Saint-Étienne-Bouthéon Airport,Andrézieux-Bouthéon. Loire
+43.522701,4.92384,Istres-Le Tubé Air Base,Istres. Bouches-du-Rhône
+43.216,2.30632,Carcassonne Salvaza Airport,Carcassonne
+43.438088,5.2125,Marseille Provence Airport,Marignane. Bouches-du-Rhône
+43.658401,7.21587,Nice-Côte d'Azur Airport,Nice. Alpes-Maritimes
+44.140499,4.86672,Orange-Caritat (BA 115) Air Base,Orange. Vaucluse
+42.740398,2.87067,Perpignan-Rivesaltes (Llabanère) Airport,Perpignan/Rivesaltes
+43.252499,5.78519,Le Castellet Airport,Le Castellet. Var
+44.069698,4.14212,Aérodrome d'Alès Cévennes,Alès/Deaux
+43.576199,3.96301,Montpellier-Méditerranée Airport,Montpellier/Méditerranée
+43.323502,3.3539,Béziers Vias airport,Béziers
+43.907299,4.90183,Avignon Caumont airport,Avignon
+43.6064,5.10925,Salon-de-Provence (BA 701) Air Base,Salon
+44.502102,3.53282,Mende-Brenoux Airfield,Mende/Brénoux
+47.053299,2.6325,Avord (BA 702) Air Base,Avord
+49.454399,2.11278,Beauvais-Tillé airport,Beauvais
+48.057907,1.379309,Châteaudun Airfield,Châteaudun. Eure-et-Loir
+49.028702,1.21986,Évreux-Fauville (BA 105) Air Base,Fauville. Eure
+49.534038,0.088406,Le Havre-Octeville Airport,Le Havre
+50.143501,1.831891,Abbeville-Buigny Baie de Somme Airfield,Buigny-Saint-Maclou
+47.987801,1.76056,Orléans-Bricy (BA 123) Air Base,Boulay-les-Barres. Loiret
+48.77333,4.20611,Chalons Vatry airport,Chalons en Champagne
+49.384887,1.179142,Rouen Vallée de Seine Airport,Boos
+47.432201,0.727606,Tours Val de Loire Airport,Tours. Indre-et-Loire
+48.032208,-0.743999,Laval-Entrammes Airport,Laval. Mayenne
+48.962276,2.436539,Paris-Le Bourget International Airport,Paris
+49.253502,2.51914,Creil Air Base,Creil
+49.00896,2.554117,Charles de Gaulle International Airport,Paris (Roissy-en-France. Val-d'Oise)
+48.604698,2.67112,Melun-Villaroche Airfield,Moissy-Cramayel. Seine-et-Marne
+48.7519,2.10619,Toussus-le-Noble Airport,Toussus-le-Noble. Yvelines
+48.729499,2.358963,Paris-Orly Airport,Paris (Orly. Val-de-Marne)
+49.096064,2.035543,Pontoise-Cormeilles Aerodrome,Cormeilles-en-Vexin. Val-d'Oise
+48.774406,2.203102,Vélizy-Villacoublay Air Base,Vélizy-Villacoublay. Yvelines
+48.322102,4.0167,Troyes-Barberey Airport,Barberey-Saint-Sulpice. Aube
+49.226898,5.67222,Lieutenant Étienne Mantoux Air Base,Rouvres-en-Woëvre
+47.002913,3.113114,Nevers-Fourchambault Airport,Marzy. Nièvre
+48.766203,7.200551,Phalsbourg-Bourscheid Air Base,Bourscheid
+50.566564,3.102429,Lille Airport,Lesquin
+50.618401,2.64224,Merville-Calonne Airport,Merville. Nord
+49.783901,4.64708,Charleville-Mézières Ardennes-Etienne Riché Airfield,Charleville-Mézières
+47.638588,6.204443,Vesoul-Frotey Airfield,Frotey-lès-Vesoul. Haute-Saône
+48.447899,-4.41854,Brest Bretagne airport,Brest
+49.650101,-1.47028,Cherbourg Manche airport,Cherbourg
+48.5877,-2.07996,Dinard Pleurtuit Saint-Malo airport,Dinard
+47.289398,-2.34639,La Baule-Escoublac Airport,La Baule-Escoublac
+48.883099,-1.56417,Granville Airport,Bréville-sur-Mer. Manche
+49.365237,0.154481,Deauville Normandie airport,Deauville
+47.760601,-3.44,Lorient South Brittany (Bretagne Sud) Airport,Lorient/Lann/Bihoué
+46.7019,-1.37863,La Roche-sur-Yon Les Ajoncs Airport,La Roche-sur-Yon
+48.5303,-4.15164,Landivisiau Air Base,Landivisiau
+49.17678,-0.454883,Caen Carpiquet airport,Caen
+48.2817,-4.44502,Lanvéoc-Poulmic Air Base,Lanvéoc/Poulmic
+47.948604,0.201702,Le Mans-Arnage Airport,Le Mans. Sarthe
+48.0695,-1.73479,Rennes-Saint-Jacques Airport,Saint-Jacques-de-la-Lande. Ille-et-Vilaine
+48.754398,-3.47166,Lannion Airport,Lannion
+47.973031,-4.169655,Quimper-Cornouaille Airport,Quimper/Pluguffan
+47.153198,-1.61073,Nantes Atlantique Airport,Nantes
+48.538628,-2.853518,Saint-Brieuc-Armor Airport,Trémuson. Côtes-d'Armor
+48.60319901,-3.815779924,Morlaix-Ploujean Airport,Morlaix/Ploujean
+47.723301,-2.71856,Vannes-Meucon Airport,Vannes/Meucon
+47.31142,-2.152634,Saint-Nazaire-Montoir Airport,Saint-Nazaire/Montoir
+47.60068,7.521117,EuroAirport Basel–Mulhouse–Freiburg,Bâle / Mulhouse
+47.268902,5.09,Dijon Longvic airport,Dijon
+48.325001,6.06998,Épinal Mirecourt Airport,Épinal
+48.636002,4.89942,Saint-Dizier – Robinson Air Base,Saint-Dizier
+45.039722,1.485556,Brive Souillac airport,Brive
+47.487,6.79054,Montbéliard-Courcelles Airfield,Courcelles-lès-Montbéliard
+48.692101,6.23046,Nancy-Essey Airport,Tomblaine. Meurthe-et-Moselle
+48.583099,5.955,Nancy-Ochey (BA 133) Air Base,Thuilley-aux-Groseilles
+48.5383,7.62823,Strasbourg Airport,Strasbourg
+47.787747,6.353419,Luxeuil-Saint-Sauveur (BA 116) Air Base,Saint-Sauveur
+43.097301,6.14603,Toulon-Hyères Airport,Hyères. Var
+43.757401,4.41635,Nîmes-Arles-Camargue Airport,Nîmes/Garons
+45.987301,5.32844,Ambérieu Air Base (BA 278),Ambérieu
+37.9207,21.292601,Andravida Air Base,Andravida
+40.8559,25.956301,Alexandroupoli Democritus Airport,Alexandroupolis
+37.936401,23.9445,Athens Eleftherios Venizelos International Airport,Spata-Artemida
+39.219601,22.7943,Nea Anchialos National Airport,Nea Anchialos
+38.063801,23.556,Elefsis Air Base,Elefsina
+38.34320068,26.1406002,Chios Island National Airport,Chios Island
+39.6964,20.8225,Ioannina King Pyrrhus National Airport,Ioannina
+35.339699,25.1803,Heraklion International Nikos Kazantzakis Airport,Heraklion
+38.120098,20.5005,"Kefalonia International Airport ""Anna Pollatou""",Kefallinia Island
+37.06829834,22.02549934,Kalamata Airport,Kalamata
+36.794523,27.09115,"Kos International Airport ""Ippokratis""",Kos Island
+35.421398,27.146,Karpathos Airport,Karpathos Island
+39.60145,19.912179,Corfu Ioannis Kapodistrias International Airport,Kerkyra (Corfu)
+40.9133,24.6192,Kavala Alexander the Great International Airport,Kavala
+40.286098,21.840799,Kozani National Airport Filippos,Kozani
+37.435101,25.348101,Mykonos Island National Airport,Mykonos
+39.057406,26.598629,Mytilene International Airport,Mytilene
+38.925499,20.765301,Aktion National Airport,Preveza
+36.405399,28.086201,"Rhodes International Airport ""Diagoras""",Rhodes
+38.1511,21.4256,Patras Araxos Agamemnon Airport,Patras
+35.531207,24.150673,Chania International Airport,Souda
+39.177101,23.5037,Skiathos Island National Airport,Skiathos
+37.689999,26.911699,Samos Airport,Samos Island
+36.400045,25.478638,Santorini International Airport,Santorini Island
+35.21609879,26.10129929,Sitia Airport,Crete Island
+38.339802,23.565001,Tanagra Air Base,Tanagra
+40.51928,22.970009,Thessaloniki Macedonia International Airport,Thessaloniki
+37.7509,20.8843,"Zakynthos International Airport ""Dionysios Solomos""",Zakynthos
+47.43018,19.262393,Budapest Liszt Ferenc International Airport,Budapest
+47.489469,21.616278,Debrecen International Airport,Debrecen
+46.9175,19.749201,Kecskemét Air Base,Kecskemét
+45.988891,18.242044,Pécs-Pogány International Airport,Pécs
+47.628436,17.804718,Győr-Pér Airport,Győr
+46.686391,17.159084,Hévíz–Balaton Airport,Sármellék
+47.122897,20.2355,Szolnok Air Base,Szolnok
+46.393101,17.9175,Taszár Air Base,Taszár
+47.345299,18.980801,Tököl Airport,Tököl
+41.538443,15.717181,Amendola Air Base,San Giovanni Rotondo (FG)
+38.9972,17.0802,Crotone Sant'Anna Pythagoras Airport,Isola di Capo Rizzuto (KR)
+41.138901,16.760599,Bari Karol Wojtyła International Airport,Bari
+41.433596,15.534566,Foggia Gino Lisa Airport,Foggia (FG)
+40.517502,17.4032,Taranto-Grottaglie Marcello Arlotta Airport,Grottaglie
+40.239201,18.133301,Lecce Galatina Air Base / Galatina Fortunato Cesari Airport,Galatina (LE)
+42.431079,14.182981,Abruzzo Airport,Pescara
+40.6576,17.947001,Brindisi Airport,Brindisi
+40.767799,16.9333,Gioia del Colle Antonio Ramirez Air Base,Gioia del Colle (BA)
+38.906214,16.246007,Lamezia Terme Sant'Eufemia International Airport,Lamezia Terme (CZ)
+36.99583,14.60889,Comiso Airport,Comiso
+37.466801,15.0664,Catania-Fontanarossa Airport,Catania
+35.497898,12.6181,Lampedusa Airport,Lampedusa
+36.816502,11.9689,Pantelleria Airport,Pantelleria (TP)
+38.175999,13.091,Falcone–Borsellino Airport,Palermo
+38.115919,13.31337,Palermo-Boccadifalco Airport,Palermo
+38.071201,15.6516,Reggio Calabria Airport,Reggio Calabria
+37.9114,12.488,Vincenzo Florio Airport Trapani-Birgi,Trapani (TP)
+37.401699,14.9224,Sigonella Navy Air Base,Sigonella (CT)
+46.023333,11.125,Trento-Mattarello Airport,Trento (TN)
+40.632099,8.29077,Alghero-Fertilia Airport,Alghero
+39.354198,8.97248,Decimomannu Air Base,Decimomannu
+39.251499,9.05428,Cagliari Elmas Airport,Cagliari
+40.898953,9.518457,Olbia Costa Smeralda Airport,Olbia (SS)
+39.9188,9.68298,Tortolì Airport,Arbatax
+45.4953,8.10278,Biella-Cerrione Airfield,Cerrione (BI)
+45.742199,8.888233,Varese-Venegono Airport,Venegono Superiore (VA)
+45.084444,7.603056,Torino-Aeritalia Airport,Torino (TO)
+45.6306,8.72811,Milan Malpensa International Airport,Ferno (VA)
+45.669362,9.708851,Il Caravaggio International Airport,Orio al Serio (BG)
+45.200802,7.64963,Turin Airport,Caselle Torinese (TO)
+44.050598,8.12743,Riviera Villanova d'Albenga International Airport,Villanova d'Albenga (SV)
+44.412039,8.840732,Genoa Cristoforo Colombo Airport,Genova (GE)
+45.445099,9.27674,Milano Linate Airport,Segrate (MI)
+45.529598,8.66922,Cameri Air Base,Cameri (NO)
+44.826351,10.29705,Parma Airport,Parma (PR)
+44.779999,8.78639,Novi Ligure Eugenio Mossi Airfield,Novi Ligure (AL)
+44.91442,9.722318,Piacenza San Damiano Air Base,San Damiano (PC)
+45.738552,7.3683,Aosta Corrado Gex Airport,Saint-Christophe (AO)
+44.547458,7.623045,Cuneo International Airport,Levaldigi (CN)
+46.031898,12.596503,Aviano Air Base,Aviano (PN)
+46.459245,11.326125,Bolzano Airport,Bolzano (BZ)
+44.224201,12.3072,Cervia Air Base,Cervia (RA)
+44.5354,11.2887,Bologna Guglielmo Marconi Airport,Bologna
+45.648399,12.1944,Treviso Airport,Treviso (TV)
+45.978699,13.0493,Udine-Rivolto Air Base,Codroipo (UD)
+44.194801,12.0701,Forlì-Luigi Ridolfi International Airport,Forlì (FC)
+45.432551,10.268612,Ghedi Air Base,Ghedi (BS)
+45.428902,10.3306,Brescia Gabriele d'Annunzio Airport,Montichiari (BS)
+45.827862,13.466672,Trieste Airport,Ronchi dei Legionari/Trieste
+44.020024,12.612198,Federico Fellini International Airport,Rimini (RN)
+45.684382,12.086594,Istrana Air Base,Istrana (TV)
+45.395316,11.847124,Padova Gino Allegri Airfield,Padova (PD)
+45.394955,10.887303,Verona Villafranca Valerio Catullo Airport,Caselle (VR)
+43.616299,13.3623,Marche Airport,Falconara Marittima (AN)
+45.505299,12.3519,Venice Marco Polo Airport,Venezia (VE)
+43.254942,11.255084,Siena-Ampugnano Airport,Ampugnano (SI)
+44.087375,9.987877,Sarzana-Luni Bartolomeo Arrigoni Airport,Sarzana (SP)
+41.798769,12.595331,Ciampino–G. B. Pastine International Airport,Rome
+41.654499,12.4452,Pratica di Mare Air Base,Pomezia (RM)
+41.804532,12.251998,Rome–Fiumicino Leonardo da Vinci International Airport,Rome
+41.990299,12.7408,Guidonia Air Base,Guidonia (RM)
+40.620399,14.9113,Salerno Costa d'Amalfi Airport,Salerno
+42.760871,10.239811,Marina di Campo Airport,Campo nell'Elba (LI)
+41.5424,12.909,Latina Air Base,Latina
+41.060799,14.0819,Grazzanise Air Base,Caserta
+40.886002,14.2908,Naples International Airport,Napoli
+43.683899,10.3927,Pisa International Airport,Pisa (PI)
+43.808558,11.202822,Florence Airport. Peretola,Firenze (FI)
+42.759701,11.0719,Grosseto Corrado Baccarini Air Base / Grosseto Airport,Grosseto (GR)
+41.952096,12.502231,Rome Urbe Airport,Rome
+42.435297,12.061362,Viterbo Airport,Viterbo
+43.095901,12.5132,Perugia San Francesco d'Assisi – Umbria International Airport,Perugia (PG)
+45.900002,15.5302,Cerklje ob Krki Air Base,Cerklje ob Krki
+46.223701,14.4576,Ljubljana Jože Pučnik Airport,Zgornji Brnik
+46.4799,15.6861,Maribor Edvard Rusjan Airport,Maribor
+45.47201,13.615951,Portorož Airport,Sečovlje
+48.948171,14.42832,České Budějovice South Bohemian Airport,České Budějovice
+49.939701,15.3818,Čáslav Air Base,Chotusice
+50.121399,14.5436,Prague–Kbely Air Base,Prague
+49.0294,17.439699,Kunovice Airport,Uherské Hradiště
+50.202999,12.915,Karlovy Vary Airport,Karlovy Vary
+49.675201,13.2746,Plzeň-Líně Airport,Plzen
+49.696301,18.111099,Leoš Janáček Airport Ostrava,Mošnov
+49.166272,16.123981,Náměšť Air Base,Sedlec
+50.015049,15.73981,Pardubice Airport,Pardubice
+49.4258,17.404699,Přerov Air Base,Přerov
+50.100874,14.259911,Václav Havel Airport Prague,Prague
+49.151276,16.693972,Brno-Tuřany Airport,Brno
+50.216599,14.3958,Vodochody Airport,Vodochody
+32.011398,34.8867,Ben Gurion International Airport,Tel Aviv
+31.8395,34.8218,Tel Nof Air Base,Rehovot
+29.727009,35.014116,Ramon International Airport,Eilat
+32.810219,35.043719,Uri Michaeli Haifa International Airport,Haifa
+32.980999,35.571899,Rosh Pina Airport,Rosh Pina
+31.328199,35.388599,Bar Yehuda Airfield,Masada
+31.20829964,35.01229858,Nevatim Air Base,Beersheba
+32.6651,35.179501,Ramat David Air Base,Haifa
+30.7761,34.666698,Ramon Air Base,Beersheba
+35.845932,14.491546,Malta International Airport,Valletta
+47.8433,16.260099,Wiener Neustadt East Airport,Wiener Neustadt
+46.9911,15.4396,Graz Airport,Feldkirchen bei Graz
+47.260201,11.344,Innsbruck Airport,Innsbruck
+46.642502,14.3377,Klagenfurt Airport,Klagenfurt am Wörthersee
+48.235362,14.188128,Linz-Hörsching Airport,Linz
+47.793301,13.0043,Salzburg Airport,Salzburg
+48.110298,16.5697,Vienna International Airport,Vienna
+47.836933,16.221838,Wiener Neustadt West Airport,Wiener Neustadt
+47.202801,14.7442,Hinterstoisser Air Base,Zeltweg
+38.883301,-9.0301,Alverca Air Base,Vila Franca de Xira
+36.97140121,-25.17060089,Santa Maria Airport,Vila do Porto
+41.8578,-6.70713,Bragança Airport,Bragança
+38.078899,-7.9324,Beja Airport / Airbase,Beja
+41.587,-8.445189,Braga Municipal Aerodrome,Braga
+39.844528,-7.439875,Aerodromo de Castelo Branco,Castelo Branco
+40.158758,-8.470815,Aerodromo Municipal de Coimbra,Coimbra
+38.724998,-9.35523,Cascais Airport,Cascais
+38.533501,-7.88964,Évora Airfield,Évora
+39.45529938,-31.13139915,Flores Airport,Santa Cruz das Flores
+37.015909,-7.970939,Faro - Gago Coutinho International Airport,Faro
+39.09220123,-28.02980042,Graciosa Airport,Santa Cruz da Graciosa
+38.51990128,-28.71590042,Horta Airport,Horta
+38.761799,-27.090799,Lajes Airport,Praia da Vitória
+32.697812,-16.774613,Cristiano Ronaldo International Airport,Funchal
+39.828335,-8.8875,Monte Real Air Base,
+38.70929,-9.03368,Montijo Air Base,Montijo
+40.915901,-8.64592,Ovar Air Base,Ovar
+37.74119949,-25.69790077,João Paulo II Airport,Ponta Delgada
+38.554298,-28.441299,Pico Airport,Pico Island
+37.1493,-8.58396,Portimão Airport,Portimão
+41.24810028,-8.681389809,Francisco de Sá Carneiro Airport,Porto
+33.07339859,-16.35000038,Porto Santo Airport,Vila Baleira
+38.7813,-9.13592,Lisbon Humberto Delgado Airport,Lisbon
+38.665501,-28.1758,São Jorge Airport,Velas
+39.211545,-8.057787,Aeródromo Municipal de Ponte de Sor,Ponte de Sor
+38.8311,-9.33955,Sintra Air Base,Sintra
+39.475101,-8.36458,Tancos Airbase,Tancos
+41.27729,-8.516209,Vilar de Luz Airfield,Maia
+41.2743,-7.72047,Vila Real Airport,Vila Real
+40.725498,-7.88899,Aerodromo Goncalves Lobato (Viseu Airport),Viseu
+44.941399,17.297501,Banja Luka International Airport,Mahovljani
+43.282489,17.846101,Mostar International Airport,Mostar
+43.8246,18.331499,Sarajevo International Airport,Sarajevo
+44.459858,18.723627,Tuzla International Airport,Dubrave Gornje
+44.3923,27.7267,Feteşti Borcea Air Base,Borcea
+45.2164,26.9786,Boboc Air Base,Boboc
+46.176136,21.264322,Arad International Airport,Arad
+46.5219,26.910299,Bacău George Enescu International  Airport,Bacău
+47.658444,23.464445,Maramureș International Airport,Tăuții-Măgherăuș
+44.503133,26.102944,Bucharest Băneasa Aurel Vlaicu International Airport,Bucharest
+45.70558,25.522871,Brașov-Ghimbav International Airport,Brașov (Ghimbav)
+44.362202,28.4883,Mihail Kogălniceanu International Airport,Constanța
+46.786042,23.685733,Avram Iancu Cluj International Airport,Cluj-Napoca
+45.420142,22.252507,Caransebeş Airport,Caransebeş
+46.5023,23.8859,Câmpia Turzii Air Base,Câmpia Turzii
+44.3181,23.888599,Craiova International Airport,Craiova
+47.179633,27.621431,Iaşi International Airport,Iaşi
+47.025299,21.9025,Oradea International Airport,Oradea
+44.571792,26.103285,Bucharest Henri Coandă International Airport,Otopeni
+45.785841,24.086666,Sibiu International Airport,Sibiu
+47.7033,22.8857,Satu Mare International Airport,Satu Mare
+47.6875,26.354099,Suceava Ștefan cel Mare International Airport,Suceava
+45.0625,28.7143,Tulcea Danube Delta Airport,Mihail Kogălniceanu
+46.467701,24.4125,Târgu Mureş Transilvania International Airport,Recea
+45.809898,21.3379,Timișoara Traian Vuia International Airport,Timişoara
+47.08390045,6.792840004,Les Eplatures Airport,La Chaux-de-Fonds
+46.238098,6.10895,Geneva International Airport,Geneva
+46.219166,7.326944,Sion Airport,Sion
+46.943901,8.28417,Alpnach Air Base,Alpnach
+47.398602,8.64823,Dübendorf Air Base,Zurich
+47.092444,8.305184,Emmen Air Base,Emmen
+46.8432,6.91506,Payerne Air Base,Payerne
+46.004299,8.91058,Lugano Airport,Agno
+46.912736,7.498819,Bern Airport,Bern
+47.181599,7.41719,Grenchen Airfield,Grenchen
+47.458056,8.548056,Zürich Airport,Zurich
+47.485001,9.56077,Sankt Gallen Altenrhein Airport,St. Gallen
+46.5341,9.88411,Engadin Airport,Samedan
+40.128101,32.995098,Esenboğa International Airport,Ankara
+39.94979858,32.68859863,Etimesgut Air Base,Ankara
+40.078899,32.565601,Akıncı Air Base,Ankara
+37.002102,35.4259,İncirlik Air Base,Sarıçam
+38.726398,30.601101,Afyon Air Base,Afyonkarahisar
+36.898701,30.800501,Antalya International Airport,Antalya
+36.947201,37.478699,Gaziantep Oğuzeli International Airport,Gaziantep
+41.314201,33.795799,Kastamonu Airport,Kastamonu
+37.979,32.561901,Konya Airport,Konya
+40.829399,35.521999,Amasya Merzifon Airport,Amasya
+39.813801,36.9035,Sivas Nuri Demirağ Airport,Sivas
+41.506401,32.0886,Zonguldak Çaycuma Airport,Zonguldak
+38.43529892,38.0909996,Malatya Erhaç Airport,Malatya
+38.770401,35.495399,Kayseri Erkilet International Airport,Kayseri
+39.4515,31.365299,Sivrihisar Airport,Sivrihisar
+40.32472,36.39056,Tokat Airport,Tokat
+37.78559875,29.70129967,Çardak Airport,Denizli
+38.7719,34.5345,Nevşehir Kapadokya Airport,Nevşehir
+40.971913,28.823714,İstanbul Atatürk Airport,Istanbul(Bakırköy)
+39.619301,27.926001,Balıkesir Airport,Balıkesir
+40.318001,27.977699,Bandırma Airport,Bandırma
+40.13769913,26.42679977,Çanakkale Airport,Çanakkale
+39.7841,30.5821,Eskişehir Air Base,Eskişehir
+38.2924,27.157,Adnan Menderes International Airport,Gaziemir
+38.513,27.010099,Çiğli Airbase,Çiğli
+39.426701,30.016899,Kütahya Airport,Kütahya
+38.681499,29.471701,Uşak Airport,Uşak
+40.735001,30.0833,Cengiz Topel Airport,Kartepe
+40.255199,29.562599,Bursa Yenişehir Airport,Yenişehir
+36.7131,28.7925,Dalaman International Airport,Dalaman
+38.808899,27.8339,Akhisar Airport / Akhisar Air Base,Akhisar
+41.138199,27.9191,Tekirdağ Çorlu Airport,Çorlu
+40.993,29.216499,İstanbul Samandıra Army Air Base,Ümraniye. Istanbul
+39.811644,30.519268,Hasan Polatkan Airport,Eskişehir
+39.111107,30.130405,Zafer Airport,Altıntaş
+38.597974,39.28348,Elazığ Airport,Elazığ
+40.966872,38.085995,Ordu–Giresun Airport,Ordu
+37.893902,40.201,Diyarbakır Airport,Diyarbakır
+39.71020126,39.52700043,Erzincan Airport,Erzincan
+39.956501,41.1702,Erzurum International Airport,Erzurum
+40.56219864,43.11500168,Kars Airport,Kars
+40.995098,39.7897,Trabzon International Airport,Trabzon
+38.46820068,43.33229828,Van Ferit Melen Airport,Van
+37.929001,41.1166,Batman Airport,Batman
+38.74779892,41.66120148,Muş Airport,Muş
+37.97890091,41.8404007,Siirt Airport,Siirt
+42.018313,35.071774,Sinop Airport,Sinop
+37.53882599,36.95352173,Kahramanmaraş Airport,Kahramanmaraş
+39.655642,43.025742,Ağrı Airport,Ağrı
+37.7314,38.468899,Adıyaman Airport,Adıyaman
+37.22330093,40.63169861,Mardin Airport,Mardin
+37.445663,38.895592,Şanlıurfa GAP Airport,Şanlıurfa
+39.976627,43.876648,Iğdır Airport,Iğdır
+38.860131,40.594489,Bingöl Airport,Bingöl
+37.3647,42.0582,Şırnak Şerafettin Elçi Airport,Şırnak
+37.5497,44.2381,Hakkari Yüksekova Airport,Hakkari
+36.36079,36.285589,Hatay Airport,Antakya
+36.891478,35.071235,Çukurova International Airport,Tarsus
+37.8554,30.368401,Süleyman Demirel International Airport,Isparta
+39.552533,27.010192,Balıkesir Koca Seyit Airport,Edremit
+37.249314,27.66401,Milas Bodrum International Airport,Bodrum
+36.298832,32.297017,Gazipaşa-Alanya Airport,Gazipaşa
+41.253988,36.567546,Samsun-Çarşamba Airport,Samsun
+40.898602,29.3092,Istanbul Sabiha Gökçen International Airport,Pendik. Istanbul
+41.274874,28.732136,İstanbul Airport,Istanbul
+41.179766,40.848802,Rize–Artvin Airport,Rize
+47.837666,27.781108,Bălți-Leadoveni International Airport,Bălți
+47.862701,28.212799,Mărculești Air Base,Mărculeşti
+45.8438,28.2637,Cahul International Airport,Cahul
+46.92774,28.931704,Chişinău International Airport,Chişinău
+46.868099,29.590599,Tiraspol Airfield,Tiraspol
+41.18,20.7423,Ohrid St. Paul the Apostle Airport,Ohrid
+41.958087,21.622581,Skopje International Airport,Ilinden
+36.151679,-5.34978,Gibraltar Airport,Gibraltar
+44.818401,20.309099,Belgrade Nikola Tesla Airport,Belgrade
+44.935299,20.2575,Batajnica Air Base,Zemun
+43.817519,20.586662,Morava Airport,Kraljevo
+43.336538,21.856242,Niš Constantine the Great Airport,Niš
+42.359402,19.2519,Podgorica Airport / Podgorica Golubovci Airbase,Podgorica
+42.404701,18.723301,Tivat Airport,Tivat
+43.898899,19.697701,Ponikve Airport,Stapari
+31.50191,106.034417,Langzhong Gucheng Airport,Nanchong (Langzhong)
+48.1702,17.2127,M. R. Štefánik Airport,Bratislava
+48.663101,21.2411,Košice International Airport,Košice
+48.402,17.118401,Malacky/Kuchyňa Air Base,Kuchyňa
+48.62519836,17.82839966,Piešťany Airport,Piešťany
+48.63779831,19.13409996,Sliač Airport,Sliač
+49.070994,20.241394,Poprad-Tatry Airport,Poprad
+49.233292,18.613386,Žilina-Dolný Hričov Airport,Dolný Hričov
+45.9467,109.1233,Shine Bulagin Hural Air Base,Dalanjargalan
+27.5403,100.7593,Ninglang Luguhu Airport,Ninglang
+28.1838,84.0147,Pokhara International Airport,Pokhara
+34.209999,62.228298,Herat - Khwaja Abdullah Ansari International Airport,Guzara
+34.946098,69.264999,Bagram Airfield,Bagram
+34.399799,70.498596,Jalalabad Airport,Jalalabad
+34.565899,69.212303,Kabul International Airport,Kabul
+31.505769,65.847963,Ahmad Shah Baba International Airport,Kandahar
+33.284605,69.80734,Khost International Airport,Khost
+35.930801,64.760902,Maymana Zahiraddin Faryabi Airport,Maymana
+36.70412,67.210459,Mazar-i-Sharif International Airport,Mazar-i-Sharif
+36.6651,68.910797,Kunduz Airport,Kunduz
+26.267295,50.63764,Bahrain International Airport,Manama
+25.9184,50.590599,Sheik Isa Air Base,Sitrah
+21.4375,39.994202,Mecca East Airport,Mecca
+21.226999,55.2673,Aradah Airport,Ardah
+18.2404,42.656601,Abha International Airport,Abha
+25.285299,49.485199,Al-Ahsa International Airport,Hofuf
+26.483634,38.117048,Al-Ula International Airport,Al-Ula
+20.298506,41.636153,King Saud Bin Abdulaziz (Al Baha) Airport,Al-Baha
+19.9844,42.620899,Bisha Airport,Bisha
+26.4691,49.798209,King Fahd International Airport,Ad Dammam
+24.4499,44.121201,Dawadmi Domestic Airport,Dawadmi
+26.2654,50.152,King Abdulaziz Air Base,Dhahran
+16.9011,42.5858,Jizan Regional Airport / King Abdullah bin Abdulaziz Airport,Jizan
+26.302799,43.774399,Prince Naif bin Abdulaziz International Airport,Qassim
+31.412413,37.278898,Gurayat Domestic Airport,Gurayat
+27.437901,41.686298,Hail International Airport,Hail
+27.039,49.405102,Jubail Airport,Jubail
+21.348101,39.173,King Faisal Naval Base,Jeddah
+21.680241,39.157436,King Abdulaziz International Airport,Jeddah
+27.9009,45.528198,King Khaled Military City Airport,King Khaled Military City
+18.2973,42.803501,King Khalid Air Base,Khamis Mushait
+24.5534,39.705101,Prince Mohammad Bin Abdulaziz Airport,Medina
+17.611401,44.419201,Najran Domestic Airport,Najran
+27.924261,35.29358,Neom Bay Airport,Sharma
+28.335726,46.127108,Qaisumah–Hafar Al-Batin International Airport,Qaisumah
+24.0627,47.580502,Prince Sultan Air Base,Al Kharj
+29.62639999,43.49060059,Rafha Domestic Airport,Rafha
+24.9576,46.698799,King Khalid International Airport,Riyadh
+28.079599,48.611,Ras Mishab Airport,Al Mishab
+30.90660095,41.13819885,Arar Domestic Airport,Arar
+26.723101,50.0308,Ras Tanura Airport,Ras Tanura
+17.4669,47.121399,Sharurah Domestic Airport,Sharurah
+29.783301,40.100905,Al-Jawf International Airport,Al-Jawf
+28.3711,36.624865,Prince Sultan bin Abdulaziz International Airport,Tabuk
+21.484739,40.544074,Taif International Airport,Taif
+27.8678,48.7691,Ras Tanajib Airport,As Saffaniyah
+31.692188,38.731544,Turaif Domestic Airport,Turaif
+20.504299,45.1996,Wadi Al Dawasir Domestic Airport,Wadi Al Dawasir
+26.198601,36.476398,Al Wajh Domestic Airport,Al Wajh
+24.144199,38.0634,Prince Abdulmohsen Bin Abdulaziz International Airport,Yanbu
+30.367887,48.230075,Abadan Ayatollah Jami International Airport,Abadan
+32.434399,48.397598,Dezful Airport,Dezful
+30.7444,49.6772,Aghajari Airport,Omidiyeh
+30.333869,50.833796,Gachsaran Airport,Gachsaran
+32.001719,49.268599,Shahid Asiyaee Airport,Masjed Soleyman
+30.5562,49.151901,Mahshahr Airport,Mahshahr
+31.3364,48.763789,Qasem Soleimani International Airport,Ahvaz
+25.8757,55.033001,Abu Musa Island Airport,Abu Musa
+28.94479942,50.83459854,Bushehr Airport,Bushehr
+27.820499,52.3522,Jam Airport,Jam
+26.525427,53.980462,Kish International Airport,Kish Island
+26.532283,54.82484,Bandar Lengeh International Airport,Bandar Lengeh
+27.379601,52.737701,Persian Gulf International Airport,Khiyaroo
+29.260503,50.322193,Khark Airport,Khark
+25.908899,54.539398,Siri Airport,Siri
+26.810742,53.354302,Lavan Airport,Lavan Airport
+34.34590149,47.15810013,Shahid Ashrafi Esfahani Airport,Kermanshah
+33.58660126,46.40480042,Ilam Airport,Ilam
+33.4353981,48.28290176,Khoram Abad Airport,
+35.2458992,47.00920105,Sanandaj Airport,
+33.895302,51.577,Kashan Airport,Kashan
+32.755142,51.883877,Isfahan Shahid Beheshti International Airport,Isfahan
+32.621101,51.696999,Badr Air Base,Esfahan
+32.29719925,50.84220123,Shahrekord Airport,Shahrekord
+37.323333,49.617778,Sardar-e-Jangal Airport,Rasht
+34.866416,48.56069,Hamadan Airport,Hamadan
+35.211601,48.6534,Nojeh Air Base,Amirabad
+35.41609955,51.15219879,Imam Khomeini International Airport,Tehran
+35.689175,51.314392,Mehrabad International Airport,Tehran
+36.240101,50.0471,Qazvin Airport,Qazvin
+35.7761,50.826698,Payam International Airport,Karaj
+27.2183,56.3778,Bandar Abbas International Airport,Bandar Abbas
+28.723519,57.675037,Jiroft Airport,Jiroft
+30.271276,56.949692,Ayatollah Hashemi Rafsanjani International Airport,Kerman
+29.0842,58.450001,Bam Airport,Bam
+26.754639,55.902353,Qeshm International Airport,Qeshm(Dayrestan)
+30.298345,56.048979,Rafsanjan Airport,Rafsanjan
+29.5509,55.672699,Sirjan Airport,Sirjan
+32.896525,59.281258,Birjand International Airport,Birjand
+36.501202,61.064899,Sarakhs Airport,Sarakhs
+36.234821,59.642949,Mashhad International Airport,Mashhad
+37.49300003,57.30820084,Bojnord Airport,Bojnord
+36.16809845,57.59519958,Sabzevar National Airport,Sabzevar
+33.667801,56.8927,Tabas Airport,Tabas
+36.90940094,54.40129852,Gorgan Airport,Gorgan
+36.664286,51.46273,Nowshahr Airport,Nowshahr
+36.90701,50.687316,Ramsar Airport,Ramsar
+36.644408,53.188761,Sari Dasht-e Naz International Airport,Sari
+28.8918,53.723301,Fasa Airport,Fasa
+27.6747,54.383301,Lar Airport,Lar
+27.3727,53.188801,Lamerd Airport,Lamerd
+29.5392,52.589802,Shiraz Shahid Dastghaib International Airport,Shiraz
+30.702238,51.542988,Yasuj Airport,Yasuj
+38.32569885,48.42440033,Ardabil Airport,Ardabil
+37.66809845,45.06869888,Urmia Airport,Urmia
+38.1339,46.235001,Tabriz International Airport,Tabriz
+39.191293,44.928505,Maku National Airport,Showt
+36.77370071,48.3594017,Zanjan Airport,Zanjan
+31.9048996,54.2765007,Shahid Sadooghi Airport,Yazd
+31.098301,61.5439,Zabol Airport,Zabol
+25.44319,60.382167,Chabahar Konarak International Airport,Konarak
+29.4757,60.9062,Zahedan International Airport,Zahedan
+27.236099,60.720001,Iranshahr Airport,Iranshahr
+31.72260094,35.99319839,Queen Alia International Airport,Amman
+31.9727,35.9916,Marka International (Amman Civil) Airport,Amman
+29.611601,35.018101,King Hussein International Airport,Aqaba
+31.8256,36.782001,Muwaffaq Salti Air Base,Al Azraq
+28.93479919,47.79190063,Ahmed Al Jaber Air Base,Ahmed Al Jaber AB
+29.346905,47.520118,Ali Al Salem Air Base,Al Damaikhi
+29.224487,47.969813,Kuwait International Airport,Kuwait City
+33.819833,35.487443,Beirut Rafic Hariri International Airport,Beirut
+34.589298,36.011299,Rene Mouawad Air Base,Tripoli
+33.85079956,35.98770142,Rayak Air Base,Rayak
+19.501944,57.634167,Duqm International Airport,Duqm
+23.640556,57.4875,Mussanah Airport,Al Masna'ah
+22.25691,59.74067,Ras al Hadd Airport,Ras ar Ruays
+24.440966,54.649237,Zayed International Airport,Abu Dhabi
+24.427062,54.459866,Al Bateen Executive Airport,Abu Dhabi
+24.2617,55.6092,Al Ain International Airport,Al Ain
+24.24819946,54.54769897,Al Dhafra Air Base,
+24.283611,52.580278,Sir Bani Yas Airport,Sir Bani Yas
+25.24979,55.370992,Dubai International Airport,Dubai
+25.02680016,55.36619949,Al Minhad Air Base,Dubai
+24.896171,55.16235,Al Maktoum International Airport,Dubai(Jebel Ali)
+25.108411,56.328061,Fujairah International Airport,Fujairah
+25.613501,55.938801,Ras Al Khaimah International Airport,Ras Al Khaimah
+25.3286,55.5172,Sharjah International Airport,Sharjah
+26.171,56.240601,Khasab Airport,Khasab
+20.6754,58.890499,RAFO Masirah,Masirah
+23.600218,58.285268,Muscat International Airport,Muscat/Seeb
+17.0387,54.091301,Salalah International Airport,Salalah
+24.38604,56.62541,Suhar International Airport,Suhar
+17.666,54.024601,Thumrait Air Base,Thumrait
+27.8465,65.160004,Shamsi Airfield,Washuk
+29.34810066,71.71800232,Bahawalpur Airport,Bahawalpur
+35.886213,71.799922,Chitral Airport,Chitral
+29.96100044,70.48590088,Dera Ghazi Khan Airport,Dera Ghazi Khan
+31.909401,70.896599,Dera Ismael Khan Airport [IN-ACTIVE],Dera Ismael Khan
+31.364923,72.995319,Faisalabad International Airport,Faisalabad
+25.296733,62.498822,New Gwadar International Airport,Gurandani
+35.91880035,74.33360291,Gilgit Airport,Gilgit
+33.549,72.82566,Islamabad International Airport,Attock
+28.28420067,68.4496994,Shahbaz Air Base,Jacobabad
+24.9065,67.160797,Jinnah International Airport,Karachi
+31.521601,74.403603,Allama Iqbal International Airport,Lahore
+33.05009842,73.63839722,Mangla Airport,Mangla
+32.56309891,71.5707016,Mianwali Air Base,Mianwali
+27.335199,68.143097,Moenjodaro Airport,Moenjodaro
+24.89360046,66.938797,Masroor Air Base,Karachi
+33.86909866,72.40090179,Minhas Air Base,Kamra
+30.203199,71.419098,Multan International Airport,Multan
+26.2194,68.390099,Shaheed Benazirabad Airport,Nawabashah
+26.9545,64.1325,Panjgur Airport,Panjgur
+25.290501,63.3451,Pasni Airport,Pasni
+33.9939,71.514603,Bacha Khan International Airport,Peshawar
+30.2514,66.937798,Quetta International Airport,Quetta
+28.38389969,70.27960205,Shaikh Zaid Airport,Rahim Yar Khan
+33.616699,73.099197,PAF Base Nur Khan (Benazir Bhutto International Airport),Rawalpindi
+30.75810051,72.28250122,Rafiqui Air Base,Shorkot
+34.08110046,71.97260284,Risalpur Air Base,Risalpur
+33.849701,73.798103,Rawalakot Airport,Rawalakot
+35.33866,75.538648,Skardu International Airport,Skardu
+24.87420082,67.11849976,Faisal Air Base,Karachi
+27.722,68.791702,Begum Nusrat Bhutto International Airport Sukkur,Sukkur
+26.473101,67.717201,Sehwan Sharif Airport,Sehwan Sharif
+32.04859924,72.66500092,Mushaf Air Base,Sargodha
+34.813599,72.352798,Saidu Sharif Airport,Saidu Sharif
+32.535941,74.364623,Sialkot International Airport,Sialkot
+28.64509964,69.17690277,Sui Airport,Sui
+25.984767,63.028856,Turbat International Airport,Turbat
+31.35840034,69.46360016,Zhob Airport,Fort Sandeman
+33.78559875,42.44120026,Al Asad Air Base,Hīt
+33.33810043,43.5970993,Al Taqaddum Air Base,Al Habbaniyah
+33.940201,44.361599,Balad Southeast Airport / Joint Base Balad,Al Bakr
+33.262501,44.2346,Baghdad International Airport / New Al Muthana Air Base,Baghdad
+36.305801,43.1474,Mosul International Airport,Mosul
+36.236047,43.946615,Erbil International Airport,Arbil
+35.469501,44.3489,Kirkuk International Airport,Kirkuk
+30.549101,47.662102,Basra International Airport,Basra
+31.991116,44.405019,Al Najaf International Airport,Najaf
+35.7672,43.125099,Qayyarah West Airport,Qayyarah
+34.673199,43.542999,Al Sahra Army Air Field,Tikrit
+35.560487,45.315137,Jalal Talabani International Airport,Sulaymaniyah
+36.2831,42.403,Tall Afar Army Air Field,Tall Afar
+33.523899,44.256699,Al Taji Army Air Field,Taji
+30.935801,46.090099,Ali Air Base,Nasiriyah
+32.481998,45.757099,Ubaydah Bin Al Jarrah Airport,Al Kut
+35.73220062,37.10419846,Abu ad Duhur Air Base,Abu ad Duhur
+33.91899872,36.86660004,An Nasiriyah Air Base,
+33.07730103,36.55820847,Khalkhalah Air Base,Buraq
+34.56909943,36.57279968,Al Qusayr Air Base,Al-Qusayr
+36.181262,37.226869,Aleppo International Airport,Aleppo
+33.41149902,36.5155983,Damascus International Airport,Damascus
+35.2854,40.175999,Deir ez-Zor Airport,Deir ez-Zor
+37.020599,41.191399,Qamishli International Airport,Qamishli
+35.4011,35.9487,Latakia International Airport,Latakia
+34.5574,38.316898,Palmyra Airport,Tadmur
+25.259431,51.565528,Doha International Airport,Doha
+25.11730003,51.31499863,Al Udeid Air Base,Ar Rayyan
+25.273056,51.608056,Hamad International Airport,Doha
+13.1747,44.765099,Al Anad Air Base,Al Anad
+12.829564,45.029976,Aden International Airport,Aden
+14.5513,46.826199,Ataq Airport,Ataq
+16.193341,52.174186,Al Ghaydah International Airport,Al Ghaydah
+14.752039,42.975969,Hodeida International Airport,Hodeida
+14.662241,49.375289,Riyan International Airport,Mukalla(Riyan)
+15.4763,44.2197,Sanaa International Airport,Sanaa
+12.632093,53.906173,Socotra Airport,Mori
+15.965887,48.788146,Seiyun Hadhramaut International Airport,Seiyun
+13.686,44.139099,Taiz International Airport,Taiz
+6.91229,124.92446,Central Mindanao Airport,M'lang
+24.846862,70.096109,Mai Bakhtawar International Airport,Islamkot
+22.782499,120.263,Gangshan Air Force Base,Kaohsiung (Gangshan)
+24.4279,118.359001,Kinmen Airport,Shang-I
+22.672579,120.461712,Pingtung Air Force Base,Pingtung
+26.159656,119.958376,Matsu Nangan Airport,Matsu (Nangan)
+22.754856,121.101794,Taitung Airport,Taitung City
+22.577101,120.349998,Kaohsiung International Airport,Kaohsiung (Xiaogang)
+23.462577,120.390544,Chiayi Airport,Shuishang
+22.0411,120.730003,Hengchun Airport,Hengchun
+22.02700043,121.5350037,Lanyu Airport,Orchid Island
+24.2647,120.621002,Taichung International Airport / Ching Chuang Kang Air Base,Taichung (Qingshui)
+26.22414,120.002679,Matsu Beigan Airport,Matsu (Beigan)
+22.950399,120.206001,Tainan International Airport / Tainan Air Base,Tainan (Rende)
+24.81800079,120.939003,Hsinchu Air Base,Hsinchu City
+23.568701,119.627998,Penghu Magong Airport,Huxi
+22.7931,121.181999,Chihhang Air Base,Taitung City
+22.700199,120.482002,Pingtung Air Force Base North,Pingtung
+25.067244,121.552822,Taipei Songshan International Airport,Taipei (Songshan)
+25.0777,121.233002,Taiwan Taoyuan International Airport,Taoyuan
+24.023163,121.617991,Hualien Chiashan Airport,Hualien City
+35.76858,140.388714,Narita International Airport,Narita
+36.166801,137.923004,Shinshu-Matsumoto Airport,Matsumoto
+36.181456,140.414434,Ibaraki Airport,Omitama
+24.784153,141.32261,Ioto (Iwo Jima) Airbase,Ogasawara
+34.427299,135.244003,Kansai International Airport,Osaka
+33.66220093,135.3639984,Nanki Shirahama Airport,Shirahama
+34.632801,135.223999,Kobe Airport,Kobe
+35.512798,134.787003,Konotori Tajima Airport,Toyooka
+42.73329926,143.2169952,Tokachi-Obihiro Airport,Obihiro
+42.774753,141.690414,New Chitose Airport,Sapporo
+41.77,140.822006,Hakodate Airport,Hakodate
+42.794498,141.666,JASDF Chitose Air Base,Chitose
+43.041,144.192993,Kushiro Airport,Kushiro
+43.88059998,144.1640015,Memanbetsu Airport,Ōzora
+43.57749939,144.9600067,Nakashibetsu Airport,Nakashibetsu
+43.117447,141.38134,Sapporo Okadama Airport,Sapporo
+43.425154,144.741354,JASDF Kenebetsu Airfield,Betsukai
+42.890499,143.158005,Tokachi Airport,Obihiro
+45.40420151,141.8009949,Wakkanai Airport,Wakkanai
+32.482498,130.158997,Amakusa Airport,Amakusa
+33.74900055,129.7850037,Iki Airport,Iki
+33.93,131.279007,Yamaguchi Ube Airport,Ube
+34.28490067,129.3309937,Tsushima Airport,Tsushima
+44.30390167,143.404007,Monbetsu Airport,Monbetsu
+43.670799,142.447006,Asahikawa Airport,Higashikagura
+42.07170105,139.4329987,Okushiri Airport,Okushiri Island
+45.24200058,141.1860046,Rishiri Airport,Rishiri
+33.883099,130.653,JASDF Ashiya Air Base,Ashiya
+30.385599,130.658997,Yakushima Airport,Yakushima
+32.666302,128.832993,Fukue Airport,Goto
+33.58589935,130.451004,Fukuoka Airport,Fukuoka
+30.60510063,130.9909973,New Tanegashima Airport,Tanegashima
+31.8034,130.718994,Kagoshima Airport,Kagoshima
+31.877199,131.449005,Miyazaki Airport,Miyazaki
+33.47940063,131.7369995,Oita Airport,Oita
+33.845901,131.035004,Kitakyushu Airport,Kitakyushu
+33.1497,130.302002,Kyushu Saga International Airport,Saga
+32.837299,130.854996,Kumamoto Airport,Kumamoto
+32.916901,129.914001,Nagasaki Airport,Nagasaki
+31.36672,130.838805,JMSDF Kanoya Air Base,Kanoya
+33.685001,131.039993,JASDF Tsuiki Air Base,Tsuiki
+34.858398,136.804993,Chubu Centrair International Airport,Tokoname
+28.43059921,129.7129974,Amami Airport,Amami
+27.431604,128.705564,Okinoerabu Airport,Wadomari
+28.32130051,129.9279938,Kikai Airport,Kikai
+27.836382,128.881356,Tokunoshima Airport,Amagi
+35.255759,136.924095,Nagoya Airport / JASDF Komaki Air Base,Nagoya
+36.142799,136.223999,Fukui Airport,Fukui
+35.3941,136.869995,Gifu Airport,Gifu
+34.750198,137.703003,JASDF Hamamatsu Air Base,Hamamatsu
+36.393407,136.406895,Komatsu Airport / JASDF Komatsu Air Base,Kanazawa
+36.178388,133.323566,Oki Global Geopark Airport,Okinoshima
+34.795022,138.190976,Mount Fuji Shizuoka Airport,Makinohara / Shimada
+36.648416,137.187359,Toyama Kitokito Airport,Toyama
+37.293098,136.962006,Noto Satoyama Airport,Wajima
+34.812801,138.298004,JASDF Shizuhama Air Base,Yaizu
+34.4361,132.919006,Hiroshima Airport,Hiroshima
+34.756901,133.854996,Okayama Momotaro Airport,Okayama
+35.413601,132.889999,Izumo Enmusubi Airport,Izumo
+34.034746,131.548716,JASDF Hofu Airfield,Hofu
+35.492199,133.235992,Yonago Kitaro Airport / JASDF Miho Air Base,Yonago
+34.146333,132.247238,Iwakuni Kintaikyo Airport,Iwakuni
+33.545217,133.670166,Kochi Ryoma Airport,Nankoku
+33.826893,132.700114,Matsuyama Airport,Matsuyama
+34.780853,135.440829,Osaka Itami International Airport,Osaka
+35.530058,134.165023,Tottori Sand Dunes Conan Airport,Tottori
+34.132559,134.607816,Tokushima Awaodori Airport / JMSDF Tokushima Air Base,Tokushima
+34.214963,134.015454,Takamatsu Airport,Takamatsu
+34.67639923,131.7899933,Iwami Airport,Masuda
+34.59629822,135.6029968,Yao Airport,Yao
+40.733777,140.689477,Aomori Airport,Aomori
+38.4119,140.371002,Yamagata Airport,Higashine
+38.06019974,138.4140015,Sado Airport,Sado
+37.22740173,140.4309998,Fukushima Airport,Sukagawa
+40.551181,141.465428,JMSDF Hachinohe Air Base / Hachinohe Airport,Hachinohe
+39.4286,141.134995,Iwate Hanamaki Airport,Hanamaki
+39.615601,140.218994,Akita Airport,Akita
+40.703201,141.367996,Misawa Airport / Misawa Air Base,Misawa
+37.954166,139.112189,Niigata Airport,Niigata
+40.191898,140.371002,Odate Noshiro Airport,Kitaakita
+38.139702,140.917007,Sendai Airport,Natori
+38.4049,141.220001,JASDF Matsushima Air Base,Ishinomaki
+38.812199,139.787003,Shonai Airport,Shonai
+35.454601,139.449997,JMSDF Atsugi Air Base / Naval Air Facility Atsugi,Ayase / Yamato
+34.987099,139.828995,JMSDF Tateyama Air Base,Tateyama
+35.6717,139.528,Chofu Airport,Chofu
+33.114843,139.785645,Hachijojima Airport,Hachijojima
+35.8419,139.410995,Iruma Air Base,Sayama
+35.3983,139.910004,JGSDF Kisarazu Airfield,Kisarazu
+35.798901,140.011002,JMSDF Shimofusa Air Base,Matsudo
+34.7820015,139.3600006,Oshima Airport,Izu Oshima
+34.07360077,139.5599976,Miyakejima Airport,Miyakejima
+35.549678,139.786958,Tokyo Haneda International Airport,Tokyo
+36.5145,139.87101,Utsunomiya Air Field,Utsunomiya
+35.748501,139.348007,Yokota Air Base,Fussa
+34.991406,126.382814,Muan International Airport,Muan (Piseo-ri)
+35.123173,126.805444,Gwangju Airport,Gwangju
+35.903801,126.615997,Gunsan Airport / Gunsan Air Base,Gunsan
+34.84230042,127.6169968,Yeosu Airport,Yeosu
+37.753601,128.943915,Gangneung Airport (K-18),Gangneung
+37.437113,127.960051,Wonju Airport / Hoengseong Air Base (K-38/K-46),Wonju
+38.060481,128.669822,Yangyang International Airport,Gonghang-ro
+33.512058,126.492548,Jeju International Airport,Jeju City
+33.39960098,126.711998,Jeongseok Airport,Jeju Island
+35.179501,128.938004,Gimhae International Airport,Busan
+35.088591,128.071747,Sacheon Airport / Sacheon Air Base,Sacheon
+35.59349823,129.352005,Ulsan Airport,Ulsan
+36.962363,127.031126,Camp Humphreys (A-511) Desiderio Army Airfield,Pyeongtaek
+37.469101,126.450996,Incheon International Airport,Seoul
+37.444744,127.112718,Seoul Air Base (K-16),Seongnam
+37.091457,127.029448,Osan Air Base,Pyeongtaek
+37.5583,126.791,Seoul Gimpo International Airport,Seoul
+37.239399,127.007004,Suwon Airport,Suwon
+35.987955,129.420383,Pohang Airport (G-815/K-3),Pohang
+37.03024,127.886353,Jungwon Air Base/Chungju Airport,Gimseang-ro
+35.894394,128.656989,Daegu International Airport,Daegu
+36.71556,127.500289,Cheongju International Airport/Cheongju Air Base (K-59/G-513),Cheongju
+36.630373,128.34971,Yecheon Airbase,Yecheon-ri
+26.192437,127.639804,Naha International Airport,Naha
+26.351667,127.769444,Kadena Air Base,Okinawa
+24.396389,124.245,New Ishigaki Airport,Ishigaki
+26.363445,126.71384,Kumejima Airport,Kumejima
+25.8465,131.263,Minamidaito Airport,Minamidaito
+24.782801,125.294998,Miyako Airport,Miyakojima
+26.722537,127.786801,Iejima Airport,Ie
+25.94470024,131.3269959,Kitadaito Airport,Kitadaitōjima
+24.8267,125.144997,Shimojishima Airport,Miyakojima
+24.653793,124.675453,Tarama Airport,Tarama
+27.043847,128.401648,Yoron Airport,Yoron
+26.2743,127.755997,Futenma Marine Corps Air Station,
+24.467298,122.979827,Yonaguni Airport,Yonaguni
+14.794833,120.271883,Subic Bay International Airport / Naval Air Station Cubi Point,Olongapo
+15.186,120.559998,Clark International Airport / Clark Air Base,Mabalacat
+18.182388,121.746223,Cagayan North International Airport,Lal-lo
+18.175089,120.531006,Laoag International Airport,Laoag City
+13.111915,123.676829,Bicol International Airport,Legazpi
+14.5086,121.019997,Ninoy Aquino International Airport,Manila (Pasay)
+14.4954,120.903999,Danilo Atienza Air Base,Cavite
+20.722521,121.809969,Itbayat Jorge Abad Airport,Itbayat
+13.8554,120.105003,Lubang Airport,Lubang
+6.367903,124.752431,Allah Valley Airport,Surallah
+6.105476,125.234882,Rajah Buayan Air Base,General Santos City
+7.164753,124.209938,Cotabato (Awang) Airport,Datu Odin Sinsuat
+7.12552,125.646004,Francisco Bangoy International Airport,Davao
+8.9515,125.4788,Bancasi Airport,Butuan
+8.195052,126.321015,Bislig Airport,Bislig
+8.601983,123.341875,Dipolog Airport,Dipolog
+9.253894,124.709115,Camiguin Airport,Mambajao
+6.05367,121.011002,Jolo Airport,Jolo
+5.048196,119.743338,Sanga Sanga Airport,Bongao
+8.17851,123.842003,Labo Airport,Ozamiz
+7.825632,123.459635,Pagadian Airport,Pagadian
+6.949091,126.27368,Mati National Airport,Mati
+6.057208,125.096243,General Santos International Airport,General Santos
+9.755838326,125.4809475,Surigao Airport,Surigao City
+9.072002,126.17132,Tandag Airport,Tandag
+8.612203,124.456496,Laguindingan International Airport,Laguindingan
+6.92242,122.059998,Zamboanga International Airport,Zamboanga
+9.573045,123.770143,Bohol-Panglao International Airport,Panglao
+16.375034,120.619949,Loakan Airport,Baguio
+14.1292,122.980003,Daet Airport,Daet
+12.36149979,121.0469971,San Jose Airport,San Jose
+13.208048,120.605457,Mamburao Airport,Mamburao
+13.5848999,123.2699966,Naga Airport,Naga
+20.4513,121.980003,Basco Airport,Basco
+15.729309,121.500034,Dr. Juan C. Angara Airport,Baler
+16.5956,120.303001,San Fernando Airport,San Fernando
+17.64336768,121.7331505,Tuguegarao Airport,Tuguegarao City
+13.5763998,124.2060013,Virac Airport,Virac
+13.36100006,121.8259964,Marinduque Airport,Gasan
+16.92989922,121.7529984,Cauayan Airport,Cauayan City
+11.227761,125.027783,Daniel Z. Romualdez Airport,Tacloban City
+10.776237,123.018879,Bacolod-Silay International Airport,Bacolod City
+12.072574,124.54508,Calbayog Airport,Calbayog City
+9.334183,123.30191,Sibulan Airport,Dumaguete City
+11.9245,121.954002,Godofredo P. Ramos Airport,Caticlan
+12.50161,124.635258,Catarman National Airport,Catarman
+10.833017,122.493358,Iloilo International Airport,Cabatuan
+12.369682,123.630095,Moises R. Espinosa Airport,Masbate
+11.6794,122.375999,Kalibo International Airport,Kalibo
+10.309261,123.97974,Mactan Cebu International Airport,Cebu City/Lapu-Lapu City
+11.057715,124.565622,Ormoc Airport,Ormoc City
+9.742044,118.75911,Puerto Princesa International Airport / PAF Antonio Bautista Air Base,Puerto Princesa
+11.59770012,122.7519989,Roxas Airport,Roxas City
+10.766644,121.932506,Evelio Javier Airport,San Jose
+12.31099987,122.0849991,Tugdan Airport,Tablas Island
+12.121865,120.100801,Francisco B. Reyes (Busuanga) Airport,Coron
+25.627975,37.088914,Red Sea International Airport,Hanak
+60.0867,30.1933,Levashovo Air Base,St. Petersburg
+51.406917,109.900091,Bada Air Base,Bada
+51.531687,43.301718,Balashov Air Base,Balashov
+51.366699,42.178299,Borisoglebsk Air Base,Borisoglebsk
+57.654999,34.099998,Khotilovo Air Base,Bologoye
+52.634998,39.445,Lipetsk Air Base,Lipetsk
+50.79221,40.606155,Buturlinovka Air Base,Buturlinovka
+50.396823,116.346114,Chindant Air Base,Borzya
+54.766556,20.396819,Kaliningrad Chkalovsk Naval Air Base,Kaliningrad
+52.367642,104.183335,Irkutsk Northwest Airport,Irkutsk
+54.958332,43.311668,Mius Airport,Sarov
+67.987288,75.09804,Yamburg Airport,Yamburg
+54.601676,21.782375,Chernyakhovsk Naval Air Base,Chernyakhovsk
+57.299999,28.4333,Ostrov Naval Air Base,Ostrov
+60.458332,28.746668,Pribylovo Naval Air Base,Pribilovo
+44.962905,37.999071,Krymsk Air Base,Krymsk
+45.082429,38.944312,Krasnodar Central Air Base,Krasnodar
+53.145,50.709999,Bobrovka Air Base,Kinel
+44.830002,44.013,Budyonnovsk Air Base,Budyonnovsk
+44.32239,132.545289,Chernigovka Air Base,Chernigovka
+43.78499985,44.59999847,Mozdok Air Base,Mozdok
+47.24645,38.8403,Taganrog Tsentralny Air Base,Taganrog
+56.32,43.799999,Sormovo Airfield,Nizhniy Novgorod
+53.715258,33.339083,Seshcha Air Base,Dubrovka
+48.955177,40.296356,Millerovo Air Base,Millerovo
+46.395726,47.887688,Privolzhskiy Air Base,Astrakhan
+48.667,45.732,Kapustin Yar Airfield,Znamensk
+43.907501,131.925008,Vozdvizhenka Air Base,Vozdvizhenka
+47.277386,39.635556,Rostov-on-Don Central Air Base,Rostov-on-Don
+48.3085,46.2365,Akhtubinsk Air Base,Akhtubinsk
+55.611695,36.650002,Kubinka Air Base,Kubinka
+56.381066,30.607846,Velikiye Luki Airport,Velikiye Luki
+52.297317,43.7241,Rtishchevo Air Base,Rtishchevo
+56.127423,40.315202,Semyazino Airport,Vladimir
+58.139545,30.33042,Soltsy-2 Air Base,Soltsy
+55.228627,36.608609,Yermolino Air Base,Balabanovo
+55.560817,37.983947,Myachkovo Airfield,Moscow
+57.961399,31.384399,Staraya Russa Air Base,Staraya Russa
+59.190372,39.123459,Fedotovo Naval Air Base,Kipelovo
+69.03167,33.418331,Severomorsk-1 Naval Air Base,Severomorsk
+68.866669,33.716667,Severomorsk-3 Naval Air Base,Severomorsk
+54.642284,39.569047,Dyagilevo Air Base,Ryazan
+44.67956,40.036059,Khanskaya Air Base,Maykop
+54.824,32.025,Smolensk North Airport,Smolensk
+46.68,38.21,Yeysk Airport,Yeysk
+56.436699,61.986698,Kamensk-Uralskiy Air Base,Kamensk Uralskiy
+47.2617,142.768005,Dolinsk-Sokol Air Base,Dolinsk
+53.108299,50.098301,Samara Kryazh Air Base,Samara
+50.677425,106.138573,Dzhida Air Base,Dzhida
+54.467731,36.073685,Oreshkovo Airfield,Kaluga
+52.139652,46.969387,Bagay-Baranovka Air Base,Sennoy
+56.123299,95.6633,Kansk Air Base,Kansk
+52.700626,41.374168,Tambov Air Base,Tambov
+56.66,48.033298,Danilovo Air Base,Yoshkar Ola
+68.151802,33.463902,Olenya Air Base,Olenegorsk
+71.616699,52.478298,Rogachyovo Air Base,Belaya
+54.34,32.473301,Shatalovo Air Base,Pochinok
+52.072963,113.433267,Cheryomushki Air Base,Chita
+44.083302,133.867996,Chuguyevka Air Base,Chuguyevka
+58.814999,28.0133,Smuravyovo Air Base,Gdov
+57.0583,40.981701,Ivanovo North Air Base,Ivanovo
+54.28499985,45.16830063,Lyambir Air Base,Saransk
+51.849998,107.737999,Ulan-Ude East Airport,Ulan Ude
+52.917455,40.365826,Michurinsk Air Base,Michurinsk
+51.020051,115.431016,Step Air Base,Chita
+61.268299,63.138302,Yugorsk Sovetsky Air Base,Yugorsk
+54.375,61.353298,Uprun Air Base,Uvelsky
+51.62,39.14,Voronezh Baltimore Air Base,Voronezh
+54.294492,158.151505,Sharomy Air Base,Sharomy
+51.480499,46.215,Engels Air Base,Saratov
+67.463303,64.306702,Vorkuta Sovetskiy Air Base,Vorkuta
+58.625,31.385,Krechevitsy Air Base,Novgorod
+56.259998,34.408298,Rzhev Air Base,Rzhev
+54.2267,34.3717,Shaykovka Air Base,Kirov
+24.465259,46.659279,King Salman Air Base,Riyadh
+60.594444,16.951111,Gävle–Sandviken Airport,Sandviken
+38.364134,69.986299,Khovaling Airport,Khovilling
+38.51229858,68.67250061,Gissar Air Base,Dushanbe
+37.46979904,69.38079834,Farkhor Air Base,Parkhar
+39.681052,54.206008,Balkanabat International Airport,Balkanabat
+37.66429901,61.82699966,Mary North Airport,Mary
+39.73885727,32.37863922,Temelli Air Base,Polatlı
+40.787068,26.606655,Keşan Air Base,Keşan
+22.705,120.280998,Zuoying Naval Airfield,Kaohsiung (Zuoying)
+51.088535,31.870995,Nizhyn Air Base,Nizhyn
+45.31999969,34.09999847,Oktyabrskoe Air Base,Oktyabrskoe
+45.16699982,35.18299866,Kirovskoe Air Base,Kirovskoe
+46.880001,35.305,Melitopol Air Base,Melitopol
+44.779764,33.572245,Kacha Air Base,Kacha
+49.795228,30.024435,Bila Tserkva Air Base,Bila Tserkva
+45.639999,28.67,Zhovtneve Air Base,Bolgrad
+47.887,33.533,Dolgintsevo Air Base,Kryvyi Rih
+40.042899,70.83784,Batken Airport,Batken
+43.354267,77.042828,Almaty International Airport,Almaty
+46.894246,75.004533,Balkhash Airport,Balkhash
+45.12255,78.442758,Taldykorgan Airport,Taldykorgan
+51.027035,71.467094,Nursultan Nazarbayev International Airport,Astana
+53.329102,69.594597,Kokshetau International Airport,Kokshetau
+54.775622,69.187415,Petropavl International Airport,Petropavl
+42.8536,71.303596,Taraz International Airport,Taraz
+43.061298,74.4776,Manas International Airport,Bishkek
+40.609001,72.793297,Osh International Airport,Osh
+42.508099,78.407799,Karakol International Airport,Karakol
+42.85319901,74.84649658,Kant Air Base,Kant
+42.365021,69.47564,Shymkent International Airport,Shymkent
+43.311087,68.550352,Hazrat Sultan International Airport,Turkıstan
+47.708953,67.738094,Zhezkazgan National Airport,Zhezkazgan
+49.670799,73.334396,Sary-Arka Airport,Karaganda
+45.621994,63.210773,Baikonur Krayniy International Airport,Baikonur
+46.052421,63.249185,Yubileyniy Airfield,Töretam
+44.706902,65.592499,Korkyt Ata International Airport,Kyzylorda
+51.151976,51.543652,Manshuk Mametova International Airport,Uralsk
+47.919218,80.452194,Ayaguz Airport,Ayaguz
+51.5909996,75.21499634,Ekibastuz Airport,Ekibastuz
+50.035033,82.496057,Oskemen International Airport,Ust-Kamenogorsk (Oskemen)
+52.194982,77.073088,Pavlodar International Airport,Pavlodar
+50.351295,80.234398,Semei International Airport,Semey
+43.860093,51.09086,Aktau International Airport,Aktau
+47.121318,51.820343,Atyrau International Airport,Atyrau
+47.904999,59.619999,Shalkar Airport,Shalkar
+50.248116,57.204144,Aktobe International Airport,Aktobe
+53.206902,63.550301,Kostanay International Airport,Kostanay
+40.591599,49.5574,Nasosnaya Air Base,Sumqayit
+39.901402,46.786999,Khojaly Airport,Khojaly
+40.27360153,48.16360092,Kyurdamir Air Base,Kyurdamir
+40.408409,50.200287,Baku Kala Air Base,Baku
+40.47278,50.050931,Heydar Aliyev International Airport,Baku
+40.738692,46.320383,Ganja International Airport,Ganja
+39.188801,45.458401,Nakhchivan International Airport,Nakhchivan
+40.808617,47.725389,Gabala International Airport,Gabala
+41.557823,46.669464,Zaqatala International Airport,Zaqatala
+39.883787,46.363137,Lachin International Airport,Lachin
+42.585584,76.701181,Issyk-Kul International Airport,Tamchy
+40.750401,43.859299,Shirak International Airport,Gyumri
+40.12210083,44.46500015,Erebuni Airport,Yerevan
+40.148941,44.397887,Zvartnots International Airport,Yerevan
+62.0933,129.770996,Platon Oyunsky Yakutsk International Airport,Yakutsk
+56.91389847,124.9140015,Chulman Airport,Neryungri
+66.450861,143.261551,Moma Airport,Khonuu
+62.103484,129.545288,Magan Airport,Magan
+60.401833,120.476094,Olyokminsk Airport,Olyokminsk
+64.550003,143.115005,Ust-Nera Airport,Ust-Nera
+63.887303,122.775779,Kyzyl-Syr Airport,Kyzyl-Syr
+63.756668,121.693336,Vilyuisk Airport,Vilyuisk
+65.959198,111.546501,Aykhal Airport,
+60.723594,114.825319,Lensk Airport,Lensk
+66.400398,112.029999,Polyarny Airport,Yakutia
+62.53469849,114.0390015,Mirny Airport,Mirny
+71.927902,114.080002,Saskylakh Airport,Saskylakh
+68.556227,146.22784,Belaya Gora Airport,Belaya Gora
+67.4805,153.7364,Srednekolymsk Airport,Srednekolymsk
+70.6231,147.901993,Chokurdakh Airport,Chokurdah
+68.740601,161.337997,Cherskiy Airport,Cherskiy
+71.697701,128.903,Tiksi Airport,Tiksi
+65.7485,150.8889,Zyryanka Airport,Zyryanka
+66.79650116,123.3610001,Zhigansk Airport,Zhigansk
+43.104,40.5793,Gudauta Air Base,Gudauta
+40.8876,45.957001,Dollyar Air Base,Dollyar
+41.459202,44.783199,Tbilisi Marneuli Air Base,Tbilisi
+41.64920044,44.93640137,Tbilisi Soganlug Air Base,Tbilisi
+41.627998,45.0308,Vaziani Air Base,Gamarjveba 1
+41.37950134,46.36729813,Bolshiye Shiraki Air Base,Bolshiye Shiraki
+42.52687,43.13538,Ambrolauri Airport,Ambrolauri
+42.177448,42.485353,David the Builder Kutaisi International Airport,Kopitnari
+41.60939,41.600315,Alexander Kartveli Batumi International Airport,Batumi
+42.8582,41.128101,Vladislav Ardzinba Sukhum International Airport,Sukhumi
+41.669201,44.9547,Tbilisi International Airport,Tbilisi
+50.426723,127.415502,Ignatyevo Airport,Blagoveschensk
+48.528338,135.188588,Khabarovsk Novy Airport,Khabarovsk
+50.605625,137.081266,Dzemgi Airport,Komsomolsk-na-Amur
+49.235703,140.1931,Kamenny Ruchey Naval Air Base,Sovetskaya Gavan
+50.409,136.934006,Komsomolsk-on-Amur Airport,Komsomolsk-on-Amur
+48.925067,140.035348,Sovetskaya Gavan (Maygatka) Airport,Sovetskaya Gavan
+64.734902,177.740997,Ugolny Yuri Ryktheu Airport,Anadyr
+64.378098,-173.242996,Provideniya Bay Airport,Chukotka
+62.457001,155.744995,Omsukchan Airport,Omsukchan
+61.834999,160.548004,Chaybukha Airport,Chaybukha
+67.845001,166.139999,Keperveem Airport,Keperveem
+59.9109993,150.7200012,Sokol Airport,Magadan
+69.783302,170.597,Pevek Airport,Apapelgino
+62.92078,152.422775,Seymchan Airport,Seymchan
+59.62329865,150.9219971,Magadan-13 Airport,Magadan
+61.921786,159.229059,Severo-Evensk Airport,Evensk
+53.154999,140.649994,Nikolayevsk-na-Amure Airport,Nikolayevsk-na-Amure Airport
+59.410065,143.056503,Okhotsk Airport,Okhotsk
+59.082064,159.891577,Palana Airport,Palana
+53.168716,158.451068,Yelizovo Airport,Petropavlovsk-Kamchatsky
+46.885461,142.717466,Yuzhno-Sakhalinsk International Airport,Yuzhno-Sakhalinsk
+43.396256,132.148155,Vladivostok International Airport,Artyom
+52.024841,113.305839,Chita-Kadala International Airport,Chita
+50.033108,118.061142,Krasnokamensk Airport,Krasnokamensk
+56.3696,101.701822,Bratsk Airport,Bratsk
+56.487701,104.106003,Zheleznogorsk Airport,Zheleznogorsk-Ilimsky
+52.266707,104.395563,Irkutsk International Airport,Irkutsk
+56.856701,105.730003,Ust-Kut Airport,Ust-Kut
+51.808614,107.439652,Baikal International Airport,Ulan Ude
+50.345001,30.894699,Boryspil International Airport,Boryspil
+47.076099,37.4496,Mariupol International Airport,Mariupol
+46.814999,36.758099,Berdyansk Airport,Berdyansk
+48.357201,35.100601,Dnipro International Airport,Dnipro
+47.866962,35.314723,Zaporizhzhia International Airport,Zaporizhia
+48.043301,33.209999,Kryvyi Rih International Airport,Kryvyi Rih
+44.691822,33.57462,Sevastopol International Airport / Belbek Air Base,Sevastopol
+45.0522,33.975101,Simferopol International Airport,Simferopol
+45.116192,33.976625,Gvardeyskoye (Hvardiiske) Air Base,Hvardiiske
+45.090611,33.598536,Saky Air Base,Novofedorivka
+45.700901,34.4189,Dzhankoy Air Base,Dzhankoy
+49.926943,36.290814,Kharkiv International Airport,Kharkiv
+49.5686,34.397202,Suprunovka Airport,Poltava
+49.4156,31.9953,Cherkasy International Airport,Cherkasy
+50.40194,30.45194,Igor Sikorsky Kyiv International Airport (Zhuliany),Kyiv
+50.6035,30.1919,Hostomel Airport,Kiev
+50.158298,28.7383,Ozerne Air Base,Zhytomyr
+50.270556,28.738611,Zhytomyr Airport,Zhytomyr
+49.359699,26.933399,Khmelnytskyi Airport,Khmelnytskyi
+48.884201,24.6861,Ivano-Frankivsk International Airport,Ivano-Frankivsk
+49.8125,23.9561,Lviv International Airport,Lviv
+48.2593,25.980801,Chernivtsi International Airport,Chernivtsi
+50.607101,26.1416,Rivne International Airport,Rivne
+48.6343,22.263399,Uzhhorod International Airport,Uzhhorod
+46.6758,32.506401,Kherson International Airport,Kherson
+47.057899,31.9198,Mykolaiv International Airport [CLOSED],Mykolaiv
+46.427196,30.672649,Odesa International Airport,Odesa
+49.242531,28.613778,Vinnytsia/Gavyryshivka International Airport,Vinnitsa
+64.60030365,40.71670151,Talagi Airport,Archangelsk
+64.441704,40.4217,Vaskovo Airport,Arkhangelsk
+67.639999,53.121899,Naryan Mar Airport,Naryan Mar
+69.763712,61.556711,Amderma Airport,Amderma
+61.2358017,46.69749832,Kotlas Airport,Kotlas
+59.800301,30.262501,Pulkovo Airport,St. Petersburg
+59.685001,30.338301,Pushkin Airport,St. Petersburg
+68.7817,32.750801,Emperor Nicholas II Murmansk Airport,Murmansk
+57.781316,28.39384,Princess Olga Pskov International Airport,Pskov
+61.885201,34.154701,Petrozavodsk Airport,Petrozavodsk
+61.831944,34.295555,Peski Airfield,Petrozavodsk
+59.27360153,38.01580048,Cherepovets Airport,Cherepovets
+60.7883,46.259998,Velikiy Ustyug Airport,Velikiy Ustyug
+59.282501,39.944401,Vologda Airport,Vologda
+52.108138,23.89676,Brest International Airport,Brest
+52.52700043,31.01670074,Gomel Airport,Gomel
+55.12649918,30.34959984,Vitebsk Vostochny Airport,Vitebsk
+54.89161,20.598559,Khrabrovo Airport,Kaliningrad
+53.099998,26.049999,Baranavichi Air Base,Baranavichi
+53.602001,24.053801,Hrodna Airport,Hrodna
+53.888071,28.039964,Minsk National Airport,Minsk
+53.105,29.205,Babruisk Air Base,Babruisk
+53.95489883,30.0951004,Mogilev Airport,Mogilev
+53.740002,91.385002,Abakan International Airport,Abakan
+53.361285,83.539701,Barnaul Gherman Titov International Airport,Barnaul
+51.969204,85.836539,Gorno-Altaysk Airport,Gorno-Altaysk
+55.2701,86.107201,Alexei Leonov Kemerovo International Airport,Kemerovo
+61.676701,96.355003,Baykit Airport,Baykit
+58.474201,92.112503,Yeniseysk Airport,Yeniseysk
+61.589699,89.994003,Podkamennaya Tunguska Airport,Bor
+60.373299,93.011703,Severo-Yeniseysk Airport,Severo-Yeniseysk
+60.356229,102.309641,Vanavara Airport,Vanavara
+56.175743,92.485788,Krasnoyarsk International Airport,Krasnoyarsk
+56.177584,92.545881,Krasnoyarsk Cheremshanka Airport,Krasnoyarsk
+56.269185,90.57511,Achinsk Airport,Achinsk
+51.669399,94.400597,Kyzyl Airport,Kyzyl
+55.0924,83.004501,Yeltsovka Airport,Novosibirsk
+55.019756,82.618675,Novosibirsk Tolmachevo Airport,Novosibirsk
+54.963124,73.312418,Omsk Central Airport,Omsk
+54.974998,73.555,Omsk Severny Airport,Omsk
+60.7094,77.660004,Strezhevoy Airport,Strezhevoy
+56.380299,85.208298,Tomsk Kamov Airport,Tomsk
+53.811401,86.877197,Spichenkovo Airport,Novokuznetsk
+73.517807,80.379669,Dikson Airport,Dikson
+80.803207,47.663586,Nagurskoye Airfield,Alexandra Land
+71.97810364,102.4909973,Khatanga Airport,Khatanga
+66.839996,88.403336,Svetlogorsk Airport,Svetlogorsk
+67.437202,86.621902,Igarka Airport,Igarka
+69.307951,87.325906,Alykel International Airport,Norilsk
+45.002102,37.347301,Anapa Vityazevo Airport,Krasnyi Kurgan
+44.58209263,38.01248074,Gelendzhik Airport,Gelendzhik
+45.034465,39.174215,Krasnodar Pashkovsky International Airport,Krasnodar
+43.388106,45.699772,Akhmat Kadyrov Grozny International Airport,Grozny
+42.816799,47.652302,Makhachkala Uytash International Airport,Makhachkala
+44.225101,43.081902,Mineralnye Vody Airport,Mineralnyye Vody
+43.512901,43.6366,Nalchik Airport,Nalchik
+43.205101,44.606602,Vladikavkaz Beslan International Airport,Beslan
+43.323268,45.012568,Magas Airport,Sunzha
+45.10919952,42.1128006,Stavropol Shpakovskoye Airport,Stavropol
+69.375,86.15667,Dudinka Airport,Dudinka
+47.493888,39.924722,Platov International Airport,Rostov-on-Don
+47.198333,38.849167,Taganrog Yuzhny Airport,Taganrog
+43.449902,39.9566,Sochi International Airport,Sochi
+46.282843,48.010511,Astrakhan Narimanovo Boris M. Kustodiev International Airport,Astrakhan
+46.373901,44.330898,Elista Airport,Elista
+48.78134,44.339194,Volgograd International Airport,Volgograd
+55.303141,61.504927,Kurchatov Chelyabinsk International Airport,Chelyabinsk
+53.391991,58.755235,Magnitogorsk International Airport,Magnitogorsk
+71.219167,72.052222,Sabetta International Airport,Sabetta
+70.315278,68.333611,Bovanenkovo Airport,Bovanenkovo
+66.59079742,66.61100006,Salekhard Airport,Salekhard
+63.92100143,65.03050232,Berezovo Airport,
+61.0285,69.086098,Khanty Mansiysk Airport,Khanty-Mansiysk
+62.110001,65.614998,Nyagan Airport,Nyagan
+63.686901,66.698601,Beloyarskiy Airport,
+61.32662201,63.60191345,Sovetskiy Airport,Sovetskiy
+60.103298,64.826698,Uray Airport,Uray
+56.834524,53.462172,Izhevsk Airport,Izhevsk
+58.503883,49.347831,Pobedilovo Airport,Kirov
+65.48090363,72.69889832,Nadym Airport,Nadym
+66.06939697,76.52030182,Novy Urengoy Airport,Novy Urengoy
+60.949299,76.483597,Nizhnevartovsk Airport,Nizhnevartovsk
+57.914501,56.021198,Perm International Airport,Perm
+62.19039917,74.53379822,Kogalym International Airport,Kogalym
+61.108299,72.650002,Nefteyugansk Airport,Nefteyugansk
+63.18330002,75.26999664,Noyabrsk Airport,Noyabrsk
+61.340501,73.405782,Surgut International Airport,Surgut
+56.701698,60.790001,Uktus Airport,Yekaterinburg
+56.74309921,60.80270004,Koltsovo Airport,Yekaterinburg
+58.059712,68.347997,Tobolsk Remezov Airport,Tobolsk
+57.178984,65.327696,Roshchino International Airport,Tyumen
+55.4753,65.415604,Kurgan Airport,Kurgan
+38.012001,58.195,Ashgabat Bezmein Air Base,Ashgabat
+37.986801,58.361,Ashgabat International Airport,Ashgabat
+40.062833,53.005085,Turkmenbaşy International Airport,Turkmenbaşy
+37.62353,61.895668,Mary International Airport,Mary
+41.759853,59.836149,Dashoguz International Airport,Daşoguz
+38.930662,63.563982,Türkmenabat International Airport,Türkmenabat
+38.543746,68.822977,Dushanbe International Airport,Dushanbe
+37.988098,69.805,Kulob International Airport,Kulob
+40.215401,69.694702,Khujand International Airport,Khujand
+37.866315,68.864475,Bokhtar International Airport,Bokhtar
+40.984622,71.5578,Namangan International Airport,Namangan
+40.727699,72.293999,Andijan International Airport,Andijan
+40.358799,71.745003,Fergana International Airport,Fergana
+42.4884,59.623299,Nukus International Airport,Nukus
+41.58274,60.64338,Urgench International Airport,Urgench
+40.117599,65.172658,Navoi International Airport,Navoi
+39.775319,64.482279,Bukhara International Airport,Bukhara
+39.701842,66.981467,Samarkand International Airport,Samarkand
+37.287261,67.311869,Termez Airport,Termez
+41.312889,69.395535,Tashkent-Khumo International Airport,Tashkent
+41.2579,69.281197,Tashkent International Airport,Tashkent
+40.01402,68.41103,Zomin Airport,Zomin
+57.796902,41.019402,Kostroma Sokerkino Airport,Kostroma
+54.54999924,36.3666687,Grabtsevo Airport,Kaluga
+56.93939972,40.94079971,Ivanovo South Airport,Ivanovo
+58.104198,38.929401,Staroselye Airport,Rybinsk
+53.214403,34.175965,Bryansk International Airport,Bryansk
+55.553299,38.150002,Zhukovsky International Airport,Moscow
+55.408798,37.9063,Domodedovo International Airport,Moscow
+57.560699,40.157398,Golden Ring Yaroslavl International Airport,Tunoshna
+55.977486,37.386677,Sheremetyevo International Airport,Moscow
+56.8246994,35.75770187,Migalovo Air Base,Tver
+54.904999,39.026669,Tretyakovo Airport,Lukhovitsy
+55.8783,38.061699,Chkalovskiy Air Base,Moscow
+50.643799,36.590099,Belgorod International Airport,Belgorod
+51.750599,36.295601,Kursk East Airport,Kursk
+52.702801,39.5378,Lipetsk Airport,Lipetsk
+51.814324,39.230948,Voronezh International Airport,Voronezh
+52.806099,41.4828,Donskoye Airport,Tambov
+55.591499,37.261501,Vnukovo International Airport,Moscow
+63.566898,53.804699,Ukhta Airport,Ukhta
+66.055568,60.11088,Inta Airport,Inta
+63.823299,57.279999,Vuktyl Airport,Vuktyl
+65.121101,57.130798,Pechora Airport,Pechora
+66.0047,57.367199,Usinsk Airport,Usinsk
+65.0317,53.970001,Izhma Airport,Izhma
+67.488602,63.993099,Vorkuta Airport,Vorkuta
+65.437294,52.200336,Ust-Tsylma Airport,Ust-Tsylma
+61.64699936,50.8451004,Syktyvkar Airport,Syktyvkar
+56.227351,43.785152,Nizhny Novgorod / Strigino International Airport,Nizhny Novgorod
+54.641184,52.800229,Bugulma Airport,Bugulma
+55.606201,49.278702,Kazan International Airport,Kazan
+55.564701,52.092499,Begishevo Airport,Nizhnekamsk
+55.866699,49.133301,Borisoglebskoye Airport,Kazan
+56.7006,47.904701,Yoshkar-Ola Airport,Yoshkar-Ola
+56.090302,47.347301,Cheboksary Airport,Cheboksary
+54.27016,48.225569,Ulyanovsk Baratayevka Airport,Ulyanovsk
+54.401001,48.8027,Ulyanovsk Vostochny Airport,Cherdakly
+51.792668,55.457229,Orenburg Central Airport,Orenburg
+51.072498,58.5956,Orsk Airport,Orsk
+53.1106,45.021099,Penza Airport,Penza
+54.12513,45.212257,Saransk International Airport,Saransk
+51.858299,47.745602,Balakovo Airport,Balakovo
+51.712778,46.171111,Gagarin International Airport,Saratov
+54.557499,55.874401,Ufa International Airport,Ufa
+53.718399,52.371899,Buguruslan Severny Airport,Buguruslan
+53.220001,50.325001,Bezymyanka Airfield,Samara
+53.504902,50.164299,Kurumoch International Airport,Samara
+24.503401,81.220299,Rewa Airport. Chorhata. REWA,Rewa
+21.526817,80.290347,Gondia Airport,Gondia
+23.0772,72.634697,Sardar Vallabh Patel International Airport,Ahmedabad
+20.698931,77.056883,Akola Airport,Akola
+19.862875,75.396312,Aurangabad Airport,Aurangabad
+19.088699,72.867897,Chhatrapati Shivaji Maharaj International Airport,Mumbai
+23.28779984,69.67019653,Bhuj Airport,Bhuj
+15.8593,74.618301,Belagavi Airport,Belgaum
+22.336201,73.226303,Vadodara International Airport,Vadodara
+23.2875,77.337402,Raja Bhoj International Airport,Bhopal
+21.75219917,72.18520355,Bhavnagar Airport,Bhavnagar
+20.434401,72.843201,Daman Airport,Daman
+15.361084,75.082096,Hubballi Airport,Hubballi
+22.378824,71.039391,Rajkot International Airport,Rajkot
+22.721404,75.80051,Devi Ahilya Bai Holkar International Airport,Indore
+23.177799,80.052002,Jabalpur Airport,Jabalpur
+22.46549988,70.01260376,Jamnagar Airport,Jamnagar
+23.1127,70.100304,Kandla Airport,Kandla
+24.8172,79.918602,Khajuraho Airport,Khajuraho
+16.6647,74.289398,Kolhapur Airport,Kolhapur
+21.317101,70.270401,Keshod Airport,Keshod
+18.411501,76.464699,Murod Kond Airport,Latur
+19.1833,77.316704,Nanded Airport,Nanded
+21.092199,79.047203,Dr. Babasaheb Ambedkar International Airport,Nagpur
+20.119101,73.912903,Nashik International Airport,Nashik
+18.5821,73.919701,Pune International Airport,Pune
+21.649524,69.656405,Porbandar Airport,Porbandar
+17.013599,73.327797,Ratnagiri Airport,
+22.3092,70.779503,Rajkot Airport,Rajkot
+21.180401,81.7388,Swami Vivekananda Airport,Raipur
+19.689211,74.373655,Shirdi International Airport,Kakadi
+17.62800026,75.93479919,Solapur Airport,Solapur
+21.115531,72.743251,Surat International Airport,Surat
+24.61770058,73.89610291,Maharana Pratap Airport,Udaipur
+7.180759907,79.88410187,Bandaranaike International Colombo Airport,Colombo
+8.301542,80.42848,Anuradhapura Airport,Anuradhapura
+7.705073,81.677163,Batticaloa International Airport,Batticaloa
+6.821638,79.885859,Colombo Ratmalana International Airport,Colombo
+7.336745,81.623869,Ampara Airport,Ampara
+8.04981,80.9814,Hingurakgoda Air Force Base,Polonnaruwa Town
+9.79233,80.070099,Jaffna International Airport,Jaffna
+5.99368,80.32029724,Koggala Airport,Galle
+8.539159,81.18128,China Bay Airport,Trincomalee
+6.283878,81.124163,Mattala Rajapaksa International Airport,Mattala
+13.0956,103.223999,Battambang Airport,Battambang
+11.547155,104.844699,Phnom Penh International Airport,Phnom Penh (Pou Senchey)
+13.72999954,106.9869995,Ratanakiri Airport,Ratanakiri
+13.36974,104.223831,Siem Reap-Angkor International Airport,Siem Reap
+10.570557,103.632067,Sihanouk International Airport,Preah Sihanouk
+28.1753006,94.80200195,Along Airport,
+23.886999,91.240402,Agartala - Maharaja Bir Bikram Airport,Agartala
+26.6812,88.328598,Bagdogra Airport,Siliguri
+25.70359993,91.97869873,Shillong Airport,Shillong
+25.452171,82.862549,Lal Bahadur Shastri International Airport,Varanasi
+20.251021,85.814747,Biju Patnaik International Airport,Bhubaneswar
+21.9884,82.111,Bilaspur Airport,Bilaspur
+22.654012,88.44765,Netaji Subhash Chandra Bose International Airport,Kolkata
+23.834,86.425301,Dhanbad Airport,
+23.6225,87.243,Kazi Nazrul Islam Airport,Durgapur
+26.192801,85.916901,Darbhanga Airport,Darbhanga
+26.73970032,83.4496994,Gorakhpur Airport,Gorakhpur
+26.106654,91.585226,Lokpriya Gopinath Bordoloi International Airport,Guwahati
+24.744301,84.951202,Gaya Airport,Gaya
+26.698299,89.369102,Hashimara Air Force Station,Jalpaiguri
+24.76,93.896698,Bir Tikendrajit International Airport,Imphal
+22.813706,86.168981,Sonari Airport,Jamshedpur
+26.730456,94.175416,Jorhat Airport,Jorhat
+26.776534,83.889214,Kushinagar International Airport,Kushinagar
+24.308657,92.00768,Kailashahar Airport,Kailashahar
+24.91290092,92.97869873,Silchar Airport,Silchar
+23.840599,92.619698,Lengpui Airport,Aizawl (Lengpui)
+27.295682,94.097266,Lilabari North Lakhimpur Airport,Lilabari
+27.48390007,95.01689911,Dibrugarh Airport,Dibrugarh
+25.88389969,93.77110291,Dimapur Airport,Dimapur
+26.119101,85.313698,Muzaffarpur Airport,Muzaffarpur
+23.47430038,87.42749786,Panagarh Air Force Station,
+25.591299,85.087997,Jay Prakash Narayan Airport,Patna
+23.31430054,85.32170105,Birsa Munda Airport,Ranchi
+22.256571,84.815193,Rourkela Airport,Rourkela
+26.70910072,92.78469849,Tezpur Airport,
+20.097778,83.183333,Utkela Airport,Bhawanipatna
+17.723506,83.227729,INS Dega Airport (visakhapatnam international airport),Visakhapatnam
+27.588301,93.828102,Ziro Airport,Ziro
+22.801001,90.301201,Barisal Airport,Barisal
+21.457517,91.963263,Cox's Bazar Airport,Cox's Bazar
+22.249599,91.813301,Shah Amanat International Airport,Chattogram (Chittagong)
+23.843347,90.397783,Hazrat Shahjalal International Airport,Dhaka
+24.1525,89.0494,Ishurdi Airport,Ishurdi
+23.1838,89.160797,Jessore Airport,Jashore (Jessore)
+24.437201,88.616501,Shah Makhdum Airport,Rajshahi
+25.759199,88.908897,Saidpur Airport,Saidpur
+24.963993,91.864749,Osmany International Airport,Sylhet
+22.31184,113.914862,Hong Kong International Airport,Hong Kong
+22.4366,114.080002,Shek Kong Air Base,Islands
+27.157975,77.961025,Agra Airport / Agra Air Force Station,Agra
+25.4401,81.733902,Prayagraj Airport,Allahabad
+30.368099,76.816704,Ambala Air Force Station,Ambala
+31.7096,74.797302,Sri Guru Ram Das Ji International Airport,Amritsar
+28.070601,73.207199,Nal Airport,Bikaner
+31.876699,77.154404,Kullu Manali Airport,Bhuntar
+30.2701,74.755798,Bhatinda Air Force Station,
+28.4221,79.450798,Bareilly Air Force Station,Bareilly
+30.6735,76.788498,Shaheed Bhagat Singh International Airport,Chandigarh
+26.404301,80.410103,Kanpur Airport,Kanpur
+28.585453,77.203563,Safdarjung Airport,New Delhi
+30.189243,78.176651,Dehradun Jolly Grant Airport,Dehradun (Jauligrant)
+28.55563,77.09519,Indira Gandhi International Airport,New Delhi
+32.164902,76.263018,Kangra Airport,Kangra
+26.29330063,78.22779846,Gwalior Airport,Gwalior
+29.186065,75.74142,Maharaja Agrasen International Airport,Hisar
+30.748501,75.629799,Halwara International Airport,Halwara
+26.25110054,73.04889679,Jodhpur Airport,Jodhpur
+26.8242,75.812202,Jaipur International Airport,Jaipur
+26.8887,70.864998,Jaisalmer Airport,
+32.688849,74.838152,Jammu Airport,Jammu
+26.591007,74.812956,Kishangarh Airport Ajmer,Ajmer (Kishangarh)
+25.16020012,75.84559631,Kota Airport,Kota
+30.85470009,75.95259857,Ludhiana Airport,
+34.135899,77.546501,Leh Kushok Bakula Rimpochee Airport,Leh
+26.760599,80.889297,Chaudhary Charan Singh International Airport,Lucknow
+28.81746,78.92187,Moradabad Airport,Moradabad
+32.233611,75.634444,Pathankot Airport,Pathankot
+29.0334,79.473701,Pantnagar Airport,Pantnagar
+29.5606,75.006104,Sirsa Air Force Station,
+33.987099,74.7742,Srinagar International Airport,Srinagar
+32.902152,75.155709,Udhampur Air Force Station,Udhampur
+19.904273,102.167191,Luang Phabang International Airport,Luang Phabang
+15.133973,105.779871,Pakse International Airport,Pakse
+16.55660057,104.7600021,Savannakhet Airport,
+20.4184,104.067001,Sam Neua Airport,
+17.985052,102.566692,Wattay International Airport,Vientiane
+22.149599,113.592003,Macau International Airport,Nossa Senhora do Carmo
+10.772842,107.040596,Long Thanh International Airport (Under Construction),Ho Chi Minh City (Long Thanh)
+27.504636,83.410381,Gautam Buddha International Airport,Siddharthanagar (Bhairahawa)
+26.708799,85.922401,Janakpur Airport,Janakpur
+27.6966,85.3591,Tribhuvan International Airport,Kathmandu
+27.686768,86.729479,Tenzing-Hillary Airport,Lukla
+28.1036,81.667,Nepalgunj Airport,Nepalgunj
+28.200621,83.981203,Pokhara Domestic Airport,Pokhara
+27.3509,87.69525,Taplejung Airport,Taplejung
+26.48150063,87.26399994,Biratnagar Airport,Biratnagar
+7.01304,93.922798,Campbell Bay Airport / INS Baaz,Campbell Bay
+10.8237,72.176003,Agatti Airport,Agatti
+12.95,77.668198,HAL Airport,Bangalore
+15.16279984,76.88279724,Bellary Airport,Bellary
+13.1979,77.706299,Kempegowda International Airport Bengaluru,Bengaluru
+17.9081,77.487099,Bidar Airport / Bidar Air Force Station,Bidar
+16.530011,80.804888,Vijayawada International Airport,Vijayawada
+11.03,77.043404,Coimbatore International Airport,Coimbatore
+10.151047,76.400838,Cochin International Airport,Kochi
+11.135996,75.955152,Calicut International Airport,Calicut
+14.513154,78.769183,Kadapa Airport,Kadapa
+9.153056,92.819273,Car Nicobar Air Force Base,IAF Camp
+17.62719917,78.40339661,Dundigul Air Force Academy,Hyderabad
+15.744257,73.860625,Manohar International Airport,Mopa
+15.380062,73.833328,Goa Dabolim International Airport,Vasco da Gama
+17.231318,78.429855,Rajiv Gandhi International Airport,Hyderabad
+17.4531,78.467598,Begumpet Airport,Hyderabad
+11.916343,75.544979,Kannur International Airport,Kannur
+15.716288,78.16923,Kurnool Airport,Orvakal
+9.83450985,78.09339905,Madurai Airport,Madurai
+12.95471,74.886812,Mangaluru International Airport,Mangaluru
+12.990005,80.169296,Chennai International Airport,Chennai
+12.229751,76.653683,Mysore Airport,Mysore
+11.640194,92.72902,Veer Savarkar International Airport / INS Utkrosh,Port Blair
+11.968,79.812,Pondicherry Airport,Puducherry (Pondicherry)
+14.14929962,77.79109955,Sri Sathya Sai Airport,Puttaparthi
+17.105799,81.813204,Rajahmundry Airport,Madhurapudi
+11.7833004,78.06559753,Salem Airport,Salem
+13.631988,79.539869,Tirupati International Airport,Tirupati
+10.762915,78.717741,Tiruchirappalli International Airport,Tiruchirappalli
+8.481889,76.920029,Thiruvananthapuram International Airport,Thiruvananthapuram
+17.971512,83.503617,Alluri Sitarama Raju International Airport (Vizag),Visakhapatnam
+26.88456,90.46412,Gelephu Airport,Gelephu
+27.4032,89.424599,Paro International Airport,Paro
+5.817407,73.468404,Maafaru International Airport,Noonu Atoll
+-0.692975,73.152627,Gan International Airport,Gan
+6.743235,73.167072,Hanimaadhoo International Airport,Haa Dhaalu Atoll
+1.85916996,73.52189636,Kadhdhoo Airport,Kadhdhoo
+4.19183,73.529099,Velana International Airport,Malé
+0.488131,72.996902,Kaadedhdhoo Airport,Huvadhu Atoll
+3.471751,72.832633,Villa International Airport Maamigili,Maamigili
+13.9126,100.607002,Don Mueang International Airport,Bangkok
+14.10200024,99.91719818,Kamphaeng Saen Airport,Nakhon Pathom
+14.87462,100.663397,Khok Kathiam Airport,Lop Buri
+12.2746,102.319,Trat Airport,Laem Ngop
+13.6811,100.747002,Suvarnabhumi Airport,Bangkok
+12.6799,101.004997,U-Tapao–Rayong–Pattaya International Airport,Rayong
+18.76679993,98.96260071,Chiang Mai International Airport,Chiang Mai
+19.3013,97.9758,Mae Hong Son Airport,Mae Hong Son
+18.27090073,99.5042038,Lampang Airport,
+18.80789948,100.7829971,Nan Airport,
+18.1322,100.165001,Phrae Airport,
+19.952299,99.882896,Mae Fah Luang - Chiang Rai International Airport,Chiang Rai
+16.6760006,101.1949997,Phetchabun Airport,
+12.63619995,99.95149994,Hua Hin Airport,Hua Hin
+15.2773,100.295998,Takhli Royal Thai Air Force Base,Takhli
+16.69989967,98.54509735,Mae Sot Airport,
+17.23800087,99.81819916,Sukhothai Airport,
+16.7829,100.278999,Phitsanulok Airport,Phitsanulok
+16.896,99.253304,Tak Airport,
+9.132599831,99.13559723,Surat Thani Airport,Surat Thani
+6.519919872,101.7429962,Narathiwat Airport,
+10.7112,99.361702,Chumphon Airport,Chumphon
+8.539620399,99.94470215,Nakhon Si Thammarat Airport,Nakhon Si Thammarat
+8.095591,98.988955,Krabi International Airport,Krabi
+7.186560154,100.6080017,Songkhla Airport,
+6.78546,101.153999,Pattani Airport,
+9.54779,100.061996,Samui International Airport,Na Thon (Ko Samui Island)
+8.47115,99.955597,Cha Eian Airport,Nakhon Si Thammarat
+8.113257,98.3174,Phuket International Airport,Phuket
+9.77762,98.585503,Ranong Airport,Ranong
+6.93321,100.392998,Hat Yai International Airport,Hat Yai
+7.50874,99.6166,Trang Airport,Trang
+17.386186,102.788577,Udon Thani International Airport,Udon Thani
+17.19510078,104.1190033,Sakon Nakhon Airport,
+14.86830044,103.4980011,Surin Airport,Surin
+16.46660042,102.7839966,Khon Kaen Airport,Khon Kaen
+17.43910027,101.7220001,Loei Airport,
+15.2295,103.252998,Buri Ram Airport,Buriram
+14.9495,102.313004,Nakhon Ratchasima Airport,Chaloem Phra Kiat
+15.25129986,104.8700027,Ubon Ratchathani Airport,Ubon Ratchathani
+16.1168,103.774002,Roi Et Airport,Roi Et
+17.383801,104.642998,Nakhon Phanom Airport,Nakhon Phanom
+12.66829968,108.1200027,Buon Ma Thuot Airport,Buon Ma Thuot
+20.817428,106.724315,Cat Bi International Airport,Haiphong (Hai An)
+9.177667,105.177778,Cà Mau Airport,Ca Mau City
+11.9982,109.219002,Cam Ranh International Airport / Cam Ranh Air Base,Nha Trang/nha Trang aiurportCam Ranh
+8.73183,106.633003,Con Dao Airport,Con Dao
+10.083397,105.709371,Can Tho International Airport,Can Tho
+21.39749908,103.0080032,Dien Bien Phu Airport,Dien Bien Phu
+17.515,106.590556,Dong Hoi Airport,Dong Hoi
+11.750556,108.366997,Lien Khuong Airport,Da Lat
+16.0439,108.198997,Da Nang International Airport,Da Nang
+21.040501,105.886002,Gia Lam Air Base,Hanoi  (Long Bien)
+21.221201,105.806999,Noi Bai International Airport,Hanoi (Soc Son)
+16.400581,107.704094,Phu Bai International Airport,Huế
+13.955,109.042,Phu Cat Airport,Quy Nohn
+14.00450039,108.0169983,Pleiku Airport,Pleiku
+10.169783,103.99353,Phú Quốc International Airport,Phu Quoc Island
+9.958029972,105.1323795,Rach Gia Airport,Rach Gia
+13.0496,109.334,Dong Tac Airport,Tuy Hoa
+10.8188,106.652,Tan Son Nhat International Airport,Ho Chi Minh City
+21.120693,107.41539,Van Don International Airport,Van Don
+18.73760033,105.6709976,Vinh Airport,Vinh
+14.1039,98.203598,Dawei Airport,Dawei
+20.74714,96.792029,Heho Airport,Heho
+21.3015995,99.63600159,Kengtung Airport,Kengtung
+19.42639923,93.53479767,Kyaukpyu Airport,Kyaukpyu
+10.04930019,98.53800201,Kawthoung Airport,Kawthoung
+19.69149971,97.21479797,Loikaw Airport,Loikaw
+22.97789955,97.75219727,Lashio Airport,Lashio
+21.70219994,95.97789764,Mandalay International Airport,Mandalay
+12.43980026,98.62149811,Myeik Airport,Mkeik
+25.3836,97.351898,Myitkyina Airport,Myitkyina
+20.88640022,95.89279175,Meiktila Air Base,Meiktila
+23.09250069,96.64530182,Momeik Airport,
+20.51679993,99.25679779,Mong Hsat Airport,Mong Hsat
+25.35440063,97.29519653,Nampong Air Base,Myitkyina
+20.89049911,97.73590088,Namsang Airport,Namsang
+19.623501,96.200996,Nay Pyi Taw International Airport,Naypyitaw
+27.32990074,97.42630005,Putao Airport,Putao
+20.94169998,95.91449738,Shante Air Base,Meiktila
+20.133165,92.870693,Sittwe Airport,Sittwe
+18.46069908,94.30010223,Thandwe Airport,Thandwe
+20.48380089,99.93540192,Tachileik Airport,Tachileik
+16.90730095,96.1332016,Yangon International Airport,Yangon
+-5.075539,119.553702,Sultan Hasanuddin International Airport,Makassar
+-1.19002,136.108002,Frans Kaisiepo Airport,Biak
+-1.82842,136.062402,Stevanus Rumbewas Airport,Serui
+-4.52978,136.887388,Mozes Kilangin Airport,Timika
+-8.537184,118.685002,Sultan Muhammad Salahuddin Airport,Bima
+-8.748409,115.167123,Denpasar I Gusti Ngurah Rai International Airport,Kuta. Badung
+-8.759962,116.278169,Lombok International Airport,Mataram (Pujut. Lombok Tengah)
+0.831012,127.381611,Sultan Babullah Airport,Ternate
+2.04599,128.324997,Pitu Airport,Gotalalamo-Morotai Island
+-3.184359,119.919104,Toraja Airport,Toraja
+-0.916462,119.908647,Mutiara - SIS Al-Jufrie Airport,Palu
+-1.414121,120.659241,Kasiguncu Airport,Poso-Celebes Island
+-1.035893,122.773934,Syukuran Aminuddin Amir Airport,Luwok
+-2.227146,113.943388,Tjilik Riwut Airport,Palangkaraya
+-7.905338,110.057264,Yogyakarta International Airport,Yogyakarta
+-7.64506,109.033997,Tunggul Wulung Airport,Cilacap
+-2.579627,140.519857,Dortheys Hiyo Eluay International Airport,Sentani
+-4.9071,140.6277,Oksibil Airport,Oksibil
+-8.523898,140.419693,Mopah International Airport,Merauke
+-6.09669,140.303521,Tanah Merah Airport,Tanah Merah
+-1.16053,116.71193,Nusantara International Airport,Nusantara
+-1.268342,116.89452,Sultan Aji Muhammad Sulaiman Sepinggan International Airport,Balikpapan
+3.325145,117.564169,Juwata International Airport / Suharnoko Harbani AFB,Tarakan
+-0.374478,117.250128,Aji Pangeran Tumenggung Pranoto International Airport,Samarinda
+3.68478,125.527162,Naha Airport,Tabukan Utara. Sangihe Islands
+1.548591,124.92625,Sam Ratulangi International Airport,Manado
+-2.21656,115.435997,Warukin Airport,Tanta-Tabalong
+-3.440112,114.761209,Syamsudin Noor International Airport,Banjarbaru
+-5.760278,132.759444,Karel Sadsuitubun Airport,Langgur
+-3.143159,126.976469,Namniwel Airport,Namniwel
+-3.71026,128.089005,Pattimura International Airport,Ambon
+2.14776,117.430705,Kalimarau Airport,Tanjung Redeb - Borneo Island
+-7.929099,112.714233,Abdul Rachman Saleh Airport,Malang
+-7.78818,110.431999,Adisutjipto International Airport,Yogyakarta
+-7.516044,110.757492,Adisoemarmo International Airport,Surakarta
+-7.37983,112.787003,Juanda International Airport,Surabaya
+-6.970732,110.373244,Jenderal Ahmad Yani Airport,Semarang
+-2.920508,132.267011,Fakfak Airport,Fakfak
+-3.6446,133.695116,Utarom Airport,Kaimana
+-2.53224,133.438995,Babo Airport,Babo
+-0.891833,134.048996,Rendani Airport,Manokwari
+-0.894,131.287,Domine Eduard Osok Airport,Sorong
+-10.1716,123.670998,El Tari Airport,Kupang
+-4.097324,138.952417,Wamena Airport,Wamena
+-5.292123,123.636233,Matahora Airport,Wangi-wangi Island
+-4.338158,121.524047,Sangia Nibandera Airport,Kolaka
+3.123850107,113.0199966,Bintulu Airport,Bintulu
+1.487364,110.352859,Kuching International Airport,Kuching
+4.808300018,115.0100021,Limbang Airport,Limbang
+2.881944,112.043333,Mukah Airport,Mukah
+4.178734,114.330318,Marudi Airport,Marudi
+4.32201,113.987,Miri Airport,Miri
+2.2616,111.985001,Sibu Airport,Sibu
+3.734648,115.478548,Bario Airport,Bario
+5.03241,118.32376,Lahad Datu Airport,Lahad Datu
+5.932743,116.049324,Kota Kinabalu International Airport,Kota Kinabalu
+5.301667,115.248333,Labuan Airport,Labuan
+5.900899887,118.0589981,Sandakan Airport,Sandakan
+4.31338,118.12152,Tawau Airport,Tawau
+4.04832983,114.8050003,Mulu Airport,Mulu
+4.9442,114.928001,Brunei International Airport,Bandar Seri Begawan
+0.458647,101.444321,Sultan Syarif Kasim II International Airport / Roesmin Nurjadin AFB,Pekanbaru
+1.609026,101.433493,Pinang Kampai Airport,Dumai
+-0.352808,102.334999,Japura Airport,Rengat-Sumatra Island
+-6.647384,108.165561,Kertajati International Airport,Kertajati
+-6.90063,107.575996,Husein Sastranegara International Airport,Bandung
+1.12103,104.119003,Hang Nadim International Airport,Batam
+0.92397,104.53341,Raja Haji Fisabilillah International Airport,Tanjung Pinang-Bintan Island
+-6.266989,106.890318,Halim Perdanakusuma International Airport,Jakarta
+-6.12557,106.655998,Soekarno-Hatta International Airport,Jakarta
+-5.246803,105.182531,Radin Inten II International Airport,Bandar Lampung
+1.166275,97.705196,Binaka Airport,Gunungsitoli
+1.4001,99.430496,Aek Godang Airport,Padang Sidempuan
+3.558425,98.672275,Soewondo Air Force Base,Medan
+3.637847,98.870566,Kualanamu International Airport,Beringin
+1.557127,98.887145,Dr. Ferdinand Lumban Tobing Airport,Sibolga (Pinangsori)
+3.391456,97.863726,Alas Leuser Airport,Kutacane
+-0.34864,111.746155,Nanga Pinoh Airport,Nanga Pinoh-Borneo Island
+-1.817165,109.963469,Rahadi Osman Airport,Ketapang
+3.90871,108.388,Ranai Airport,Ranai-Natuna Besar Island
+-0.152258,109.404493,Supadio International Airport,Pontianak
+0.834579,112.940217,Pangsuma Airport,Putussibau-Borneo Island
+-0.045214,111.458049,Tebelian Airport,Sintang
+-2.1622,106.139,Depati Amir Airport,Pangkal Pinang
+-3.8637,102.338997,Fatmawati Soekarno Airport,Bengkulu
+-2.897653,104.698147,Sultan Mahmud Badaruddin II Airport,Palembang
+-3.286070108,103.8799973,Pendopo Airport,Talang Gudang-Sumatra Island
+-0.785964,100.280384,Minangkabau International Airport,Padang (Katapiang)
+4.040998,96.253312,Cut Nyak Dhien Airport,Kuala Pesisir
+4.72113,96.851943,Rembele Airport,Takengon
+5.06951,97.259201,Lhok Sukon Airport,Lhok Sukon-Sumatra Island
+5.525087,95.41997,Sultan Iskandar Muda International Airport,Banda Aceh
+2.041389942,103.3069992,Kluang Airport,Kluang
+2.81818,104.160004,Tioman Airport,Tioman Island
+6.189670086,100.3980026,Sultan Abdul Halim Airport,Alor Satar
+5.46592,100.390999,RMAF Butterworth Air Base,Butterworth
+6.16685009,102.2929993,Sultan Ismail Petra Airport,Kota Baharu
+3.77538991,103.2089996,Kuantan Airport,Kuantan
+4.53722,103.427002,Kerteh Airport,Kerteh
+4.56733,101.091643,Sultan Azlan Shah Airport,Ipoh
+1.64131,103.669998,Senai International Airport,Johor Bahru
+2.74558,101.709999,Kuala Lumpur International Airport,Sepang
+6.32973,99.728699,Langkawi International Airport,Langkawi
+2.265613,102.252778,Malacca International Airport,Malacca
+5.382639885,103.1029968,Sultan Mahmud Airport,Kuala Terengganu
+5.296303,100.276185,Penang International Airport,Penang
+3.13058,101.549004,Sultan Abdul Aziz Shah International Airport,Subang
+-9.301856,125.286302,Commander in Chief of FALINTIL. Kay Rala Xanana Gusmão. International Airport,Suai
+-8.546562,125.524507,Presidente Nicolau Lobato International Airport,Dili
+-8.486479,126.399981,Baucau Airport,Baucau
+-9.198419,124.337873,Oecusse Route of the Sandalwood International Airport,Oecussi-Ambeno
+1.344140053,104.0090027,Changi Air Base (East),Singapore
+1.42526,103.813004,Sembawang Air Base,Sembawang
+1.36042,103.910004,Paya Lebar Air Base,Paya Lebar
+1.387561,103.708291,Tengah Air Base,Western Water Catchment
+1.41555,103.86673,Seletar Airport,Seletar
+1.35019,103.994003,Singapore Changi Airport,Singapore
+43.2981,45.7841,Khankala Air Base,Grozny
+50.201698,45.208302,Lebyazhye Air Base,Kamyshin
+-12.192218,96.834103,Cocos (Keeling) Islands Airport,West Island
+-10.450387,105.6911,Christmas Island International Airport,Flying Fish Cove
+34.281226,35.680096,Wujah Al Hajar Air Base,Hamat
+40.077349,116.596702,Beijing Capital International Airport,Beijing
+39.501289,116.413967,Beijing Daxing International Airport,Beijing
+39.958592,116.256765,Beijing Xijiao Airport,Beijing
+41.1225,118.073889,Chengde Puning Airport,Chengde
+42.159723,118.840971,Chifeng Yulong Airport,Chifeng
+39.666384,119.061384,Qinhuangdao Beidaihe Airport,Qinhuangdao (Changli)
+39.493514,109.8599,Ordos Ejin Horo International Airport,Ordos
+40.06139,113.480509,Datong Yungang International Airport,Datong
+43.424079,112.091081,Erenhot Saiwusu International Airport,Erenhot
+47.3106,119.9117,Arxan Yi'ershi Airport,Arxan
+36.524824,114.424126,Handan Airport,Handan
+40.849658,111.824598,Hohhot Baita International Airport,Hohhot
+45.487222,119.407222,Holingol Huolinhe Airport,Holingol
+49.208616,119.822301,Hulunbuir Hailar Airport,Hailar
+36.132629,111.641236,Linfen Yaodu Airport,Linfen (Yaodu)
+37.683333,111.142778,Lüliang Dawu Airport,Lüliang
+49.566667,117.33,Manzhouli Xijiao Airport,Manzhouli
+40.560001,109.997002,Baotou Donghe International Airport,Baotou
+39.273241,112.691552,Shuozhou Zirun Airport,Shuozhou
+38.280701,114.696999,Shijiazhuang Zhengding International Airport,Shijiazhuang
+39.12440109,117.3460007,Tianjin Binhai International Airport,Tianjin
+43.556702,122.199997,Tongliao Airport,Tongliao
+41.130266,113.107274,Ulanqab Jining Airport,Ulanqab
+39.7934,106.7993,Wuhai Airport,Wuhai
+43.91559982,115.9639969,Xilinhot Airport,Xilinhot
+35.117823,111.034023,Yuncheng Yanhu International Airport,Yuncheng (Yanhu)
+37.746899,112.627998,Taiyuan Wusu International Airport,Taiyuan
+40.926358,107.74093,Bayannur Tianjitai Airport,Bayannur
+40.738664,114.933395,Zhangjiakou Ningyuan Airport,Zhangjiakou
+47.865942,122.768662,Zhalantun Genghis Khan Airport,Zhalantun
+21.538659,109.293683,Beihai Fucheng Airport,Beihai
+23.7206,106.959999,Baise (Bose) Bama Airport,Baise (Tianyang)
+28.9189,111.639999,Changde Taohuayuan Airport,Changde (Dingcheng)
+27.443087,109.704666,Huaihua Zhijiang Airport,Huaihua
+25.753419,112.845404,Chenzhou Beihu Airport,Chenzhou
+29.104749,110.442786,Zhangjiajie Hehua International Airport,Zhangjiajie (Yongding)
+23.0825,113.070833,Foshan Shadi Airport,Foshan (Nanhai)
+23.392401,113.299004,Guangzhou Baiyun International Airport,Guangzhou (Huadu)
+28.189199,113.220001,Changsha Huanghua International Airport,Changsha (Changsha)
+24.804344,107.710819,Hechi Jinchengjiang Airport,Hechi (Jinchengjiang)
+23.049999,114.599998,Huizhou Pingtan Airport,Huizhou (Pingtan)
+25.219828,110.039553,Guilin Liangjiang International Airport,Guilin (Lingui)
+26.338661,111.610043,Yongzhou Lingling Airport,Yongzhou
+22.598071,108.181922,Nanning Wuxu International Airport,Nanning (Jiangnan)
+23.552,116.5033,Jieyang Chaoshan International Airport,Jieyang (Rongcheng)
+22.006399,113.375999,Zhuhai Jinwan Airport,Zhuhai (Jinwan)
+26.806123,110.641042,Shaoyang Wugang Airport,Shaoyang (Wugang)
+22.639474,113.803262,Shenzhen Bao'an International Airport,Shenzhen
+23.40316,111.09331,Wuzhou Xijiang Airport,Tangbu
+22.433042,110.119996,Yulin Fumian Airport,Yulin
+29.311699,113.281574,Yueyang Sanhe Airport,Yueyang (Yueyanglou)
+24.2075,109.390999,Liuzhou Bailian Airport / Bailian Air Base,Liuzhou (Liujiang)
+21.481667,110.590278,Zhanjiang Wuchuan International Airport,Zhanjiang
+34.526497,113.849165,Zhengzhou Xinzheng International Airport,Zhengzhou
+30.341178,115.03926,Ezhou Huahu International Airport,Ezhou
+30.320299,109.485001,Enshi Xujiaping Airport,Enshi (Enshi)
+32.38866,111.69425,Guangzhou MR Air Base / Guanghua Airport,Xiangyang (Laohekou)
+30.774798,114.213723,Wuhan Tianhe International Airport,Wuhan (Huangpi)
+30.29281,112.44854,Jingzhou Shashi Airport,Jingzhou (Shashi)
+34.7411,112.388,Luoyang Beijiao Airport,Luoyang (Laocheng)
+31.626,110.34,Shennongjia Hongping Airport,Shennongjia (Hongping)
+32.592889,110.906296,Shiyan Wudangshan Airport,Shiyan (Maojian)
+32.152222,112.291666,Xiangyang Liuji Airport,Xiangyang (Xiangzhou)
+32.540819,114.079141,Xinyang Minggang Airport,Xinyang
+30.554132,111.482563,Yichang Sanxia Airport,Yichang (Xiaoting)
+19.9349,110.459,Haikou Meilan International Airport,Haikou (Meilan)
+19.140951,110.452766,Qionghai Bo'ao Airport,Qionghai (Basuo)
+18.3029,109.412003,Sanya Phoenix International Airport,Sanya (Tianya)
+41.428538,129.647555,Orang (Chongjin) Airport,Hoemun-ri
+39.224098,125.669998,Pyongyang Sunan International Airport,Pyongyang
+39.412463,125.890273,Sunchon Air Base,Sunchon
+39.745201,127.473999,Sondok Airport,Sŏndŏng-ni
+39.165219,127.487931,Wonsan Kalma Airport,Wonsan
+40.161953,94.812827,Dunhuang Mogao International Airport,Dunhuang
+37.125286,97.268658,Haixi Delingha Airport,Delingha
+34.418066,100.301144,Golog Maqên Airport,Golog (Maqên)
+36.4006,94.786102,Golmud Airport,Golmud
+36.078889,106.216944,Guyuan Liupanshan Airport,Guyuan (Yuanzhou)
+38.201645,90.837843,Huatugou Airport,Mengnai
+33.133527,107.203817,Hanzhong Chenggu Airport,Hanzhong (Chenggu)
+38.322758,106.393214,Yinchuan Hedong International Airport,Yinchuan
+38.542222,102.348333,Jinchang Jinchuan Airport,Jinchang
+39.859052,98.339344,Jiayuguan International Airport,Jiayuguan
+36.515202,103.620003,Lanzhou Zhongchuan International Airport,Lanzhou (Yongdeng)
+33.789918,105.790014,Longnan Chengzhou Airport,Longnan (Cheng)
+35.802638,107.598896,Qingyang Xifeng Airport,Qingyang (Xifeng)
+34.376701,109.120003,Xi'an Xiguan Airport,Xi'an (Baqiao)
+34.5601,105.860343,Tianshui Maijishan Airport,Tianshui (Maiji)
+34.819014,102.622261,Gannan Xiahe Airport,Gannan (Xiahe)
+36.52775,102.040215,Xining Caojiabao International Airport,Haidong (Huzhu Tu Autonomous County)
+34.442207,108.762385,Xi'an Xianyang International Airport,Xi'an
+36.479413,109.464083,Yan'an Nanniwan Airport,Yan'an (Baota)
+38.35971,109.590927,Yulin Yuyang Airport,Yulin
+32.836389,97.036389,Yushu Batang Airport,Yushu (Batang)
+37.573125,105.154454,Zhongwei Shapotou Airport,Zhongwei (Shapotou)
+38.801899,100.675003,Zhangye Ganzhou Airport,Zhangye (Ganzhou)
+46.25030136,102.802002,Arvaikheer Airport,Arvaikheer
+46.37639999,96.22109985,Altai Airport,Altai
+46.1633,100.704002,Bayankhongor Airport,Bayankhongor
+48.85499954,103.4759979,Bulgan Airport,Bulgan
+46.66030121,113.2850037,Baruun Urt Airport,
+48.135381,114.647231,Choibalsan Airport,
+47.646916,106.819833,Ulaanbaatar Chinggis Khaan International Airport,Ulaanbaatar (Sergelen)
+43.608628,104.367734,Dalanzadgad Airport,Dalanzadgad
+47.954102,91.628197,Khovd Airport,Khovd
+49.663677,100.100028,Mörön Airport,Mörön
+47.843102,106.766998,Buyant-Ukhaa International Airport,Ulaanbaatar
+50.066588,91.938273,Ulaangom Airport,Ulaangom
+48.993301,89.922501,Ölgii Mongolei International Airport,Ölgii
+25.053301,99.168297,Baoshan Yunrui Airport,Baoshan (Longyang)
+23.276331,99.373169,Cangyuan Washan Airport,Lincang (Cangyuan)
+25.649401,100.319,Dali Fengyi Airport,Dali (Xiaguan)
+27.7936,99.6772,Diqing Shangri-La Airport,Diqing (Shangri-La)
+21.974648,100.762224,Xishuangbanna Gasa International Airport,Jinghong (Gasa)
+22.417733,99.784012,Lancang Jingmai Airport,Pu'er (Lancang)
+23.7381,100.025002,Lincang Boshang Airport,Lincang
+26.677483,100.244944,Lijiang Sanyi International Airport,Lijiang
+24.4011,98.5317,Dehong Mangshi International Airport,Dehong (Mangshi)
+25.110313,102.936743,Kunming Changshui International Airport,Kunming
+25.737499,101.882004,Yuanmou Air Base,Chuxiong (Yuanmou)
+24.543889,118.127454,Xiamen Gaoqi International Airport,Xiamen
+30.582199,117.050003,Anqing Tianzhushan Airport / Anqing North Air Base,Anqing
+32.847733,117.320244,Bengbu Renheji Airport,Bengbu
+31.920485,119.77546,Changzhou Benniu International Airport,Changzhou
+28.864815,115.90271,Nanchang Changbei International Airport,Nanchang
+37.50137,118.789863,Dongying Shengli Airport,Dongying (Kenli)
+32.882157,115.734364,Fuyang Xiguan Airport,Yingzhou. Fuyang
+25.929254,119.672524,Fuzhou Changle International Airport,Fuzhou (Changle)
+30.23609,120.428865,Hangzhou Xiaoshan International Airport,Hangzhou
+35.212972,115.736748,Heze Mudan Airport,Heze (Dingtao)
+29.3386,117.176003,Jingdezhen Luojia Airport,Jingdezhen
+35.647358,116.743269,Jining Da'an Airport,Jining
+36.857201,117.216003,Jinan Yaoqiang International Airport,Jinan (Licheng)
+28.96613,118.898793,Quzhou Airport,Quzhou (Kezheng)
+34.41406,119.17899,Lianyungang Huaguoshan International Airport,Lianyungang
+25.67592,116.745907,Liancheng Guanzhishan Airport,Longyan (Liancheng)
+28.562201,121.429001,Taizhou Luqiao Airport,Taizhou (Luqiao)
+35.052918,118.411828,Linyi Qiyang Airport,Linyi (Hedong)
+29.82670021,121.461998,Ningbo Lishe International Airport,Ningbo
+31.735032,118.865949,Nanjing Lukou International Airport,Nanjing
+32.073566,120.980076,Nantong Xingdong International Airport,Nantong (Tongzhou)
+31.98779,116.9769,Hefei Xinqiao International Airport,Hefei
+31.1434,121.805,Shanghai Pudong International Airport,Shanghai (Pudong)
+36.361953,120.088171,Qingdao Jiaodong International Airport,Qingdao (Jiaozhou)
+24.795855,118.588599,Quanzhou Jinjiang International Airport,Quanzhou
+32.258341,120.501131,Rugao Air Base,Rugao (Nantong)
+35.405033,119.324403,Rizhao Shanzihe Airport,Rizhao (Donggang)
+33.792712,119.126657,Huai'an Lianshui Airport,Huai'an
+26.4263,117.8336,Sanming Shaxian Airport,Sanming (Sha)
+28.3797,117.9643,Shangrao Sanqingshan Airport,Shangrao (Hengfeng)
+31.198104,121.33426,Shanghai Hongqiao International Airport,Shanghai (Minhang)
+31.2631,120.401001,Suzhou Guangfu Airport,Suzhou
+29.733299,118.255997,Huangshan Tunxi International Airport,Huangshan
+31.1045,118.66687,Wuhu Xuanzhou Airport,Wuhu
+36.646702,119.119003,Weifang Nanyuan Airport,Weifang (Kuiwen)
+37.187099,122.228996,Weihai Dashuibo Airport,Weihai
+31.496952,120.43038,Sunan Shuofang International Airport,Wuxi
+27.7019,118.000999,Nanping Wuyishan Airport,Wuyishan
+27.910572,120.853465,Wenzhou Longwan International Airport,Wenzhou (Longwan)
+34.059056,117.555278,Xuzhou Guanyin International Airport,Xuzhou
+32.5634,119.7198,Yangzhou Taizhou Airport,Yangzhou
+27.8025,114.3062,Yichun Mingyueshan Airport,Yichun
+33.428317,120.20545,Yancheng Nanyang International Airport,Yancheng (Tinghu)
+37.659724,120.978124,Yantai Penglai International Airport,Yantai
+29.342095,120.03116,Yiwu Airport,Yiwu/Jinhua
+29.933874,122.362307,Zhoushan Putuoshan International Airport,Zhoushan
+32.09794,80.053971,Ngari Gunsa Airport,Shiquanhe
+26.260556,105.873333,Anshun Huangguoshu Airport,Anshun (Xixiu)
+30.55360031,97.10829926,Qamdo Bangda Airport,Bangda
+27.267066,105.472097,Bijie Feixiong Airport,Bijie
+29.712254,106.651895,Chongqing Jiangbei International Airport,Chongqing
+31.048815,107.435646,Dazhou Jinya Airport,Dazhou (Dachuan)
+29.31632,100.060317,Daocheng Yading Airport,Garzê (Daocheng)
+28.121,108.1631,Tongren Dejiang Airport (Under Construction),Tongren
+30.9485,104.3296,Guanghan Airport,Deyang (Guanghan)
+32.390254,105.694571,Guangyuan Panlong Airport,Guangyuan (Lizhou)
+26.541805,106.80402,Guiyang Longdongbao International Airport,Guiyang (Nanming)
+32.53154,102.35224,Hongyuan Airport,Ngawa (Hongyuan)
+32.853333,103.682222,Jiuzhai Huanglong Airport,Ngawa (Songpan)
+30.142464,101.73872,Kangding Airport,Garzê (Kangding)
+26.972,107.988,Kaili Huangping Airport,Kaili  (Huangping)
+29.298001,90.911951,Lhasa Gonggar International Airport,Shannan (Gonggar)
+29.030357,105.468407,Luzhou Yunlong Airport,Luzhou (Yunlong)
+27.961837,106.435416,Zunyi Maotai Airport,Zunyi
+31.428101,104.740997,Mianyang Nanjiao Airport,Mianyang (Fucheng)
+26.32217,109.1499,Liping Airport,Liping
+29.303301,94.335297,Nyingchi Mainling Airport,Nyingchi (Mainling)
+26.609417,104.979,Liupanshui Yuezhao Airport,Liupanshui (Zhongshan)
+29.51333333,108.8311111,Qianjiang Wulingshan Airport,Qianjiang
+29.350876,89.299157,Xigaze Peace Airport / Shigatse Air Base,Xigazê (Samzhubzê)
+24.938056,98.485833,Tengchong Tuofeng Airport,Baoshan (Tengchong)
+30.31252,104.441284,Chengdu Tianfu International Airport,Chengdu (Jianyang)
+27.883333,109.308889,Tongren Fenghuang Airport,Tongren (Daxing)
+30.558257,103.945966,Chengdu Shuangliu International Airport,Chengdu (Shuangliu)
+29.465658,107.693664,Chongqing Xiannüshan Airport,Wulong
+27.9891,102.183998,Xichang Qingshan Airport,Liangshan (Xichang)
+28.858431,104.526157,Yibin Wuliangye Airport,Yibin (Cuiping)
+25.083423,104.960804,Xingyi Wanfenglin Airport,Xingyi
+26.54,101.79852,Panzhihua Bao'anying Airport,Panzhihua (Renhe)
+27.810723,107.247189,Zunyi Xinzhou Airport,Zunyi
+41.262501,80.291702,Aksu Hongqipo Airport,Aksu (Onsu)
+47.749886,88.085808,Altay Xuedu Airport,Altay
+44.895461,82.30007,Bole Alashankou Airport,Bole
+38.234516,85.465462,Qiemo Yudu Airport,Qiemo
+46.804169,89.512006,Fuyun Koktokay Airport,Fuyun
+42.8414,93.669197,Hami Airport,Hami
+41.614979,86.140817,Korla Licheng Airport,Korla
+48.2223,86.9959,Burqin Kanas Airport,Burqin
+43.756544,93.137164,Barkol Dahe Airport,Barkol
+43.4318,83.3786,Xinyuan Nalati Airport,Xinyuan
+38.974722,88.008333,Ruoqiang Loulan Airport,Ruoqiang Town
+38.24542,77.056149,Shache Airport,Shache
+39.542273,76.02023,Kashgar Laining International Airport,Kashgar
+42.911701,90.247498,Shanshan Airport,Shanshan
+43.0308,89.0987,Turpan Jiaohe Airport,Turpan
+37.03850174,79.86489868,Hotan Airport,Hotan
+43.913584,87.479372,Ürümqi Tianshan International Airport,Ürümqi
+43.955799,81.330299,Ili Yining International Airport,Ili (Yining / Ghulja)
+41.105301,122.853996,Anshan Teng'ao Airport / Anshan Air Base,Anshan
+45.505278,123.019722,Baicheng Chang'an Airport,Baicheng
+42.066944,127.602222,Changbaishan Airport,Baishan
+43.996201,125.684998,Changchun Longjia International Airport,Changchun
+41.538101,120.434998,Chaoyang Airport,Shuangta. Chaoyang
+40.025453,124.28669,Dandong Langtou International Airport,Dandong (Zhenxing)
+48.441037,126.128374,Wudalianchi Dedu Airport,Heihe
+48.197219,134.36298,Fuyuan Dongji Airport,Fuyuan
+45.623402,126.25,Harbin Taiping International Airport,Harbin
+50.171621,127.308884,Heihe Aihui Airport,Heihe
+50.371389,124.1175,Daxing'anling Elunchun Airport,Jiagedaqi
+46.842793,130.46426,Jiamusi Songjiang International Airport,Jiamusi
+47.108248,132.65792,Jiansanjiang Shidi Airport,Jiansanjiang
+45.293,131.193,Jixi Xingkaihu Airport,Jixi
+40.936032,121.277114,Jinzhou Bay Airport,Jinzhou (Linghai)
+47.752056,129.019125,Yichun Lindu Airport,Yichun
+44.525172,129.568634,Mudanjiang Hailang International Airport,Mudanjiang
+52.916871,122.422759,Mohe Gulian Airport,Mohe
+47.229969,123.914179,Qiqihar Sanjiazi Airport,Qiqihar
+44.931143,124.552121,Songyuan Chaganhu Airport,Qian Gorlos Mongol Autonomous County
+38.965719,121.538477,Dalian Zhoushuizi International Airport,Dalian (Ganjingzi)
+42.048435,125.733963,Tonghua Sanyuanpu Airport,Tonghua
+41.6398,123.483668,Shenyang Taoxian International Airport,Shenyang
+40.580328,120.700374,Xingcheng Air Base,Huludao (Xingcheng)
+42.88280106,129.451004,Yanji Chaoyangchuan Airport,Yanji
+40.542524,122.3586,Yingkou Lanqi Airport,Yingkou (Laobian)
+41.784354,123.496308,Shenyang Dongta Airport,Dadong. Shenyang

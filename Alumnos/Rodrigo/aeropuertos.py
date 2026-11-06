@@ -14,12 +14,12 @@ from shapely.geometry import Polygon
 from shapely.geometry import Point
 from shapely import transform
 aeropuertos= []
-c = open("airports.csv", encoding="utf-8")
+c = open("airports_criba.csv", encoding="utf-8")
 with c as file:
     contenido = csv.DictReader(file, delimiter=',')
     campos = (contenido.fieldnames)
     for fila in contenido:
-        aeropuerto=[float(fila[campos[0]]),float(fila[campos[1]]),str(fila[campos[2]])]
+        aeropuerto=[float(fila["latitude_deg"]),float(fila["longitude_deg"]),fila["name"],fila["municipality"]]
         aeropuertos.append(aeropuerto)
 # Instancia de Clase
 geod = Geod(ellps="WGS84")
@@ -44,5 +44,17 @@ def circulo(p):
     for az in range(0, 360):
         lon, lat, dist = geod.fwd(p[1], p[0], az, max)
         puntos.append((lon, lat))
-    return Polygon(puntos)
-print(aeropuerto_mas_cercano(asturias, aeropuertos))
+    return Polygon.puntos
+def aeropuerto_ruta(origen,destino):
+    destino,mejor_dist = aeropuerto_mas_cercano(destino, aeropuertos)
+    actual,mejor_dist = aeropuerto_mas_cercano(origen, aeropuertos)
+    ruta = [actual]
+    visitados = [actual]
+    while actual != destino:
+        lista = [ap for ap in aeropuertos if ap not in visitados and dist_acimut(actual, ap)[0] <= max]
+        actual = min(lista, key=lambda ap: dist_acimut(ap, destino)[0])
+        visitados.append(actual)
+        ruta.append(actual)
+    return ruta
+ruta = aeropuerto_ruta(asturias,moscu)
+print(ruta)
