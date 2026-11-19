@@ -1,0 +1,2533 @@
+name;latitude_deg;longitude_deg;municipality
+Sas Al Nakheel Air Base;24.44128;54.51696;Sas Al Nakheel
+Alxa Left Banner Bayanhot Airport;38.748317;105.58416;Bayanhot
+Zabrat Airport;40.494884;49.977065;Zabrat
+Sitalchay Airbase;40.807313;49.431481;Sitalchay
+Qizilagach Air Base;39.006162;48.806312;Qizilagach
+Bezmer Air Base;42.454899;26.3522;Bezmer
+Akureyri International Airport;65.656573;-18.072018;Akureyri
+Bildudalur Airport;65.641296;-23.5462;Bildudalur
+Egilsstaðir Airport;65.28330231;-14.40139961;Egilsstaðir
+Grímsey Airport;66.5458;-18.0173;Grímsey/Sandvík
+Hornafjörður Airport;64.295601;-15.2272;Höfn
+Húsavík Airport;65.952301;-17.426001;Húsavík
+Ísafjörður Airport;66.058098;-23.1353;Ísafjörður
+Keflavik International Airport;63.985001;-22.6056;Reykjavík
+Reykjavík Domestic Airport;64.128732;-21.93759;Reykjavík
+Mývatn Airport;65.6558;-16.9181;Myvatn
+Siglufjörður Airport;66.137847;-18.908157;Siglufjörður
+Vestmannaeyjar Airport;63.42430115;-20.27890015;Vestmannaeyjar
+Vopnafjörður Airport;65.720596;-14.8506;Vopnafjörður
+Priština Adem Jashari International Airport;42.5728;21.035801;Prishtina
+Betong International Airport;5.79;101.15;Betong
+Orsha Airport - Balbasovo Air Base;54.439999;30.2967;Orsha
+Osovtsy Air Base;52.556999;24.884001;Byaroza
+Laohutun Air Base;39.669998;121.765999;Dalian (Wafangdian)
+Pulandian Air Base;39.450901;122.017998;Dalian (Pulandian)
+Beijing Shahezhen Air Base;40.14916611;116.3213882;Beijing
+Beijing Tongxian Air Base;39.81111145;116.7083359;Beijing
+Fengning Air Base;41.26079941;116.6179962;
+Hohhot Bikeqi Air Base;40.737015;111.229749;Hohhot
+Huairen Air Base;39.717499;113.142998;Shuozhou
+Liangxiangzhen Air Base;39.757801;116.125999;Beijing
+Tangguantun Air Base;38.781101;117.068001;Jinghai
+Wenshui Air Base;37.407799;111.966003;Lüliang
+Yangcun Air Base;39.37329865;117.0950012;
+Yongning Air Base;40.50310135;116.1080017;Yongning
+Tangshan Zunhua Air Base;40.102501;117.887001;Tangshan
+Chengdu Huangtianba Air Base;30.705299;103.949997;Chengdu (Qingyang)
+Chongqing Baishiyi Air Base;29.4953;106.359001;Chongqing
+Luliang Air Base;24.988192;103.642833;Qujing (Luliang)
+Honghe Mengzi Airport / Mengzi Air Base;23.3953;103.334;Honghe
+Qionglai Air Base;30.49099;103.466139;Chengdu (Qionglai)
+Wenshan Air Base;23.71559906;103.8270035;
+Xiangyun Midu Air Base;25.445299;100.735001;Dali (Xiangyun)
+Baihe Ningming Air Base;22.120481;107.125046;Ningming
+Changsha Datuopu Airport / Changsha Air Base;28.068522;112.957306;Changsha (Tianxin)
+Dangyang Air Base;30.798599;111.809998;Yichang (Dangyang)
+Foluo Northeast Air Base;18.6922;109.161003;Ledong (Da'anzhen)
+Bazhong Enyang Airport;31.73842;106.644872;Bazhong
+Guiping Mengxu Air Base;23.330799;110.009003;Guiping (Guigang)
+Jialaishi Air Base;19.697201;109.725998;Lingao (Jialai)
+Leiyang Air Base;26.58720016;112.8919983;
+Lingshui Air Base;18.4944;109.987999;Lingshui (Huayuan)
+Shangqiu Air Base;34.449507;115.459261;Shangqiu
+Zhengzhou Air Base;34.86125;113.729631;Zhengzhou
+Shaoguan Danxia Airport;24.9786;113.420998;Shaoguan
+Suixi Air Base;21.3958;110.199997;Zhanjiang (Suixi)
+Jinggangshan Airport;26.856899;114.737;Ji'an
+Guodu Air Base;36.000428;117.625833;Xintai. Tai'an
+Xiaogan Air Base;30.95359;113.911774;Xiaogan (Xiaonan)
+Cangxian Air Base;38.403025;116.930924;Cangzhou
+Jiaozhou Jiaocheng Air Base;36.331163;120.025538;Qingdao (Jiaozhou)
+Jiugucheng Air Base;37.491153;116.116726;Hengshui
+Kaifeng Air Base;34.75389862;114.3389969;Kaifeng
+Laiyang Air Base;36.9636;120.591003;Yantai
+Luyang Air Base;33.685434;112.89053;Xuchang (Pingdingshan)
+Xuzhou Daguozhang Air Base;34.229285;117.245665;Xuzhou
+Zhucheng Air Base;36.027468;119.43778;Weifang (Zhucheng)
+Baoji Air Base;34.53125;107.470679;Baoji (Fengxiang)
+Hainanzhou Gonghe Airport;36.3367;100.480003;Hainan (Gonghe)
+Huangdicun Naval Air Base;40.49979;120.659295;Huludao
+Lanzhou Air Base;35.917801;104.218002;Lanzhou (Yuzhong)
+Lintao Air Base;35.3083;103.835999;Dingxi (Lintao)
+Qingshui Air Base;39.554699;98.884201;Jiuquan (Suzhou)
+Ürümqi South Air Base;43.466593;87.531177;Ürümqi
+Malan Air Base;42.180621;87.186784;Hoxud. Bayingolin
+Wugong Air Base;34.275907;108.2658;Xianyang (Wugong)
+Ürümqi Changji Air Base;43.951175;87.079232;Ashilixiang
+Wuwei Air Base;37.9883;102.567001;Wuwei
+Xi'an Air Base;34.153059;108.599739;Xi'an (Huyi)
+Xincheng Air Base;25.5483;114.619003;Ganzhou
+Yaerbashi Test Range;43.077202;92.808098;Yizhou. Hami
+Yanliang Air Base;34.642248;109.241867;Xi'an (Yanliang)
+Daishan Air Base;30.287581;122.144401;Zhoushan
+Feidong Air Base;31.909401;117.658997;Hefei
+Fuzhou Air Base;26.003857;119.312832;Fuzhou (Cangshan)
+Huian Air Base;25.0261;118.806999;Quanzhou (Huian)
+Hangzhou Jianqiao Airport;30.3353;120.240997;Hangzhou
+Jiaxing Nanhu Airport;30.698056;120.663056;Xiuzhou. Hangzhou
+Longtian Air Base;25.5728;119.459999;Fuzhou (Fuqing)
+Nanchang Xiangtang Air Base;28.421205;115.923375;Nanchang
+Ningbo Zhuangqiao Air Base;29.9228;121.573997;Ningbo
+Shanghai Dachang Air Base;31.324438;121.409508;Shanghai (Baoshan)
+Wuhan Hannan Municipal Airport;30.25521;114.062805;Wuhan (Hannan)
+Zhangshu Air Base;28.023283;115.549649;Yichun
+Changchun Air Base;43.906591;125.197005;Changchun
+Beijing Nanjiao Airport;39.482845;116.372295;Beijing
+Dingxin-Shuangchengzi Air Base;40.401402;99.789398;Jiuquan (Jinta)
+Fuxin Air Base;42.078899;121.662003;Xihe. Fuxin
+Gongzhuling Air Base;43.526293;124.78466;Siping
+Kaiyuan Air Base;42.525934;123.984683;Qinghe. Tieling
+Lalin Air Base;45.259457;126.893536;Harbin
+Pingquan Air Base;40.900409;118.677878;Chengde
+Shenyang Beiling Air Base;41.8708;123.439003;Huanggu. Shenyang
+Shenyang Yuhong Quansheng Airport;41.822498;123.299004;Yuhong. Shenyang
+Siping Air Base;43.156898;124.292;Siping
+Suizhong Air Base;40.298992;120.36152;Huludao (Suizhong)
+Tuchengzi Air Base;38.912201;121.238998;Dalian (Lüshunkou)
+Shigatse Tingri Airport;28.604567;86.798;Xigazê (Dingri)
+Tashikuergan Hongqilafu Airport;37.661333;75.288877;Tashikuergan
+Leshan Airport;29.438627;103.749218;Leshan (Wutongqiao)
+Jiande Qiandaohu General Airport;29.360905;119.180829;Hangzhou
+Sanya Air Base;18.28754;109.46372;Sanya (Tianya)
+Chenghu General Airport;31.215334;120.789328;Suzhou
+Anji Tianzihu General Airport;30.797725;119.590287;Anji
+Jiuzhou Airport;26.99838;107.759041;Jiuzhou
+Paozhuwan Air Base;30.673944;114.63089;Wuhan (Xinzhou)
+Shanpo Air Base;30.087612;114.31366;Wuhan
+Ali Pulan Airport;30.397898;81.13317;Burang Town
+Shaodong Airport;27.2235;111.6741;Shaoyang (Shaodong)
+Ningxiang Airport;27.987589;112.604971;
+Hohhot Shengle International Airport (under construction);40.480965;111.575174;Hohhot
+Zhaotong Zhaoyang Airport;27.205843;103.691511;Zhaotong
+Bengbu Tenghu Airport;33.166292;117.058344;Bengbu
+[Duplicate] Beijing Xijiao Airport;39.958592;116.256765;Beijing
+Hancheng Heyang Airport;35.329133;110.3829;Zhiyang Town
+Sanshilipu Air Base;39.289671;121.762195;Dalian (Jinzhou)
+Kostomlaty Airstrip;50.20843;14.92585;
+Antwerp International Airport (Deurne);51.190667;4.463153;Antwerp
+Beauvechain Air Base;50.758598;4.76833;Beauvechain
+Kleine Brogel Air Base;51.168301;5.47;Kleine Brogel
+Brussels Airport;50.901402;4.48444;Zaventem
+Brussels South Charleroi Airport;50.461963;4.459562;Charleroi
+Chièvres Air Base;50.575802;3.831;Chièvres
+Koksijde Air Base;51.090302;2.65278;Koksijde
+Florennes Air Base;50.24330139;4.645830154;Florennes
+Kortrijk-Wevelgem International Airport;50.818878;3.209551;Wevelgem
+Liège Airport;50.638574;5.443897;Grâce-Hollogne
+Ostend-Bruges International Airport;51.1998;2.874673;Oostende
+Leipzig–Altenburg Airport;50.981945;12.506389;Nobitz
+Heringsdorf Airport;53.8787;14.1523;Zirchow
+Neubrandenburg Trollenhagen Airport;53.6022;13.306;Trollenhagen
+Rothenburg/Görlitz Airfield;51.363335;14.95;Rothenburg/Oberlausitz
+Berlin Brandenburg Airport;52.361738;13.502341;Berlin
+Dresden Airport;51.134123;13.767831;Dresden
+Erfurt-Weimar Airport;50.978281;10.960713;Erfurt
+Frankfurt Main Airport;50.026706;8.55835;Frankfurt am Main
+Münster Osnabrück Airport;52.133816;7.688482;Greven
+Hamburg Helmut Schmidt Airport;53.630402;9.98823;Hamburg
+Cologne Bonn Airport;50.865898;7.14274;Köln (Cologne)
+Düsseldorf Airport;51.289501;6.76678;Düsseldorf
+Munich Airport;48.353802;11.7861;Munich
+Nuremberg Airport;49.498699;11.078056;Nuremberg
+Leipzig/Halle Airport;51.420657;12.232705;Schkeuditz
+Saarbrücken Airport;49.214545;7.109735;Saarbrücken
+Stuttgart Airport;48.689899;9.22196;Stuttgart
+Hannover Airport;52.461102;9.68508;Hannover
+Bremen Airport;53.046786;8.78932;Bremen
+Frankfurt-Egelsbach Airport;49.96;8.643043;Egelsbach
+Frankfurt-Hahn Airport;49.946353;7.261734;Frankfurt am Main (Lautzenhausen)
+Mannheim-City Airport;49.473057;8.514167;Mannheim
+Mainz-Finthen Airfield;49.967499;8.147222;Mainz
+Eisenach-Kindel Airport;50.991604;10.47973;Hörselberg-Hainich
+Siegerland Airport;50.707699;8.08297;Burbach
+Hamburg-Finkenwerder Airport;53.535278;9.835556;Hamburg
+Kiel-Holtenau Airport;54.37957;10.145266;Kiel
+Lübeck Blankensee Airport;53.805401;10.7192;Lübeck
+Memmingen Allgau Airport;47.988092;10.238248;Memmingen
+Bielefeld Airport;51.964722;8.544444;Bielefeld
+Mönchengladbach Airport;51.230278;6.504444;Mönchengladbach
+Paderborn Lippstadt Airport;51.612527;8.617459;Büren
+Weeze (Niederrhein) Airport;51.601362;6.141228;Weeze
+Dortmund Airport;51.518299;7.61224;Dortmund
+Augsburg Airport;48.425278;10.931667;Augsburg
+Landshut Airfield;48.512019;12.034865;Landshut
+Oberpfaffenhofen Airport;48.081402;11.2831;Weßling
+Bodensee Airport Friedrichshafen;47.671299;9.51149;Friedrichshafen
+Bamberg-Breitenau Airfield;49.920403;10.914233;Bamberg
+Bayreuth Airport;49.985001;11.64;Bindlach
+Hof-Plauen Airport;50.288544;11.852876;Hof
+Karlsruhe Baden-Baden Airport;48.7794;8.0805;Rheinmünster
+Donaueschingen-Villingen Airfield;47.973331;8.522222;Donaueschingen
+Lahr Airport;48.369301;7.82772;Lahr/Schwarzwald
+Mengen-Hohentengen Airfield;48.05389;9.372778;Mengen
+Adolf Würth Airport;49.118332;9.783889;Schwäbisch Hall
+Zerbst Airfield;52.000832;12.148611;Straguth
+Braunschweig-Wolfsburg Airport;52.319199;10.5561;Braunschweig
+Kassel Airport;51.418395;9.391638;Calden
+Westerland Sylt Airport;54.9132;8.34047;Sylt
+Ämari Air Base;59.259599;24.204799;Keila
+Kärdla Airport;58.99079895;22.83069992;Kärdla
+Kuressaare Airport;58.22990036;22.5095005;Kuressaare
+Pärnu Airport;58.41899872;24.4727993;Pärnu
+Lennart Meri Tallinn Airport;59.413246;24.83264;Tallinn
+Tartu Airport;58.307438;26.686473;Tartu
+Enontekio Airport;68.36260223;23.42429924;Enontekio
+Halli Airport;61.856039;24.786686;Jämsä
+Helsinki Vantaa Airport;60.318363;24.963341;Helsinki (Vantaa)
+Kitee Airport;62.1661;30.073601;Kitee
+Ivalo Airport;68.6073;27.4053;Ivalo
+Joensuu Airport;62.658815;29.619398;Joensuu
+Jyväskylä Airport;62.399502;25.678301;Jyväskylän Maalaiskunta
+Kauhava Airfield;63.127102;23.051399;Kauhava
+Kemi-Tornio Airport;65.77870178;24.58209991;Kemi / Tornio
+Kajaani Airport;64.2855;27.6924;Kajaani
+Kauhajoki Airfield;62.463212;22.390817;Kauhajoki
+Kokkola-Pietarsaari Airport;63.721199;23.143101;Kokkola / Kruunupyy
+Kuusamo Airport;65.987602;29.239401;Kuusamo
+Kittilä International Airport;67.700996;24.8468;Kittilä
+Kuopio Airport;63.007099;27.7978;Kuopio / Siilinjärvi
+Lappeenranta Airport;61.044601;28.144743;Lappeenranta
+Mariehamn Airport;60.1222;19.898199;Mariehamn
+Mikkeli Airport;61.6866;27.201799;Mikkeli
+Oulu Airport;64.930099;25.354601;Oulu / Oulunsalo
+Pori Airport;61.4617;21.799999;Pori
+Helsinki East-Redstone Aerodrome;60.479167;26.593889;Helsinki (Pyhtää)
+Rovaniemi Airport;66.563327;25.829751;Rovaniemi
+Savonlinna Airport;61.9431;28.945101;Savonlinna
+Seinäjoki Airport;62.692101;22.8323;Seinäjoki / Ilmajoki
+Sodankyla Airport;67.39499664;26.61910057;Sodankyla
+Tampere-Pirkkala Airport;61.414101;23.604401;Tampere / Pirkkala
+Turku Airport;60.514099;22.2628;Turku
+Utti Air Base;60.8964;26.9384;Utti / Valkeala
+Vaasa Airport;63.05023;21.762543;Vaasa
+Varkaus Airport;62.171101;27.868601;Varkaus / Joroinen
+Ylivieska Airfield;64.054722;24.725278;Ylivieska
+Belfast International Airport;54.65750122;-6.215829849;Belfast
+Enniskillen/St Angelo Airport;54.398274;-7.651179;Enniskillen. Fermanagh and Omagh
+George Best Belfast City Airport;54.618099;-5.8725;Belfast
+City of Derry Airport;55.042801;-7.16111;Derry. Derry and Strabane
+Birmingham Airport;52.453899;-1.74803;Birmingham. West Midlands
+Gloucestershire Airport;51.894199;-2.16722;Staverton. Gloucestershire
+Nottingham City Airport;52.919998;-1.07917;Nottingham. Nottinghamshire
+Manchester Airport;53.349375;-2.279521;Manchester. Greater Manchester
+Royal Marines Base Chivenor;51.0872;-4.15034;Chivenor
+MoD Boscombe Down;51.152199;-1.74741;Salisbury. Wiltshire
+RNAS Culdrose;50.08610153;-5.255710125;Helston
+MOD St Athan;51.405229;-3.433254;St Athan. Vale of Glamorgan
+RNAS Yeovilton;51.009399;-2.63882;Yeovil. Somerset
+Campbeltown Airport;55.437199;-5.68639;Campbeltown
+Eday Airport;59.19060135;-2.772219896;Eday
+Haverfordwest Airport;51.83309937;-4.961110115;Haverfordwest
+Cardiff International Airport;51.396702;-3.34333;Cardiff
+Swansea Airport;51.601366;-4.071006;Swansea
+Bristol Airport;51.382326;-2.716453;Bristol
+Liverpool John Lennon Airport;53.334863;-2.849637;Liverpool
+London Luton Airport;51.874699;-0.368333;Luton. Luton
+Bournemouth Airport;50.780483;-1.839576;Bournemouth
+Southampton Airport;50.950298;-1.3568;Southampton
+Lasham Airfield;51.18744;-1.031663;Alton. Hampshire
+Cornwall Airport Newquay;50.440601;-4.99541;Newquay
+Alderney Airport;49.706104;-2.21472;Saint Anne
+Guernsey Airport;49.435001;-2.60197;Saint Peter Port
+Jersey Airport;49.207901;-2.19551;St. Peter
+Brighton City Airport;50.835602;-0.297222;Brighton. East Sussex
+London Biggin Hill Airport;51.3307991;0.032499999;London
+London Gatwick Airport;51.148744;-0.185739;London
+London City Airport;51.505299;0.055278;London
+Farnborough Airport;51.275799;-0.776333;Farnborough. Hampshire
+Blackbushe Airport;51.323898;-0.8475;Camberley. Surrey
+London Heathrow Airport;51.470748;-0.459909;London
+London Southend Airport;51.570562;0.693627;Southend-on-Sea. Essex
+Lydd London Ashford Airport;50.956246;0.939074;Romney Marsh. Kent
+Carlisle Lake District Airport;54.9375;-2.80917;Carlisle. Cumbria
+Blackpool Airport;53.771702;-3.02861;Blackpool
+Humberside Airport;53.576152;-0.34954;Grimsby. Lincolnshire
+Barrow Walney Island Airport;54.1286111;-3.2675;Barrow-in-Furness
+Leeds Bradford Airport;53.865898;-1.66057;Leeds. West Yorkshire
+Warton Aerodrome;53.745098;-2.88306;Warton
+Hawarden Airport;53.178101;-2.97778;Broughton
+Isle of Man Airport;54.083081;-4.623871;Castletown. Rushen
+Newcastle International Airport;55.037958;-1.689577;Newcastle upon Tyne. Tyne and Wear
+Teesside International Airport;54.509201;-1.42941;Darlington. Durham
+East Midlands Airport;52.8311;-1.32806;Nottingham. Leicestershire
+RAF Spadeadam;55.04999924;-2.549999952;Spadeadam
+RAF Shawbury;52.798199;-2.66804;Shrewsbury. Shropshire
+Anglesey Airport;53.2481;-4.53534;Angelsey
+Kirkwall Airport;58.957903;-2.905077;Kirkwall. Orkney Islands
+Sumburgh Airport;59.878899;-1.29556;Lerwick. Shetland
+Wick John O'Groats Airport;58.4589;-3.09306;Wick
+Aberdeen International Airport;57.2019;-2.19778;Aberdeen
+Inverness Airport;57.5425;-4.0475;Inverness. Highland
+Glasgow Airport;55.871899;-4.43306;Glasgow
+Edinburgh Airport;55.950145;-3.372288;Ingliston. Edinburgh
+Islay Airport;55.682708;-6.257525;Isle of Islay. Argyll and Bute
+Glasgow Prestwick Airport;55.501499;-4.577182;Prestwick. South Ayrshire
+Benbecula Airport;57.481098;-7.36278;Balivanich
+Dundee Airport;56.452499;-3.02583;Dundee
+Stornoway Airport;58.215599;-6.33111;Stornoway. Western Isles
+Barra Airport;57.0228;-7.44306;Eoligarry
+Tiree Airport;56.499199;-6.86917;Balemartine. Argyll and Bute
+Leuchars Station Airfield;56.37398;-2.868862;Leuchars. Fife
+RAF Lossiemouth;57.7052;-3.33917;Lossiemouth. Moray
+Cambridge City Airport;52.205002;0.175;Cambridge. Cambridgeshire
+Norwich Airport;52.6758;1.28278;Norwich. Norfolk
+London Stansted Airport;51.884998;0.235;London. Essex
+Cranfield Airport;52.072201;-0.616667;Cranfield. Central Bedfordshire
+Exeter International Airport;50.734261;-3.413984;Exeter. Devon
+London Oxford Airport;51.836899;-1.32;Kidlington. Oxfordshire
+RAF Benson;51.614366;-1.095991;Wallingford. Oxfordshire
+RAF Lakenheath;52.40954;0.561161;Brandon. Suffolk
+RAF Mildenhall;52.3619;0.486406;Bury Saint Edmunds. Suffolk
+Wattisham Airfield;52.127451;0.956189;Ipswich. Suffolk
+RAF Fairford;51.683568;-1.789172;Fairford. Gloucestershire
+RAF Brize Norton;51.75;-1.58362;Carterton. Oxfordshire
+RAF Odiham;51.2341;-0.942825;Hook. Hampshire
+RAF Cosford;52.640524;-2.305326;Cosford. Shropshire
+RAF Northolt;51.553001;-0.418167;Northolt. Greater London
+RAF Coningsby;53.092999;-0.166014;Lincoln. Lincolnshire
+RAF Leeming;54.297191;-1.538944;Northallerton. North Yorkshire
+Leeds East Airport;53.834747;-1.194678;Tadcaster. North Yorkshire
+RAF Honington;52.342602;0.772939;Bury Saint Edmunds. Suffolk
+RAF Wittering;52.612598;-0.476453;Peterborough. Cambridgeshire
+RAF Waddington;53.166199;-0.523811;Lincoln. Lincolnshire
+RAF Topcliffe;54.204116;-1.380265;Thirsk. North Yorkshire
+RAF Cranwell;53.027308;-0.493104;Sleaford. Lincolnshire
+RAF Barkston Heath;52.960616;-0.559428;Grantham. Lincolnshire
+RAF Marham;52.648395;0.550692;King's Lynn. Norfolk
+Amsterdam Airport Schiphol;52.308601;4.76389;Amsterdam
+Kempen Airport Budel;51.255299;5.60139;Weert
+Maastricht Aachen Airport;50.911087;5.769401;Maastricht
+Deelen Air Base;52.0606;5.87306;Arnhem
+Eindhoven Airport;51.45009995;5.374529839;Eindhoven
+Groningen Airport Eelde;53.119107;6.577652;Groningen
+Gilze Rijen Air Base;51.567402;4.93183;Rijen
+De Kooy Airfield / Den Helder Naval Air Station;52.923401;4.78062;Den Helder
+Lelystad Airport;52.453188;5.514622;Lelystad
+Leeuwarden Air Base;53.22859955;5.760560036;Leeuwarden
+Rotterdam The Hague Airport;51.956902;4.43722;Rotterdam
+Twente Airport;52.275833;6.889167;Enschede
+Volkel Air Base;51.657222;5.707778;Uden
+Woensdrecht Air Base;51.4491;4.34203;Hoogerheide
+Cork International Airport;51.841301;-8.49111;Cork
+Donegal Airport;55.0442009;-8.340999603;Donegal
+Dublin Airport;53.428713;-6.262121;Dublin
+Ireland West Airport Knock;53.910439;-8.817002;Charlestown
+Kerry Airport;52.180901;-9.52378;Farranfore
+Casement Air Base;53.30170059;-6.451330185;Baldonnel
+Shannon Airport;52.702;-8.92482;Shannon
+Sligo Airport;54.28020096;-8.599209785;Sligo
+Waterford Airport;52.187199;-7.08696;Waterford
+Weston Airport;53.351622;-6.490357;Leixlip
+Aarhus Airport;56.303331;10.618286;Aarhus
+Billund Airport;55.740335;9.157019;Billund
+Copenhagen Kastrup Airport;55.61790085;12.65600014;Copenhagen
+Esbjerg Airport;55.525902;8.5534;Esbjerg
+Midtjyllands Airport / Air Base Karup;56.297139;9.104311;Karup
+Lolland Falster Maribo Airport;54.699447;11.438163;Rødby
+Odense Hans Christian Andersen Airport;55.475307;10.327206;Odense
+Copenhagen Roskilde Airport;55.585602;12.1314;Roskilde
+Bornholm Airport;55.063301;14.7596;Rønne
+Sønderborg Airport;54.96440125;9.791729927;Sønderborg
+Sindal Airport;57.503502;10.2294;Sindal
+Skrydstrup Air Base;55.221048;9.26702;Vojens
+Skive Airport;56.550201;9.17298;Skive
+Thisted Airport;57.068802;8.70522;Thisted
+Kolding Vamdrup Airfield;55.436298;9.33092;Kolding / Vamdrup
+Vágar Airport;62.063256;-7.275782;Vágar
+Stauning Vestjylland  Airport;55.990101;8.35391;Skjern
+Aalborg Airport;57.094763;9.84993;Aalborg
+Luxembourg-Findel International Airport;49.626845;6.212134;Luxembourg
+Ålesund Airport;62.560443;6.110845;Ålesund
+Andøya Airport. Andenes;69.295193;16.139379;Andenes
+Alta Airport;69.976097;23.3717;Alta
+Brønnøysund Airport. Brønnøy;65.461098;12.2175;Brønnøy
+Bodø Airport;67.269203;14.3653;Bodø
+Bergen Airport. Flesland;60.2934;5.21814;Bergen
+Båtsfjord Airport;70.60025;29.692612;Båtsfjord
+Berlevåg Airport;70.871517;29.034097;Berlevåg
+Kristiansand Airport;58.204201;8.08537;Kristiansand(Kjevik)
+Bardufoss Airport;69.055801;18.5404;Målselv
+Harstad/Narvik Airport;68.491302;16.678101;Evenes
+Florø Airport;61.58359909;5.024720192;Florø
+Oslo-Gardermoen International Airport;60.193901;11.1004;Oslo (Gardermoen)
+Haugesund Airport. Karmøy;59.345299;5.20836;Karmøy
+Hammerfest Airport;70.679703;23.6686;Hammerfest
+Honningsvåg Airport. Valan;71.009697;25.983601;Honningsvåg
+Kristiansund Airport. Kvernberget;63.111801;7.82452;Kvernberget
+Kirkenes Airport. Høybuktmoen;69.7258;29.8913;Kirkenes
+Leknes Airport;68.15249634;13.6093998;Leknes
+Mehamn Airport;71.029701;27.8267;Mehamn
+Molde Airport. Årø;62.744701;7.2625;Årø
+Mosjøen Airport. Kjærstad;65.783997;13.2149;Mosjøen
+Lakselv Airport. Banak;70.068802;24.973499;Lakselv
+Notodden Airport;59.565071;9.213152;Notodden
+Ørland Airport;63.69889832;9.604000092;Ørland
+Ørsta-Volda Airport. Hovden;62.18000031;6.074100018;Ørsta
+Mo i Rana Airport. Røssvoll;66.36389923;14.30140018;Mo i Rana
+Rørvik Airport. Ryum;64.83830261;11.14610004;Rørvik
+Røros Airport;62.57839966;11.34230042;Røros
+Moss Airport. Rygge;59.378817;10.785439;Oslo
+Svalbard Airport. Longyear;78.246101;15.4656;Longyearbyen
+Svolvær Airport. Helle;68.243301;14.6692;Svolvær
+Stokmarknes Airport. Skagen;68.578827;15.033417;Hadsel
+Skien Airport;59.185001;9.56694;Geiteryggen
+Stord Airport. Sørstokken;59.791901;5.34085;Leirvik
+Sørkjosen Airport;69.786797;20.9594;Sørkjosen
+Vardø Airport. Svartnes;70.3554;31.044901;Vardø
+Sandnessjøen Airport. Stokka;65.956802;12.4689;Alstahaug
+Tromsø Airport;69.683296;18.9189;Tromsø
+Sandefjord Airport. Torp;59.186699;10.2586;Sandefjord(Torp)
+Trondheim Airport. Værnes;63.457802;10.924;Trondheim
+Vadsø Airport;70.0653;29.8447;Vadsø
+Stavanger Airport. Sola;58.876701;5.63778;Stavanger
+Ignacy Jan Paderewski Bydgoszcz Airport;53.096802;17.977699;Bydgoszcz
+Cewice Naval Air Base;54.416525;17.765734;Siemirowice
+Deblin Military Air Base;51.551021;21.892322;Dęblin
+Gdańsk Lech Wałęsa Airport;54.377602;18.4662;Gdańsk
+Inowroclaw Military Air Base;52.829399;18.330601;
+Kraków John Paul II International Airport;50.077702;19.7848;Balice
+Krzesiny Military Air Base;52.331699;16.9664;Poznań
+Katowice Wojciech Korfanty International Airport;50.476015;19.080705;Katowice
+Lublin Airport;51.240157;22.713461;Lublin
+Łask Air Base;51.551701;19.1791;Łask
+Łódź Władysław Reymont Airport;51.721901;19.3981;Łódź
+Leźnica Wielka Air Base;52.004945;19.143792;Leźnica Wielka
+Malbork Królewo Air Base;54.026598;19.135718;Królewo
+Miroslawiec Military Air Base;53.3951;16.0828;Mirosławiec
+Minsk Mazowiecki Military Air Base;52.19549942;21.65589905;
+Warsaw Modlin Airport;52.451099;20.6518;Nowy Dwór Mazowiecki
+Poznań-Ławica Airport;52.421598;16.823359;Poznań
+Powidz Military Air Base;52.380087;17.853155;Powidz
+Warsaw Radom Airport;51.38937;21.214742;Radom
+Rzeszów-Jasionka Airport;50.109791;22.024155;Jasionka
+Solidarity Szczecin–Goleniów Airport;53.584702;14.9022;Szczecin(Glewice)
+Swidwin Military Air Base;53.7906;15.8263;
+Olsztyn-Mazury Airport;53.481899;20.9377;Szymany
+Tomaszów Mazowiecki Military Air Base;51.5844;20.097799;Nowy Glinnik
+Warsaw Chopin Airport;52.165699;20.9671;Warsaw
+Copernicus Wrocław Airport;51.103719;16.882096;Wrocław
+Zielona Góra-Babimost Airport;52.1385;15.7986;Nowe Kramsko
+Folgueroles Airfield;41.9527;2.3072;Folgueroles
+Malmen Air Base;58.397666;15.522422;Linköping
+Ronneby Airport;56.266701;15.265;Ronneby
+Råda Air Base;58.4981;13.0532;Råda
+Göteborg Landvetter Airport;57.6628;12.2798;Göteborg
+Jönköping Airport;57.75759888;14.06869984;Jönköping
+Säve Airport;57.7747;11.8704;Göteborg
+Skövde Airport;58.456402;13.9727;Skövde
+Trollhättan-Vänersborg Airport;58.31809998;12.34500027;Trollhättan
+Såtenäs Air Base;58.426399;12.7144;Såtenäs
+Karlskoga Airport;59.345901;14.4959;Karlskoga
+Mora Airport;60.957901;14.5114;Mora
+Stockholm Skavsta Airport;58.789656;16.911479;Nyköping
+Scandinavian Mountains Airport;61.16508;12.83352;Malung-Sälen
+Kristianstad Airport;55.9217;14.0855;Kristianstad
+Kalmar Airport;56.685501;16.2876;Kalmar
+Malmö Sturup Airport;55.535564;13.376327;Malmö
+Halmstad Airport;56.69110107;12.82019997;Halmstad
+Växjö Kronoberg Airport;56.92910004;14.72799969;Växjö
+Gällivare Airport;67.13240051;20.81459999;Gällivare
+Kramfors-Sollefteå Höga Kusten Airport;63.048599;17.7689;Nyland
+Lycksele Airport;64.548302;18.7162;Lycksele
+Sundsvall-Härnösand Airport;62.52809906;17.44389915;Sundsvall/ Härnösand
+Örnsköldsvik Airport;63.40829849;18.98999977;Örnsköldsvik
+Kiruna Airport;67.821999;20.3368;Kiruna
+Skellefteå Airport;64.62480164;21.07690048;Skellefteå
+Umeå Airport;63.791801;20.282801;Umeå
+Vilhelmina South Lapland Airport;64.579102;16.833599;Vilhelmina
+Arvidsjaur Airport;65.59030151;19.28190041;Arvidsjaur
+Söderhamn Airport;61.261501;17.0991;Söderhamn
+Åre Östersund Airport;63.193546;14.504168;Östersund
+Örebro Airport;59.22370148;15.03800011;Örebro
+Karlstad Airport;59.444698;13.3374;Karlstad
+Stockholm Västerås Airport;59.589401;16.6336;Stockholm / Västerås
+Luleå Airport;65.5438;22.122;Luleå
+Stockholm-Arlanda Airport;59.64849;17.928829;Stockholm
+Stockholm-Bromma Airport;59.354401;17.9417;Stockholm
+Dala Airport;60.422001;15.5152;Borlange
+Linköping City Airport;58.404909;15.684499;Linköping
+Norrköping Airport;58.5862999;16.25060081;Norrköping
+Torsby Airport;60.1576;12.9913;Torsby
+Eskilstuna Airport;59.351101;16.708401;Eskilstuna
+Visby Airport;57.6628;18.346201;Visby
+Ängelholm-Helsingborg Airport;56.29610062;12.84710026;Ängelholm
+Ljungbyhed Airfield;56.082802;13.2125;Ljungbyhed
+Storuman Airport;64.960899;17.6966;Storuman
+Spangdahlem Air Base;49.976507;6.698413;Trier
+Ramstein Air Base;49.436901;7.60028;Ramstein-Miesenbach
+Bückeburg Air Base;52.2785;9.08217;Bückeburg
+Celle Army Airfield;52.591202;10.0221;Celle
+Fritzlar Army Airfield;51.1146;9.286;Fritzlar
+Laupheim Air Base;48.220299;9.91002;Laupheim
+Niederstetten Army Air Base;49.39162;9.956747;Niederstetten
+Faßberg Air Base;52.919399;10.185827;Faßberg
+Grafenwöhr Army Air Field;49.6987;11.9402;Grafenwöhr
+Hohenfels Army Airfield;49.216541;11.836064;Hohenfels
+Sea-Airport Cuxhaven/Nordholz / Nordholz Naval Airbase;53.767689;8.659201;Wurster Nordseeküste
+Diepholz Air Base;52.585556;8.342222;Diepholz
+Geilenkirchen Air Base;50.9608;6.04242;Geilenkirchen
+Hohn Air Base;54.312199;9.53817;Hohn
+Rostock-Laage Airport;53.918201;12.2783;Laage
+Nörvenich Air Base;50.8312;6.65817;Nörvenich
+Schleswig Air Base;54.459301;9.51633;Jagel
+Wittmundhafen Air Base;53.547798;7.66733;Wittmund
+Wunstorf Air Base;52.457298;9.42717;
+Wiesbaden Army Airfield;50.04980087;8.325400352;Wiesbaden
+Büchel Air Base;50.173801;7.06333;Alflen
+Holzdorf Air Base;51.767799;13.1677;Holzdorf
+Ingolstadt Manching Airport;48.71569824;11.5340004;Manching
+Lechfeld Air Base;48.185504;10.8612;Graben
+Neuburg Air Base;48.710999;11.2115;Neuburg an der Donau
+Jēkabpils Air Base;56.534698;25.8925;Jēkabpils
+Liepāja International Airport;56.517502;21.096901;Liepāja
+Riga International Airport;56.920752;23.970711;Riga
+Jūrmala Airport;56.9422;23.2239;Tukums
+Kaunas International Airport;54.963965;24.08582;Kaunas
+Kėdainiai Air Base;55.31169891;23.95639992;Kėdainiai
+Palanga International Airport;55.973202;21.093901;Palanga
+Panevėžys Air Base;55.72940063;24.46080017;Panevėžys
+Šiauliai International Airport;55.89390182;23.39500046;Šiauliai
+Barysiai Airfield;56.070599;23.5581;Šiauliai
+Vilnius International Airport;54.634102;25.285801;Vilnius
+Naval Support Facility Diego Garcia;-7.31327;72.411102;Diego Garcia
+Ozurgeti Air Base;41.9291;41.863499;Ozurgeti
+Senaki Air Base;42.24030572;42.04549313;Senaki
+(*)Kasteli Hellenic Air Force Base;35.191341;25.326588;Kasteli
+Bardawil International Airport;30.410714;33.15535;El Hassana
+El Arish International Airport;31.055324;33.827964;El Arish
+El Jora Airport;31.078138;34.153131;El Jora
+Saint Catherine International Airport;28.684292;34.064409;Saint Catherine
+Sharm El Sheikh International Airport;27.977272;34.394717;Sharm El Sheikh
+Taba International Airport;29.594496;34.775752;Taba
+Udbina Airfield;44.557598;15.7744;Udbina
+Kalocsa-Foktő Airfield;46.55149;18.942299;Kalocsa
+Chengdu Huaizhou Airport;30.677339;104.529397;Chengdu (Jintang)
+Dhoho International Airport;-7.749527;111.946831;Kediri
+Tabing Airport;-0.874989;100.351997;Padang
+Susilo Airport;0.063851;111.473572;Sintang
+Bilorai Airport;-3.739503;137.031183;Bilogai
+Maharshi Valmiki International Airport;26.747736;82.163664;Faizabad
+Amravati  Airport;20.814608;77.717765;Amravati
+Sindhudurg Airport;16.002552;73.529846;Chipi
+Navi Mumbai International Airport;18.984597;73.065253;Navi Mumbai
+Rashtrakavi Kuvempu Airport;13.858024;75.618868;Shimoga
+Itanagar Donyi Polo Hollongi Airport;26.96683;93.638792;Hollongi
+Sant Gadge Baba Yavatmal Airport;20.395781;78.216272;Yavatmal
+Noida International Airport;28.179868;77.611843;Gautam Buddha Nagar
+Maa Mahamaya Airport;22.98753;83.19612;Ambikapur
+H1 New Air Base;33.816262;41.436712;Anah
+H2 Air Base;33.36372375;40.58802414;
+H3 Air Base;32.92938232;39.74510193;
+H3 Northwest AFB;33.0745697;39.599617;
+H3 Southwest Air Base;32.74492645;39.59955597;
+Jalibah Southeast Air Base;30.546518;46.602779;Jalibah
+Kut Al Hayy East Air Base;32.11684036;46.3822403;
+Qalat Salih Air Base;31.45658112;47.28979111;
+Rasheed Air Base;33.279327;44.493706;Baghdad
+Ruwayshid Air Base;32.40611267;39.12361145;
+Sahl Sinjar Air Base;35.85926437;42.14213943;
+Samarra East Air Base / Dhuluiya Airport;34.16554;44.264304;Dhuluiya
+Tal Ashtah New Air Base;35.139721;44.133888;
+Tuz Khurmatu Air Base;34.93722153;44.48277664;
+Oghab 44 Airbase;28.04816;55.521791;Tarom Rural District
+King Feisal Air Base;30.3435;36.147701;Al-Jafr
+Jalal-Abad Airport;40.944401;72.977798;Jalal-Abad
+Dara Sakor International Airport;10.914244;103.226652;Ta Noun
+Techo International Airport;11.359987;104.921272;Phnom Penh (Boeng Khyang)
+Haeju Airfield;38.00739;125.777321;Haeju
+Kwaksan Air Base;39.731218;125.110159;Kwaksan
+Koksan Air Base;38.690201;126.606003;Koksan
+Hwangju Airbase;38.653459;125.78888;Hwangju
+Pukchang Air Base;39.505001;125.963997;Sunchon
+Toksan Air Base;39.996257;127.611694;Tŏksan-dong
+Hwangsuwon Airbase;40.6814;128.151001;Kimhyonggwon
+Changjin Air Force Base;40.364375;127.264252;Changjin
+Riwon Airbase;40.359822;128.720584;Riwon-gun
+Kwail Air Base;38.425487;125.019093;Kwail
+Uthachi Highway Strip Airport;38.913877;125.821309;Pyongyang (Ryokpo)
+Koksan 2 Highway Strip;38.663481;126.586618;Koksan
+Naju Juksanbo Airfield;34.973003;126.617118;Naju-si (Naju City)
+Kurchatov Airfield;50.736074;78.538942;Kurchatov
+Zhangiztobe Air Base;49.219952;81.317368;Zhangiztobe
+Dolon Air Base;50.536891;79.194689;Semey
+Bokeo International Airport;20.323986;100.165392;Ton Phueng
+Kukës International Airport;42.035802;20.415955;Kukës
+Kuçovë Air Base;40.7719;19.901899;Kuçovë
+Tirana International Airport Mother Teresa;41.4147;19.7206;Rinas
+Burgas Airport;42.569917;27.515173;Burgas
+Gorna Oryahovitsa Airport;43.151402;25.7129;Gorna Oryahovitsa
+Plovdiv International Airport;42.067799;24.8508;Plovdiv
+Graf Ignatievo Air Base;42.290401;24.714001;Graf Ignatievo
+Dolna Mitropoliya Air Base;43.451771;24.502423;Dolna Mitropoliya
+Sofia Airport;42.696357;23.417671;Sofia
+Balchik Airfield;43.423801;28.181299;Balchik
+Varna Airport;43.232101;27.8251;Varna
+Ercan International Airport;35.153064;33.507352;Tymbou (Kirklar)
+Geçitkale Airbase;35.23591;33.720088;Lefkoniko (Geçitkale)
+Larnaca International Airport;34.875099;33.624901;Larnaca
+Paphos International Airport;34.717999;32.485699;Paphos
+RAF Akrotiri;34.590401;32.9879;Akrotiri
+Dubrovnik Ruđer Bošković Airport;42.562247;18.265543;Dubrovnik
+Osijek Airport;45.462355;18.811278;Osijek(Klisa)
+Pula Airport;44.893501;13.9222;Pula
+Rijeka Airport;45.216376;14.57085;Rijeka(Omišalj)
+Brač Airport;43.284454;16.678362;Gornji Humac
+Split Saint Jerome Airport;43.538898;16.298;Split
+Zagreb Franjo Tuđman International Airport;45.742901;16.0688;Velika Gorica
+Zadar Airport;44.096986;15.353565;Zadar
+Albacete Airport / Los Llanos Air Base;38.948502;-1.86352;Albacete
+Alicante-Elche Miguel Hernández Airport;38.2822;-0.558156;Alicante
+Almería Airport;36.843899;-2.3701;Almería
+Asturias Airport;43.563599;-6.03462;Ranón
+Córdoba Airport;37.841999;-4.84888;Córdoba
+Bilbao Airport;43.301102;-2.91061;Bilbao
+Burgos Airport;42.357601;-3.62076;Burgos
+Josep Tarradellas Barcelona-El Prat Airport;41.2971;2.07846;Barcelona
+Badajoz Airport;38.8913;-6.82133;Badajoz
+Castellón-Costa Azahar Airport;40.213889;0.073333;Castellón de la Plana
+A Coruña Airport;43.302101;-8.37726;Culleredo
+Madrid-Cuatro Vientos Airport;40.370701;-3.78514;Madrid
+Lleida-Alguaire Airport;41.728185;0.535023;Lleida
+Armilla Air Base;37.133202;-3.63569;Armilla
+Girona-Costa Brava Airport;41.904639;2.761774;Girona
+F.G.L. Airport Granada-Jaén Airport;37.188702;-3.77736;Granada
+Getafe Air Base;40.294102;-3.72383;Getafe
+Ibiza Airport;38.872898;1.37312;Ibiza (Eivissa)
+Jerez Airport;36.744598;-6.06011;Jerez de la Frontera
+San Javier Airport;37.775002;-0.812389;San Javier
+León Airport;42.590709;-5.653406;La Virgen del Camino
+Logroño-Agoncillo Airport;42.460953;-2.322235;Logroño
+Adolfo Suárez Madrid–Barajas Airport;40.493407;-3.572249;Madrid
+Málaga-Costa del Sol Airport;36.678234;-4.500208;Málaga
+Menorca Airport;39.862598;4.21865;Mahón (Maó)
+Region of Murcia International Airport;37.802852;-1.124884;Corvera
+Moron Air Base;37.17490005;-5.615940094;Morón
+Palma de Mallorca Airport;39.551701;2.73881;Palma de Mallorca
+Pamplona Airport;42.77;-1.64633;Pamplona
+Alcantarilla Air Base;37.951099;-1.23032;Alcantarilla
+Ciudad Real International Airport;38.856479;-3.969944;Ciudad Real
+Reus Airport;41.147509;1.168354;Reus
+Rota Naval Station Airport;36.64519882;-6.349460125;Rota
+Salamanca Airport;40.952099;-5.50199;Salamanca
+San Sebastián Airport;43.356499;-1.79061;Hondarribia
+Santiago-Rosalía de Castro Airport;42.896301;-8.41514;Santiago de Compostela
+Pirineus - la Seu d'Urgel Airport;42.3386;1.40917;La Seu d'Urgell Pyrenees and Andorra
+Teruel Airport;40.410269;-1.217366;Teruel
+Madrid–Torrejón Airport / Torrejón Air Base;40.487875;-3.456808;Madrid
+Valencia Airport;39.489162;-0.480961;Valencia
+Valladolid Airport;41.7061;-4.85194;Valladolid
+Vitoria Airport;42.882801;-2.72447;Alava
+Vigo Airport;42.2318;-8.62677;Vigo
+Seve Ballesteros-Santander Airport;43.427101;-3.82001;Santander
+Zaragoza Airport;41.666199;-1.04155;Zaragoza
+Seville Airport;37.417999;-5.89311;Seville
+Calais Marck Airport;50.962101;1.95476;Calais
+Péronne Saint-Quentin Airfield;49.868871;3.029566;Monchy-Lagache. Somme
+Le Touquet-Côte d'Opale Airport;50.518284;1.621656;Le Touquet-Paris-Plage
+Valenciennes-Denain Airfield;50.327823;3.461061;Prouvy
+Amiens Glisy Airfield;49.873004;2.387074;Amiens
+Agen La Garenne airport;44.174171;0.59309;Agen
+Cazaux (BA 120) Air Base;44.533298;-1.125;Cazaux (La Teste-de-Buch)
+Bordeaux–Mérignac Airport;44.82865;-0.715356;Bordeaux
+Bergerac Dordogne-Périgord airport;44.825298;0.518611;Bergerac
+Toulouse-Francazal (BA 101) Air Base;43.545601;1.3675;Toulouse/Francazal. Haute-Garonne
+Cognac-Châteaubernard (BA 709) Air Base;45.658298;-0.3175;Cognac/Châteaubernard
+La Rochelle Île de Ré Airport;46.179199;-1.19528;La Rochelle
+Poitiers-Biard Airport;46.5877;0.306666;Poitiers/Biard
+Montluçon-Guéret Airport;46.222599;2.36396;Lépaud. Creuse
+Limoges Airport;45.862801;1.17944;Limoges/Bellegarde
+Mont-de-Marsan (BA 118) Air Base;43.911701;-0.5075;Mont-de-Marsan
+Niort - Marais Poitevin Airport;46.313477;-0.394529;Niort/Souché
+Toulouse-Blagnac Airport;43.629101;1.36382;Toulouse/Blagnac
+Pau Pyrénées Airport;43.380001;-0.418611;Pau/Pyrénées (Uzein)
+Tarbes-Lourdes-Pyrénées Airport;43.178699;-0.006439;Tarbes/Lourdes/Pyrénées
+Angoulême Brie-Champniers airport;45.729198;0.221456;Angoulême
+Périgueux-Bassillac Airport;45.198101;0.815556;Périgueux/Bassillac
+Biarritz Pays Basque airport;43.468372;-1.523223;Biarritz
+Cahors Lalbenque airport;44.351398;1.47528;Cahors
+Aérodrome de Saint-Girons - Antichan;43.007801;1.10315;Saint-Girons/Antichan
+Aérodrome d'Arcachon-La Teste-de-Buch;44.596401;-1.11083;Arcachon/La Teste-de-Buch
+Albi Le Sequestre airport;43.913898;2.11306;Albi
+Castres Mazamet Airport;43.556301;2.28918;Castres
+Rodez–Aveyron Airport;44.407902;2.48267;Rodez/Marcillac
+Royan-Médis Airport;45.628101;-0.9725;Royan/Médis
+Auch Gers Airfield;43.683606;0.599747;Auch
+Rochefort-Saint-Agnant (BA 721) Airport;45.887798;-0.983056;Rochefort/Saint-Agnant
+Colmar Houssen airport;48.109901;7.35901;Colmar
+Dole Tavaux Airport;47.038955;5.427589;Dole
+Verdun-Le Rozelier Airfield;49.122398;5.46905;Sommedieue. Meuse
+Aubenas-South Ardèche Airport;44.544367;4.372194;Lanas. Ardèche
+Metz-Nancy-Lorraine Airport;48.982101;6.25132;Goin
+Angers Marcé airport;47.560299;-0.312222;Angers
+Bastia-Poretta International airport;42.5527;9.48373;Bastia
+Calvi Sainte Catherine Airport;42.530422;8.792984;Calvi
+Figari Sud-Corse Airport;41.50185;9.097092;Figari
+Ajaccio Napoléon Bonaparte airport;41.923599;8.80292;Ajaccio
+Solenzara (BA 126) Air Base;41.9244;9.406;Solenzara
+Auxerre Branches airport;47.850201;3.49711;Auxerre
+Chambéry Aix les Bains airport;45.6381;5.88023;Chambéry
+Clermont-Ferrand Auvergne airport;45.786701;3.16917;Clermont-Ferrand
+Bourges airport;47.060158;2.369633;Bourges
+Annemasse Airfield;46.192001;6.26839;Annemasse
+Lyon Saint-Exupéry Airport;45.725996;5.090139;Colombier-Saugnieu. Rhône
+Mâcon-Charnay Airfield;46.295131;4.795977;Charnay-lès-Mâcon. Saône-et-Loire
+Saint-Yan Airport;46.414019;4.014177;L'Hôpital-le-Mercier. Saône-et-Loire
+Roanne-Renaison Airport;46.053818;3.999023;Saint-Léger-sur-Roanne
+Annecy Meythet airport;45.928947;6.0987;Annecy
+Grenoble Alpes Isère Airport;45.3629;5.32937;Grenoble
+Valence-Chabeuil Airport;44.9216;4.9699;Chabeuil. Drôme
+Vichy-Charmeil Airport;46.16969;3.403637;Charmeil. Allier
+Aurillac airport;44.891399;2.42194;Aurillac
+Châteauroux Déols airport;46.860221;1.728326;Châteauroux
+Lyon Bron Airport;45.727947;4.943991;Chassieu. Lyon
+Le Luc-Le Cannet Airfield;43.384701;6.38714;Le Cannet-des-Maures. Var
+Cannes Mandelieu Airport;43.547998;6.955176;Cannes
+Saint-Étienne-Bouthéon Airport;45.5406;4.29639;Andrézieux-Bouthéon. Loire
+Istres-Le Tubé Air Base;43.522701;4.92384;Istres. Bouches-du-Rhône
+Carcassonne Salvaza Airport;43.216;2.30632;Carcassonne
+Marseille Provence Airport;43.438088;5.2125;Marignane. Bouches-du-Rhône
+Nice-Côte d'Azur Airport;43.658401;7.21587;Nice. Alpes-Maritimes
+Orange-Caritat (BA 115) Air Base;44.140499;4.86672;Orange. Vaucluse
+Perpignan-Rivesaltes (Llabanère) Airport;42.740398;2.87067;Perpignan/Rivesaltes
+Le Castellet Airport;43.252499;5.78519;Le Castellet. Var
+Aérodrome d'Alès Cévennes;44.069698;4.14212;Alès/Deaux
+Montpellier-Méditerranée Airport;43.576199;3.96301;Montpellier/Méditerranée
+Béziers Vias airport;43.323502;3.3539;Béziers
+Avignon Caumont airport;43.907299;4.90183;Avignon
+Salon-de-Provence (BA 701) Air Base;43.6064;5.10925;Salon
+Mende-Brenoux Airfield;44.502102;3.53282;Mende/Brénoux
+Avord (BA 702) Air Base;47.053299;2.6325;Avord
+Beauvais-Tillé airport;49.454399;2.11278;Beauvais
+Châteaudun Airfield;48.057907;1.379309;Châteaudun. Eure-et-Loir
+Évreux-Fauville (BA 105) Air Base;49.028702;1.21986;Fauville. Eure
+Le Havre-Octeville Airport;49.534038;0.088406;Le Havre
+Abbeville-Buigny Baie de Somme Airfield;50.143501;1.831891;Buigny-Saint-Maclou
+Orléans-Bricy (BA 123) Air Base;47.987801;1.76056;Boulay-les-Barres. Loiret
+Chalons Vatry airport;48.77333;4.20611;Chalons en Champagne
+Rouen Vallée de Seine Airport;49.384887;1.179142;Boos
+Tours Val de Loire Airport;47.432201;0.727606;Tours. Indre-et-Loire
+Laval-Entrammes Airport;48.032208;-0.743999;Laval. Mayenne
+Paris-Le Bourget International Airport;48.962276;2.436539;Paris
+Creil Air Base;49.253502;2.51914;Creil
+Charles de Gaulle International Airport;49.00896;2.554117;Paris (Roissy-en-France. Val-d'Oise)
+Melun-Villaroche Airfield;48.604698;2.67112;Moissy-Cramayel. Seine-et-Marne
+Toussus-le-Noble Airport;48.7519;2.10619;Toussus-le-Noble. Yvelines
+Paris-Orly Airport;48.729499;2.358963;Paris (Orly. Val-de-Marne)
+Pontoise-Cormeilles Aerodrome;49.096064;2.035543;Cormeilles-en-Vexin. Val-d'Oise
+Vélizy-Villacoublay Air Base;48.774406;2.203102;Vélizy-Villacoublay. Yvelines
+Troyes-Barberey Airport;48.322102;4.0167;Barberey-Saint-Sulpice. Aube
+Lieutenant Étienne Mantoux Air Base;49.226898;5.67222;Rouvres-en-Woëvre
+Nevers-Fourchambault Airport;47.002913;3.113114;Marzy. Nièvre
+Phalsbourg-Bourscheid Air Base;48.766203;7.200551;Bourscheid
+Lille Airport;50.566564;3.102429;Lesquin
+Merville-Calonne Airport;50.618401;2.64224;Merville. Nord
+Charleville-Mézières Ardennes-Etienne Riché Airfield;49.783901;4.64708;Charleville-Mézières
+Vesoul-Frotey Airfield;47.638588;6.204443;Frotey-lès-Vesoul. Haute-Saône
+Brest Bretagne airport;48.447899;-4.41854;Brest
+Cherbourg Manche airport;49.650101;-1.47028;Cherbourg
+Dinard Pleurtuit Saint-Malo airport;48.5877;-2.07996;Dinard
+La Baule-Escoublac Airport;47.289398;-2.34639;La Baule-Escoublac
+Granville Airport;48.883099;-1.56417;Bréville-sur-Mer. Manche
+Deauville Normandie airport;49.365237;0.154481;Deauville
+Lorient South Brittany (Bretagne Sud) Airport;47.760601;-3.44;Lorient/Lann/Bihoué
+La Roche-sur-Yon Les Ajoncs Airport;46.7019;-1.37863;La Roche-sur-Yon
+Landivisiau Air Base;48.5303;-4.15164;Landivisiau
+Caen Carpiquet airport;49.17678;-0.454883;Caen
+Lanvéoc-Poulmic Air Base;48.2817;-4.44502;Lanvéoc/Poulmic
+Le Mans-Arnage Airport;47.948604;0.201702;Le Mans. Sarthe
+Rennes-Saint-Jacques Airport;48.0695;-1.73479;Saint-Jacques-de-la-Lande. Ille-et-Vilaine
+Lannion Airport;48.754398;-3.47166;Lannion
+Quimper-Cornouaille Airport;47.973031;-4.169655;Quimper/Pluguffan
+Nantes Atlantique Airport;47.153198;-1.61073;Nantes
+Saint-Brieuc-Armor Airport;48.538628;-2.853518;Trémuson. Côtes-d'Armor
+Morlaix-Ploujean Airport;48.60319901;-3.815779924;Morlaix/Ploujean
+Vannes-Meucon Airport;47.723301;-2.71856;Vannes/Meucon
+Saint-Nazaire-Montoir Airport;47.31142;-2.152634;Saint-Nazaire/Montoir
+EuroAirport Basel–Mulhouse–Freiburg;47.60068;7.521117;Bâle / Mulhouse
+Dijon Longvic airport;47.268902;5.09;Dijon
+Épinal Mirecourt Airport;48.325001;6.06998;Épinal
+Saint-Dizier – Robinson Air Base;48.636002;4.89942;Saint-Dizier
+Brive Souillac airport;45.039722;1.485556;Brive
+Montbéliard-Courcelles Airfield;47.487;6.79054;Courcelles-lès-Montbéliard
+Nancy-Essey Airport;48.692101;6.23046;Tomblaine. Meurthe-et-Moselle
+Nancy-Ochey (BA 133) Air Base;48.583099;5.955;Thuilley-aux-Groseilles
+Strasbourg Airport;48.5383;7.62823;Strasbourg
+Luxeuil-Saint-Sauveur (BA 116) Air Base;47.787747;6.353419;Saint-Sauveur
+Toulon-Hyères Airport;43.097301;6.14603;Hyères. Var
+Nîmes-Arles-Camargue Airport;43.757401;4.41635;Nîmes/Garons
+Ambérieu Air Base (BA 278);45.987301;5.32844;Ambérieu
+Andravida Air Base;37.9207;21.292601;Andravida
+Alexandroupoli Democritus Airport;40.8559;25.956301;Alexandroupolis
+Athens Eleftherios Venizelos International Airport;37.936401;23.9445;Spata-Artemida
+Nea Anchialos National Airport;39.219601;22.7943;Nea Anchialos
+Elefsis Air Base;38.063801;23.556;Elefsina
+Chios Island National Airport;38.34320068;26.1406002;Chios Island
+Ioannina King Pyrrhus National Airport;39.6964;20.8225;Ioannina
+Heraklion International Nikos Kazantzakis Airport;35.339699;25.1803;Heraklion
+"Kefalonia International Airport ""Anna Pollatou""";38.120098;20.5005;Kefallinia Island
+Kalamata Airport;37.06829834;22.02549934;Kalamata
+"Kos International Airport ""Ippokratis""";36.794523;27.09115;Kos Island
+Karpathos Airport;35.421398;27.146;Karpathos Island
+Corfu Ioannis Kapodistrias International Airport;39.60145;19.912179;Kerkyra (Corfu)
+Kavala Alexander the Great International Airport;40.9133;24.6192;Kavala
+Kozani National Airport Filippos;40.286098;21.840799;Kozani
+Mykonos Island National Airport;37.435101;25.348101;Mykonos
+Mytilene International Airport;39.057406;26.598629;Mytilene
+Aktion National Airport;38.925499;20.765301;Preveza
+"Rhodes International Airport ""Diagoras""";36.405399;28.086201;Rhodes
+Patras Araxos Agamemnon Airport;38.1511;21.4256;Patras
+Chania International Airport;35.531207;24.150673;Souda
+Skiathos Island National Airport;39.177101;23.5037;Skiathos
+Samos Airport;37.689999;26.911699;Samos Island
+Santorini International Airport;36.400045;25.478638;Santorini Island
+Sitia Airport;35.21609879;26.10129929;Crete Island
+Tanagra Air Base;38.339802;23.565001;Tanagra
+Thessaloniki Macedonia International Airport;40.51928;22.970009;Thessaloniki
+"Zakynthos International Airport ""Dionysios Solomos""";37.7509;20.8843;Zakynthos
+Budapest Liszt Ferenc International Airport;47.43018;19.262393;Budapest
+Debrecen International Airport;47.489469;21.616278;Debrecen
+Kecskemét Air Base;46.9175;19.749201;Kecskemét
+Pécs-Pogány International Airport;45.988891;18.242044;Pécs
+Győr-Pér Airport;47.628436;17.804718;Győr
+Hévíz–Balaton Airport;46.686391;17.159084;Sármellék
+Szolnok Air Base;47.122897;20.2355;Szolnok
+Taszár Air Base;46.393101;17.9175;Taszár
+Tököl Airport;47.345299;18.980801;Tököl
+Amendola Air Base;41.538443;15.717181;San Giovanni Rotondo (FG)
+Crotone Sant'Anna Pythagoras Airport;38.9972;17.0802;Isola di Capo Rizzuto (KR)
+Bari Karol Wojtyła International Airport;41.138901;16.760599;Bari
+Foggia Gino Lisa Airport;41.433596;15.534566;Foggia (FG)
+Taranto-Grottaglie Marcello Arlotta Airport;40.517502;17.4032;Grottaglie
+Lecce Galatina Air Base / Galatina Fortunato Cesari Airport;40.239201;18.133301;Galatina (LE)
+Abruzzo Airport;42.431079;14.182981;Pescara
+Brindisi Airport;40.6576;17.947001;Brindisi
+Gioia del Colle Antonio Ramirez Air Base;40.767799;16.9333;Gioia del Colle (BA)
+Lamezia Terme Sant'Eufemia International Airport;38.906214;16.246007;Lamezia Terme (CZ)
+Comiso Airport;36.99583;14.60889;Comiso
+Catania-Fontanarossa Airport;37.466801;15.0664;Catania
+Lampedusa Airport;35.497898;12.6181;Lampedusa
+Pantelleria Airport;36.816502;11.9689;Pantelleria (TP)
+Falcone–Borsellino Airport;38.175999;13.091;Palermo
+Palermo-Boccadifalco Airport;38.115919;13.31337;Palermo
+Reggio Calabria Airport;38.071201;15.6516;Reggio Calabria
+Vincenzo Florio Airport Trapani-Birgi;37.9114;12.488;Trapani (TP)
+Sigonella Navy Air Base;37.401699;14.9224;Sigonella (CT)
+Trento-Mattarello Airport;46.023333;11.125;Trento (TN)
+Alghero-Fertilia Airport;40.632099;8.29077;Alghero
+Decimomannu Air Base;39.354198;8.97248;Decimomannu
+Cagliari Elmas Airport;39.251499;9.05428;Cagliari
+Olbia Costa Smeralda Airport;40.898953;9.518457;Olbia (SS)
+Tortolì Airport;39.9188;9.68298;Arbatax
+Biella-Cerrione Airfield;45.4953;8.10278;Cerrione (BI)
+Varese-Venegono Airport;45.742199;8.888233;Venegono Superiore (VA)
+Torino-Aeritalia Airport;45.084444;7.603056;Torino (TO)
+Milan Malpensa International Airport;45.6306;8.72811;Ferno (VA)
+Il Caravaggio International Airport;45.669362;9.708851;Orio al Serio (BG)
+Turin Airport;45.200802;7.64963;Caselle Torinese (TO)
+Riviera Villanova d'Albenga International Airport;44.050598;8.12743;Villanova d'Albenga (SV)
+Genoa Cristoforo Colombo Airport;44.412039;8.840732;Genova (GE)
+Milano Linate Airport;45.445099;9.27674;Segrate (MI)
+Cameri Air Base;45.529598;8.66922;Cameri (NO)
+Parma Airport;44.826351;10.29705;Parma (PR)
+Novi Ligure Eugenio Mossi Airfield;44.779999;8.78639;Novi Ligure (AL)
+Piacenza San Damiano Air Base;44.91442;9.722318;San Damiano (PC)
+Aosta Corrado Gex Airport;45.738552;7.3683;Saint-Christophe (AO)
+Cuneo International Airport;44.547458;7.623045;Levaldigi (CN)
+Aviano Air Base;46.031898;12.596503;Aviano (PN)
+Bolzano Airport;46.459245;11.326125;Bolzano (BZ)
+Cervia Air Base;44.224201;12.3072;Cervia (RA)
+Bologna Guglielmo Marconi Airport;44.5354;11.2887;Bologna
+Treviso Airport;45.648399;12.1944;Treviso (TV)
+Udine-Rivolto Air Base;45.978699;13.0493;Codroipo (UD)
+Forlì-Luigi Ridolfi International Airport;44.194801;12.0701;Forlì (FC)
+Ghedi Air Base;45.432551;10.268612;Ghedi (BS)
+Brescia Gabriele d'Annunzio Airport;45.428902;10.3306;Montichiari (BS)
+Trieste Airport;45.827862;13.466672;Ronchi dei Legionari/Trieste
+Federico Fellini International Airport;44.020024;12.612198;Rimini (RN)
+Istrana Air Base;45.684382;12.086594;Istrana (TV)
+Padova Gino Allegri Airfield;45.395316;11.847124;Padova (PD)
+Verona Villafranca Valerio Catullo Airport;45.394955;10.887303;Caselle (VR)
+Marche Airport;43.616299;13.3623;Falconara Marittima (AN)
+Venice Marco Polo Airport;45.505299;12.3519;Venezia (VE)
+Siena-Ampugnano Airport;43.254942;11.255084;Ampugnano (SI)
+Sarzana-Luni Bartolomeo Arrigoni Airport;44.087375;9.987877;Sarzana (SP)
+Ciampino–G. B. Pastine International Airport;41.798769;12.595331;Rome
+Pratica di Mare Air Base;41.654499;12.4452;Pomezia (RM)
+Rome–Fiumicino Leonardo da Vinci International Airport;41.804532;12.251998;Rome
+Guidonia Air Base;41.990299;12.7408;Guidonia (RM)
+Salerno Costa d'Amalfi Airport;40.620399;14.9113;Salerno
+Marina di Campo Airport;42.760871;10.239811;Campo nell'Elba (LI)
+Latina Air Base;41.5424;12.909;Latina
+Grazzanise Air Base;41.060799;14.0819;Caserta
+Naples International Airport;40.886002;14.2908;Napoli
+Pisa International Airport;43.683899;10.3927;Pisa (PI)
+Florence Airport. Peretola;43.808558;11.202822;Firenze (FI)
+Grosseto Corrado Baccarini Air Base / Grosseto Airport;42.759701;11.0719;Grosseto (GR)
+Rome Urbe Airport;41.952096;12.502231;Rome
+Viterbo Airport;42.435297;12.061362;Viterbo
+Perugia San Francesco d'Assisi – Umbria International Airport;43.095901;12.5132;Perugia (PG)
+Cerklje ob Krki Air Base;45.900002;15.5302;Cerklje ob Krki
+Ljubljana Jože Pučnik Airport;46.223701;14.4576;Zgornji Brnik
+Maribor Edvard Rusjan Airport;46.4799;15.6861;Maribor
+Portorož Airport;45.47201;13.615951;Sečovlje
+České Budějovice South Bohemian Airport;48.948171;14.42832;České Budějovice
+Čáslav Air Base;49.939701;15.3818;Chotusice
+Prague–Kbely Air Base;50.121399;14.5436;Prague
+Kunovice Airport;49.0294;17.439699;Uherské Hradiště
+Karlovy Vary Airport;50.202999;12.915;Karlovy Vary
+Plzeň-Líně Airport;49.675201;13.2746;Plzen
+Leoš Janáček Airport Ostrava;49.696301;18.111099;Mošnov
+Náměšť Air Base;49.166272;16.123981;Sedlec
+Pardubice Airport;50.015049;15.73981;Pardubice
+Přerov Air Base;49.4258;17.404699;Přerov
+Václav Havel Airport Prague;50.100874;14.259911;Prague
+Brno-Tuřany Airport;49.151276;16.693972;Brno
+Vodochody Airport;50.216599;14.3958;Vodochody
+Ben Gurion International Airport;32.011398;34.8867;Tel Aviv
+Tel Nof Air Base;31.8395;34.8218;Rehovot
+Ramon International Airport;29.727009;35.014116;Eilat
+Uri Michaeli Haifa International Airport;32.810219;35.043719;Haifa
+Rosh Pina Airport;32.980999;35.571899;Rosh Pina
+Bar Yehuda Airfield;31.328199;35.388599;Masada
+Nevatim Air Base;31.20829964;35.01229858;Beersheba
+Ramat David Air Base;32.6651;35.179501;Haifa
+Ramon Air Base;30.7761;34.666698;Beersheba
+Malta International Airport;35.845932;14.491546;Valletta
+Wiener Neustadt East Airport;47.8433;16.260099;Wiener Neustadt
+Graz Airport;46.9911;15.4396;Feldkirchen bei Graz
+Innsbruck Airport;47.260201;11.344;Innsbruck
+Klagenfurt Airport;46.642502;14.3377;Klagenfurt am Wörthersee
+Linz-Hörsching Airport;48.235362;14.188128;Linz
+Salzburg Airport;47.793301;13.0043;Salzburg
+Vienna International Airport;48.110298;16.5697;Vienna
+Wiener Neustadt West Airport;47.836933;16.221838;Wiener Neustadt
+Hinterstoisser Air Base;47.202801;14.7442;Zeltweg
+Alverca Air Base;38.883301;-9.0301;Vila Franca de Xira
+Santa Maria Airport;36.97140121;-25.17060089;Vila do Porto
+Bragança Airport;41.8578;-6.70713;Bragança
+Beja Airport / Airbase;38.078899;-7.9324;Beja
+Braga Municipal Aerodrome;41.587;-8.445189;Braga
+Aerodromo de Castelo Branco;39.844528;-7.439875;Castelo Branco
+Aerodromo Municipal de Coimbra;40.158758;-8.470815;Coimbra
+Cascais Airport;38.724998;-9.35523;Cascais
+Évora Airfield;38.533501;-7.88964;Évora
+Flores Airport;39.45529938;-31.13139915;Santa Cruz das Flores
+Faro - Gago Coutinho International Airport;37.015909;-7.970939;Faro
+Graciosa Airport;39.09220123;-28.02980042;Santa Cruz da Graciosa
+Horta Airport;38.51990128;-28.71590042;Horta
+Lajes Airport;38.761799;-27.090799;Praia da Vitória
+Cristiano Ronaldo International Airport;32.697812;-16.774613;Funchal
+Monte Real Air Base;39.828335;-8.8875;
+Montijo Air Base;38.70929;-9.03368;Montijo
+Ovar Air Base;40.915901;-8.64592;Ovar
+João Paulo II Airport;37.74119949;-25.69790077;Ponta Delgada
+Pico Airport;38.554298;-28.441299;Pico Island
+Portimão Airport;37.1493;-8.58396;Portimão
+Francisco de Sá Carneiro Airport;41.24810028;-8.681389809;Porto
+Porto Santo Airport;33.07339859;-16.35000038;Vila Baleira
+Lisbon Humberto Delgado Airport;38.7813;-9.13592;Lisbon
+São Jorge Airport;38.665501;-28.1758;Velas
+Aeródromo Municipal de Ponte de Sor;39.211545;-8.057787;Ponte de Sor
+Sintra Air Base;38.8311;-9.33955;Sintra
+Tancos Airbase;39.475101;-8.36458;Tancos
+Vilar de Luz Airfield;41.27729;-8.516209;Maia
+Vila Real Airport;41.2743;-7.72047;Vila Real
+Aerodromo Goncalves Lobato (Viseu Airport);40.725498;-7.88899;Viseu
+Banja Luka International Airport;44.941399;17.297501;Mahovljani
+Mostar International Airport;43.282489;17.846101;Mostar
+Sarajevo International Airport;43.8246;18.331499;Sarajevo
+Tuzla International Airport;44.459858;18.723627;Dubrave Gornje
+Feteşti Borcea Air Base;44.3923;27.7267;Borcea
+Boboc Air Base;45.2164;26.9786;Boboc
+Arad International Airport;46.176136;21.264322;Arad
+Bacău George Enescu International  Airport;46.5219;26.910299;Bacău
+Maramureș International Airport;47.658444;23.464445;Tăuții-Măgherăuș
+Bucharest Băneasa Aurel Vlaicu International Airport;44.503133;26.102944;Bucharest
+Brașov-Ghimbav International Airport;45.70558;25.522871;Brașov (Ghimbav)
+Mihail Kogălniceanu International Airport;44.362202;28.4883;Constanța
+Avram Iancu Cluj International Airport;46.786042;23.685733;Cluj-Napoca
+Caransebeş Airport;45.420142;22.252507;Caransebeş
+Câmpia Turzii Air Base;46.5023;23.8859;Câmpia Turzii
+Craiova International Airport;44.3181;23.888599;Craiova
+Iaşi International Airport;47.179633;27.621431;Iaşi
+Oradea International Airport;47.025299;21.9025;Oradea
+Bucharest Henri Coandă International Airport;44.571792;26.103285;Otopeni
+Sibiu International Airport;45.785841;24.086666;Sibiu
+Satu Mare International Airport;47.7033;22.8857;Satu Mare
+Suceava Ștefan cel Mare International Airport;47.6875;26.354099;Suceava
+Tulcea Danube Delta Airport;45.0625;28.7143;Mihail Kogălniceanu
+Târgu Mureş Transilvania International Airport;46.467701;24.4125;Recea
+Timișoara Traian Vuia International Airport;45.809898;21.3379;Timişoara
+Les Eplatures Airport;47.08390045;6.792840004;La Chaux-de-Fonds
+Geneva International Airport;46.238098;6.10895;Geneva
+Sion Airport;46.219166;7.326944;Sion
+Alpnach Air Base;46.943901;8.28417;Alpnach
+Dübendorf Air Base;47.398602;8.64823;Zurich
+Emmen Air Base;47.092444;8.305184;Emmen
+Payerne Air Base;46.8432;6.91506;Payerne
+Lugano Airport;46.004299;8.91058;Agno
+Bern Airport;46.912736;7.498819;Bern
+Grenchen Airfield;47.181599;7.41719;Grenchen
+Zürich Airport;47.458056;8.548056;Zurich
+Sankt Gallen Altenrhein Airport;47.485001;9.56077;St. Gallen
+Engadin Airport;46.5341;9.88411;Samedan
+Esenboğa International Airport;40.128101;32.995098;Ankara
+Etimesgut Air Base;39.94979858;32.68859863;Ankara
+Akıncı Air Base;40.078899;32.565601;Ankara
+İncirlik Air Base;37.002102;35.4259;Sarıçam
+Afyon Air Base;38.726398;30.601101;Afyonkarahisar
+Antalya International Airport;36.898701;30.800501;Antalya
+Gaziantep Oğuzeli International Airport;36.947201;37.478699;Gaziantep
+Kastamonu Airport;41.314201;33.795799;Kastamonu
+Konya Airport;37.979;32.561901;Konya
+Amasya Merzifon Airport;40.829399;35.521999;Amasya
+Sivas Nuri Demirağ Airport;39.813801;36.9035;Sivas
+Zonguldak Çaycuma Airport;41.506401;32.0886;Zonguldak
+Malatya Erhaç Airport;38.43529892;38.0909996;Malatya
+Kayseri Erkilet International Airport;38.770401;35.495399;Kayseri
+Sivrihisar Airport;39.4515;31.365299;Sivrihisar
+Tokat Airport;40.32472;36.39056;Tokat
+Çardak Airport;37.78559875;29.70129967;Denizli
+Nevşehir Kapadokya Airport;38.7719;34.5345;Nevşehir
+İstanbul Atatürk Airport;40.971913;28.823714;Istanbul(Bakırköy)
+Balıkesir Airport;39.619301;27.926001;Balıkesir
+Bandırma Airport;40.318001;27.977699;Bandırma
+Çanakkale Airport;40.13769913;26.42679977;Çanakkale
+Eskişehir Air Base;39.7841;30.5821;Eskişehir
+Adnan Menderes International Airport;38.2924;27.157;Gaziemir
+Çiğli Airbase;38.513;27.010099;Çiğli
+Kütahya Airport;39.426701;30.016899;Kütahya
+Uşak Airport;38.681499;29.471701;Uşak
+Cengiz Topel Airport;40.735001;30.0833;Kartepe
+Bursa Yenişehir Airport;40.255199;29.562599;Yenişehir
+Dalaman International Airport;36.7131;28.7925;Dalaman
+Akhisar Airport / Akhisar Air Base;38.808899;27.8339;Akhisar
+Tekirdağ Çorlu Airport;41.138199;27.9191;Çorlu
+İstanbul Samandıra Army Air Base;40.993;29.216499;Ümraniye. Istanbul
+Hasan Polatkan Airport;39.811644;30.519268;Eskişehir
+Zafer Airport;39.111107;30.130405;Altıntaş
+Elazığ Airport;38.597974;39.28348;Elazığ
+Ordu–Giresun Airport;40.966872;38.085995;Ordu
+Diyarbakır Airport;37.893902;40.201;Diyarbakır
+Erzincan Airport;39.71020126;39.52700043;Erzincan
+Erzurum International Airport;39.956501;41.1702;Erzurum
+Kars Airport;40.56219864;43.11500168;Kars
+Trabzon International Airport;40.995098;39.7897;Trabzon
+Van Ferit Melen Airport;38.46820068;43.33229828;Van
+Batman Airport;37.929001;41.1166;Batman
+Muş Airport;38.74779892;41.66120148;Muş
+Siirt Airport;37.97890091;41.8404007;Siirt
+Sinop Airport;42.018313;35.071774;Sinop
+Kahramanmaraş Airport;37.53882599;36.95352173;Kahramanmaraş
+Ağrı Airport;39.655642;43.025742;Ağrı
+Adıyaman Airport;37.7314;38.468899;Adıyaman
+Mardin Airport;37.22330093;40.63169861;Mardin
+Şanlıurfa GAP Airport;37.445663;38.895592;Şanlıurfa
+Iğdır Airport;39.976627;43.876648;Iğdır
+Bingöl Airport;38.860131;40.594489;Bingöl
+Şırnak Şerafettin Elçi Airport;37.3647;42.0582;Şırnak
+Hakkari Yüksekova Airport;37.5497;44.2381;Hakkari
+Hatay Airport;36.36079;36.285589;Antakya
+Çukurova International Airport;36.891478;35.071235;Tarsus
+Süleyman Demirel International Airport;37.8554;30.368401;Isparta
+Balıkesir Koca Seyit Airport;39.552533;27.010192;Edremit
+Milas Bodrum International Airport;37.249314;27.66401;Bodrum
+Gazipaşa-Alanya Airport;36.298832;32.297017;Gazipaşa
+Samsun-Çarşamba Airport;41.253988;36.567546;Samsun
+Istanbul Sabiha Gökçen International Airport;40.898602;29.3092;Pendik. Istanbul
+İstanbul Airport;41.274874;28.732136;Istanbul
+Rize–Artvin Airport;41.179766;40.848802;Rize
+Bălți-Leadoveni International Airport;47.837666;27.781108;Bălți
+Mărculești Air Base;47.862701;28.212799;Mărculeşti
+Cahul International Airport;45.8438;28.2637;Cahul
+Chişinău International Airport;46.92774;28.931704;Chişinău
+Tiraspol Airfield;46.868099;29.590599;Tiraspol
+Ohrid St. Paul the Apostle Airport;41.18;20.7423;Ohrid
+Skopje International Airport;41.958087;21.622581;Ilinden
+Gibraltar Airport;36.151679;-5.34978;Gibraltar
+Belgrade Nikola Tesla Airport;44.818401;20.309099;Belgrade
+Batajnica Air Base;44.935299;20.2575;Zemun
+Morava Airport;43.817519;20.586662;Kraljevo
+Niš Constantine the Great Airport;43.336538;21.856242;Niš
+Podgorica Airport / Podgorica Golubovci Airbase;42.359402;19.2519;Podgorica
+Tivat Airport;42.404701;18.723301;Tivat
+Ponikve Airport;43.898899;19.697701;Stapari
+Langzhong Gucheng Airport;31.50191;106.034417;Nanchong (Langzhong)
+M. R. Štefánik Airport;48.1702;17.2127;Bratislava
+Košice International Airport;48.663101;21.2411;Košice
+Malacky/Kuchyňa Air Base;48.402;17.118401;Kuchyňa
+Piešťany Airport;48.62519836;17.82839966;Piešťany
+Sliač Airport;48.63779831;19.13409996;Sliač
+Poprad-Tatry Airport;49.070994;20.241394;Poprad
+Žilina-Dolný Hričov Airport;49.233292;18.613386;Dolný Hričov
+Shine Bulagin Hural Air Base;45.9467;109.1233;Dalanjargalan
+Ninglang Luguhu Airport;27.5403;100.7593;Ninglang
+Pokhara International Airport;28.1838;84.0147;Pokhara
+Herat - Khwaja Abdullah Ansari International Airport;34.209999;62.228298;Guzara
+Bagram Airfield;34.946098;69.264999;Bagram
+Jalalabad Airport;34.399799;70.498596;Jalalabad
+Kabul International Airport;34.565899;69.212303;Kabul
+Ahmad Shah Baba International Airport;31.505769;65.847963;Kandahar
+Khost International Airport;33.284605;69.80734;Khost
+Maymana Zahiraddin Faryabi Airport;35.930801;64.760902;Maymana
+Mazar-i-Sharif International Airport;36.70412;67.210459;Mazar-i-Sharif
+Kunduz Airport;36.6651;68.910797;Kunduz
+Bahrain International Airport;26.267295;50.63764;Manama
+Sheik Isa Air Base;25.9184;50.590599;Sitrah
+Mecca East Airport;21.4375;39.994202;Mecca
+Aradah Airport;21.226999;55.2673;Ardah
+Abha International Airport;18.2404;42.656601;Abha
+Al-Ahsa International Airport;25.285299;49.485199;Hofuf
+Al-Ula International Airport;26.483634;38.117048;Al-Ula
+King Saud Bin Abdulaziz (Al Baha) Airport;20.298506;41.636153;Al-Baha
+Bisha Airport;19.9844;42.620899;Bisha
+King Fahd International Airport;26.4691;49.798209;Ad Dammam
+Dawadmi Domestic Airport;24.4499;44.121201;Dawadmi
+King Abdulaziz Air Base;26.2654;50.152;Dhahran
+Jizan Regional Airport / King Abdullah bin Abdulaziz Airport;16.9011;42.5858;Jizan
+Prince Naif bin Abdulaziz International Airport;26.302799;43.774399;Qassim
+Gurayat Domestic Airport;31.412413;37.278898;Gurayat
+Hail International Airport;27.437901;41.686298;Hail
+Jubail Airport;27.039;49.405102;Jubail
+King Faisal Naval Base;21.348101;39.173;Jeddah
+King Abdulaziz International Airport;21.680241;39.157436;Jeddah
+King Khaled Military City Airport;27.9009;45.528198;King Khaled Military City
+King Khalid Air Base;18.2973;42.803501;Khamis Mushait
+Prince Mohammad Bin Abdulaziz Airport;24.5534;39.705101;Medina
+Najran Domestic Airport;17.611401;44.419201;Najran
+Neom Bay Airport;27.924261;35.29358;Sharma
+Qaisumah–Hafar Al-Batin International Airport;28.335726;46.127108;Qaisumah
+Prince Sultan Air Base;24.0627;47.580502;Al Kharj
+Rafha Domestic Airport;29.62639999;43.49060059;Rafha
+King Khalid International Airport;24.9576;46.698799;Riyadh
+Ras Mishab Airport;28.079599;48.611;Al Mishab
+Arar Domestic Airport;30.90660095;41.13819885;Arar
+Ras Tanura Airport;26.723101;50.0308;Ras Tanura
+Sharurah Domestic Airport;17.4669;47.121399;Sharurah
+Al-Jawf International Airport;29.783301;40.100905;Al-Jawf
+Prince Sultan bin Abdulaziz International Airport;28.3711;36.624865;Tabuk
+Taif International Airport;21.484739;40.544074;Taif
+Ras Tanajib Airport;27.8678;48.7691;As Saffaniyah
+Turaif Domestic Airport;31.692188;38.731544;Turaif
+Wadi Al Dawasir Domestic Airport;20.504299;45.1996;Wadi Al Dawasir
+Al Wajh Domestic Airport;26.198601;36.476398;Al Wajh
+Prince Abdulmohsen Bin Abdulaziz International Airport;24.144199;38.0634;Yanbu
+Abadan Ayatollah Jami International Airport;30.367887;48.230075;Abadan
+Dezful Airport;32.434399;48.397598;Dezful
+Aghajari Airport;30.7444;49.6772;Omidiyeh
+Gachsaran Airport;30.333869;50.833796;Gachsaran
+Shahid Asiyaee Airport;32.001719;49.268599;Masjed Soleyman
+Mahshahr Airport;30.5562;49.151901;Mahshahr
+Qasem Soleimani International Airport;31.3364;48.763789;Ahvaz
+Abu Musa Island Airport;25.8757;55.033001;Abu Musa
+Bushehr Airport;28.94479942;50.83459854;Bushehr
+Jam Airport;27.820499;52.3522;Jam
+Kish International Airport;26.525427;53.980462;Kish Island
+Bandar Lengeh International Airport;26.532283;54.82484;Bandar Lengeh
+Persian Gulf International Airport;27.379601;52.737701;Khiyaroo
+Khark Airport;29.260503;50.322193;Khark
+Siri Airport;25.908899;54.539398;Siri
+Lavan Airport;26.810742;53.354302;Lavan Airport
+Shahid Ashrafi Esfahani Airport;34.34590149;47.15810013;Kermanshah
+Ilam Airport;33.58660126;46.40480042;Ilam
+Khoram Abad Airport;33.4353981;48.28290176;
+Sanandaj Airport;35.2458992;47.00920105;
+Kashan Airport;33.895302;51.577;Kashan
+Isfahan Shahid Beheshti International Airport;32.755142;51.883877;Isfahan
+Badr Air Base;32.621101;51.696999;Esfahan
+Shahrekord Airport;32.29719925;50.84220123;Shahrekord
+Sardar-e-Jangal Airport;37.323333;49.617778;Rasht
+Hamadan Airport;34.866416;48.56069;Hamadan
+Nojeh Air Base;35.211601;48.6534;Amirabad
+Imam Khomeini International Airport;35.41609955;51.15219879;Tehran
+Mehrabad International Airport;35.689175;51.314392;Tehran
+Qazvin Airport;36.240101;50.0471;Qazvin
+Payam International Airport;35.7761;50.826698;Karaj
+Bandar Abbas International Airport;27.2183;56.3778;Bandar Abbas
+Jiroft Airport;28.723519;57.675037;Jiroft
+Ayatollah Hashemi Rafsanjani International Airport;30.271276;56.949692;Kerman
+Bam Airport;29.0842;58.450001;Bam
+Qeshm International Airport;26.754639;55.902353;Qeshm(Dayrestan)
+Rafsanjan Airport;30.298345;56.048979;Rafsanjan
+Sirjan Airport;29.5509;55.672699;Sirjan
+Birjand International Airport;32.896525;59.281258;Birjand
+Sarakhs Airport;36.501202;61.064899;Sarakhs
+Mashhad International Airport;36.234821;59.642949;Mashhad
+Bojnord Airport;37.49300003;57.30820084;Bojnord
+Sabzevar National Airport;36.16809845;57.59519958;Sabzevar
+Tabas Airport;33.667801;56.8927;Tabas
+Gorgan Airport;36.90940094;54.40129852;Gorgan
+Nowshahr Airport;36.664286;51.46273;Nowshahr
+Ramsar Airport;36.90701;50.687316;Ramsar
+Sari Dasht-e Naz International Airport;36.644408;53.188761;Sari
+Fasa Airport;28.8918;53.723301;Fasa
+Lar Airport;27.6747;54.383301;Lar
+Lamerd Airport;27.3727;53.188801;Lamerd
+Shiraz Shahid Dastghaib International Airport;29.5392;52.589802;Shiraz
+Yasuj Airport;30.702238;51.542988;Yasuj
+Ardabil Airport;38.32569885;48.42440033;Ardabil
+Urmia Airport;37.66809845;45.06869888;Urmia
+Tabriz International Airport;38.1339;46.235001;Tabriz
+Maku National Airport;39.191293;44.928505;Showt
+Zanjan Airport;36.77370071;48.3594017;Zanjan
+Shahid Sadooghi Airport;31.9048996;54.2765007;Yazd
+Zabol Airport;31.098301;61.5439;Zabol
+Chabahar Konarak International Airport;25.44319;60.382167;Konarak
+Zahedan International Airport;29.4757;60.9062;Zahedan
+Iranshahr Airport;27.236099;60.720001;Iranshahr
+Queen Alia International Airport;31.72260094;35.99319839;Amman
+Marka International (Amman Civil) Airport;31.9727;35.9916;Amman
+King Hussein International Airport;29.611601;35.018101;Aqaba
+Muwaffaq Salti Air Base;31.8256;36.782001;Al Azraq
+Ahmed Al Jaber Air Base;28.93479919;47.79190063;Ahmed Al Jaber AB
+Ali Al Salem Air Base;29.346905;47.520118;Al Damaikhi
+Kuwait International Airport;29.224487;47.969813;Kuwait City
+Beirut Rafic Hariri International Airport;33.819833;35.487443;Beirut
+Rene Mouawad Air Base;34.589298;36.011299;Tripoli
+Rayak Air Base;33.85079956;35.98770142;Rayak
+Duqm International Airport;19.501944;57.634167;Duqm
+Mussanah Airport;23.640556;57.4875;Al Masna'ah
+Ras al Hadd Airport;22.25691;59.74067;Ras ar Ruays
+Zayed International Airport;24.440966;54.649237;Abu Dhabi
+Al Bateen Executive Airport;24.427062;54.459866;Abu Dhabi
+Al Ain International Airport;24.2617;55.6092;Al Ain
+Al Dhafra Air Base;24.24819946;54.54769897;
+Sir Bani Yas Airport;24.283611;52.580278;Sir Bani Yas
+Dubai International Airport;25.24979;55.370992;Dubai
+Al Minhad Air Base;25.02680016;55.36619949;Dubai
+Al Maktoum International Airport;24.896171;55.16235;Dubai(Jebel Ali)
+Fujairah International Airport;25.108411;56.328061;Fujairah
+Ras Al Khaimah International Airport;25.613501;55.938801;Ras Al Khaimah
+Sharjah International Airport;25.3286;55.5172;Sharjah
+Khasab Airport;26.171;56.240601;Khasab
+RAFO Masirah;20.6754;58.890499;Masirah
+Muscat International Airport;23.600218;58.285268;Muscat/Seeb
+Salalah International Airport;17.0387;54.091301;Salalah
+Suhar International Airport;24.38604;56.62541;Suhar
+Thumrait Air Base;17.666;54.024601;Thumrait
+Shamsi Airfield;27.8465;65.160004;Washuk
+Bahawalpur Airport;29.34810066;71.71800232;Bahawalpur
+Chitral Airport;35.886213;71.799922;Chitral
+Dera Ghazi Khan Airport;29.96100044;70.48590088;Dera Ghazi Khan
+Dera Ismael Khan Airport [IN-ACTIVE];31.909401;70.896599;Dera Ismael Khan
+Faisalabad International Airport;31.364923;72.995319;Faisalabad
+New Gwadar International Airport;25.296733;62.498822;Gurandani
+Gilgit Airport;35.91880035;74.33360291;Gilgit
+Islamabad International Airport;33.549;72.82566;Attock
+Shahbaz Air Base;28.28420067;68.4496994;Jacobabad
+Jinnah International Airport;24.9065;67.160797;Karachi
+Allama Iqbal International Airport;31.521601;74.403603;Lahore
+Mangla Airport;33.05009842;73.63839722;Mangla
+Mianwali Air Base;32.56309891;71.5707016;Mianwali
+Moenjodaro Airport;27.335199;68.143097;Moenjodaro
+Masroor Air Base;24.89360046;66.938797;Karachi
+Minhas Air Base;33.86909866;72.40090179;Kamra
+Multan International Airport;30.203199;71.419098;Multan
+Shaheed Benazirabad Airport;26.2194;68.390099;Nawabashah
+Panjgur Airport;26.9545;64.1325;Panjgur
+Pasni Airport;25.290501;63.3451;Pasni
+Bacha Khan International Airport;33.9939;71.514603;Peshawar
+Quetta International Airport;30.2514;66.937798;Quetta
+Shaikh Zaid Airport;28.38389969;70.27960205;Rahim Yar Khan
+PAF Base Nur Khan (Benazir Bhutto International Airport);33.616699;73.099197;Rawalpindi
+Rafiqui Air Base;30.75810051;72.28250122;Shorkot
+Risalpur Air Base;34.08110046;71.97260284;Risalpur
+Rawalakot Airport;33.849701;73.798103;Rawalakot
+Skardu International Airport;35.33866;75.538648;Skardu
+Faisal Air Base;24.87420082;67.11849976;Karachi
+Begum Nusrat Bhutto International Airport Sukkur;27.722;68.791702;Sukkur
+Sehwan Sharif Airport;26.473101;67.717201;Sehwan Sharif
+Mushaf Air Base;32.04859924;72.66500092;Sargodha
+Saidu Sharif Airport;34.813599;72.352798;Saidu Sharif
+Sialkot International Airport;32.535941;74.364623;Sialkot
+Sui Airport;28.64509964;69.17690277;Sui
+Turbat International Airport;25.984767;63.028856;Turbat
+Zhob Airport;31.35840034;69.46360016;Fort Sandeman
+Al Asad Air Base;33.78559875;42.44120026;Hīt
+Al Taqaddum Air Base;33.33810043;43.5970993;Al Habbaniyah
+Balad Southeast Airport / Joint Base Balad;33.940201;44.361599;Al Bakr
+Baghdad International Airport / New Al Muthana Air Base;33.262501;44.2346;Baghdad
+Mosul International Airport;36.305801;43.1474;Mosul
+Erbil International Airport;36.236047;43.946615;Arbil
+Kirkuk International Airport;35.469501;44.3489;Kirkuk
+Basra International Airport;30.549101;47.662102;Basra
+Al Najaf International Airport;31.991116;44.405019;Najaf
+Qayyarah West Airport;35.7672;43.125099;Qayyarah
+Al Sahra Army Air Field;34.673199;43.542999;Tikrit
+Jalal Talabani International Airport;35.560487;45.315137;Sulaymaniyah
+Tall Afar Army Air Field;36.2831;42.403;Tall Afar
+Al Taji Army Air Field;33.523899;44.256699;Taji
+Ali Air Base;30.935801;46.090099;Nasiriyah
+Ubaydah Bin Al Jarrah Airport;32.481998;45.757099;Al Kut
+Abu ad Duhur Air Base;35.73220062;37.10419846;Abu ad Duhur
+An Nasiriyah Air Base;33.91899872;36.86660004;
+Khalkhalah Air Base;33.07730103;36.55820847;Buraq
+Al Qusayr Air Base;34.56909943;36.57279968;Al-Qusayr
+Aleppo International Airport;36.181262;37.226869;Aleppo
+Damascus International Airport;33.41149902;36.5155983;Damascus
+Deir ez-Zor Airport;35.2854;40.175999;Deir ez-Zor
+Qamishli International Airport;37.020599;41.191399;Qamishli
+Latakia International Airport;35.4011;35.9487;Latakia
+Palmyra Airport;34.5574;38.316898;Tadmur
+Doha International Airport;25.259431;51.565528;Doha
+Al Udeid Air Base;25.11730003;51.31499863;Ar Rayyan
+Hamad International Airport;25.273056;51.608056;Doha
+Al Anad Air Base;13.1747;44.765099;Al Anad
+Aden International Airport;12.829564;45.029976;Aden
+Ataq Airport;14.5513;46.826199;Ataq
+Al Ghaydah International Airport;16.193341;52.174186;Al Ghaydah
+Hodeida International Airport;14.752039;42.975969;Hodeida
+Riyan International Airport;14.662241;49.375289;Mukalla(Riyan)
+Sanaa International Airport;15.4763;44.2197;Sanaa
+Socotra Airport;12.632093;53.906173;Mori
+Seiyun Hadhramaut International Airport;15.965887;48.788146;Seiyun
+Taiz International Airport;13.686;44.139099;Taiz
+Central Mindanao Airport;6.91229;124.92446;M'lang
+Mai Bakhtawar International Airport;24.846862;70.096109;Islamkot
+Gangshan Air Force Base;22.782499;120.263;Kaohsiung (Gangshan)
+Kinmen Airport;24.4279;118.359001;Shang-I
+Pingtung Air Force Base;22.672579;120.461712;Pingtung
+Matsu Nangan Airport;26.159656;119.958376;Matsu (Nangan)
+Taitung Airport;22.754856;121.101794;Taitung City
+Kaohsiung International Airport;22.577101;120.349998;Kaohsiung (Xiaogang)
+Chiayi Airport;23.462577;120.390544;Shuishang
+Hengchun Airport;22.0411;120.730003;Hengchun
+Lanyu Airport;22.02700043;121.5350037;Orchid Island
+Taichung International Airport / Ching Chuang Kang Air Base;24.2647;120.621002;Taichung (Qingshui)
+Matsu Beigan Airport;26.22414;120.002679;Matsu (Beigan)
+Tainan International Airport / Tainan Air Base;22.950399;120.206001;Tainan (Rende)
+Hsinchu Air Base;24.81800079;120.939003;Hsinchu City
+Penghu Magong Airport;23.568701;119.627998;Huxi
+Chihhang Air Base;22.7931;121.181999;Taitung City
+Pingtung Air Force Base North;22.700199;120.482002;Pingtung
+Taipei Songshan International Airport;25.067244;121.552822;Taipei (Songshan)
+Taiwan Taoyuan International Airport;25.0777;121.233002;Taoyuan
+Hualien Chiashan Airport;24.023163;121.617991;Hualien City
+Narita International Airport;35.76858;140.388714;Narita
+Shinshu-Matsumoto Airport;36.166801;137.923004;Matsumoto
+Ibaraki Airport;36.181456;140.414434;Omitama
+Ioto (Iwo Jima) Airbase;24.784153;141.32261;Ogasawara
+Kansai International Airport;34.427299;135.244003;Osaka
+Nanki Shirahama Airport;33.66220093;135.3639984;Shirahama
+Kobe Airport;34.632801;135.223999;Kobe
+Konotori Tajima Airport;35.512798;134.787003;Toyooka
+Tokachi-Obihiro Airport;42.73329926;143.2169952;Obihiro
+New Chitose Airport;42.774753;141.690414;Sapporo
+Hakodate Airport;41.77;140.822006;Hakodate
+JASDF Chitose Air Base;42.794498;141.666;Chitose
+Kushiro Airport;43.041;144.192993;Kushiro
+Memanbetsu Airport;43.88059998;144.1640015;Ōzora
+Nakashibetsu Airport;43.57749939;144.9600067;Nakashibetsu
+Sapporo Okadama Airport;43.117447;141.38134;Sapporo
+JASDF Kenebetsu Airfield;43.425154;144.741354;Betsukai
+Tokachi Airport;42.890499;143.158005;Obihiro
+Wakkanai Airport;45.40420151;141.8009949;Wakkanai
+Amakusa Airport;32.482498;130.158997;Amakusa
+Iki Airport;33.74900055;129.7850037;Iki
+Yamaguchi Ube Airport;33.93;131.279007;Ube
+Tsushima Airport;34.28490067;129.3309937;Tsushima
+Monbetsu Airport;44.30390167;143.404007;Monbetsu
+Asahikawa Airport;43.670799;142.447006;Higashikagura
+Okushiri Airport;42.07170105;139.4329987;Okushiri Island
+Rishiri Airport;45.24200058;141.1860046;Rishiri
+JASDF Ashiya Air Base;33.883099;130.653;Ashiya
+Yakushima Airport;30.385599;130.658997;Yakushima
+Fukue Airport;32.666302;128.832993;Goto
+Fukuoka Airport;33.58589935;130.451004;Fukuoka
+New Tanegashima Airport;30.60510063;130.9909973;Tanegashima
+Kagoshima Airport;31.8034;130.718994;Kagoshima
+Miyazaki Airport;31.877199;131.449005;Miyazaki
+Oita Airport;33.47940063;131.7369995;Oita
+Kitakyushu Airport;33.845901;131.035004;Kitakyushu
+Kyushu Saga International Airport;33.1497;130.302002;Saga
+Kumamoto Airport;32.837299;130.854996;Kumamoto
+Nagasaki Airport;32.916901;129.914001;Nagasaki
+JMSDF Kanoya Air Base;31.36672;130.838805;Kanoya
+JASDF Tsuiki Air Base;33.685001;131.039993;Tsuiki
+Chubu Centrair International Airport;34.858398;136.804993;Tokoname
+Amami Airport;28.43059921;129.7129974;Amami
+Okinoerabu Airport;27.431604;128.705564;Wadomari
+Kikai Airport;28.32130051;129.9279938;Kikai
+Tokunoshima Airport;27.836382;128.881356;Amagi
+Nagoya Airport / JASDF Komaki Air Base;35.255759;136.924095;Nagoya
+Fukui Airport;36.142799;136.223999;Fukui
+Gifu Airport;35.3941;136.869995;Gifu
+JASDF Hamamatsu Air Base;34.750198;137.703003;Hamamatsu
+Komatsu Airport / JASDF Komatsu Air Base;36.393407;136.406895;Kanazawa
+Oki Global Geopark Airport;36.178388;133.323566;Okinoshima
+Mount Fuji Shizuoka Airport;34.795022;138.190976;Makinohara / Shimada
+Toyama Kitokito Airport;36.648416;137.187359;Toyama
+Noto Satoyama Airport;37.293098;136.962006;Wajima
+JASDF Shizuhama Air Base;34.812801;138.298004;Yaizu
+Hiroshima Airport;34.4361;132.919006;Hiroshima
+Okayama Momotaro Airport;34.756901;133.854996;Okayama
+Izumo Enmusubi Airport;35.413601;132.889999;Izumo
+JASDF Hofu Airfield;34.034746;131.548716;Hofu
+Yonago Kitaro Airport / JASDF Miho Air Base;35.492199;133.235992;Yonago
+Iwakuni Kintaikyo Airport;34.146333;132.247238;Iwakuni
+Kochi Ryoma Airport;33.545217;133.670166;Nankoku
+Matsuyama Airport;33.826893;132.700114;Matsuyama
+Osaka Itami International Airport;34.780853;135.440829;Osaka
+Tottori Sand Dunes Conan Airport;35.530058;134.165023;Tottori
+Tokushima Awaodori Airport / JMSDF Tokushima Air Base;34.132559;134.607816;Tokushima
+Takamatsu Airport;34.214963;134.015454;Takamatsu
+Iwami Airport;34.67639923;131.7899933;Masuda
+Yao Airport;34.59629822;135.6029968;Yao
+Aomori Airport;40.733777;140.689477;Aomori
+Yamagata Airport;38.4119;140.371002;Higashine
+Sado Airport;38.06019974;138.4140015;Sado
+Fukushima Airport;37.22740173;140.4309998;Sukagawa
+JMSDF Hachinohe Air Base / Hachinohe Airport;40.551181;141.465428;Hachinohe
+Iwate Hanamaki Airport;39.4286;141.134995;Hanamaki
+Akita Airport;39.615601;140.218994;Akita
+Misawa Airport / Misawa Air Base;40.703201;141.367996;Misawa
+Niigata Airport;37.954166;139.112189;Niigata
+Odate Noshiro Airport;40.191898;140.371002;Kitaakita
+Sendai Airport;38.139702;140.917007;Natori
+JASDF Matsushima Air Base;38.4049;141.220001;Ishinomaki
+Shonai Airport;38.812199;139.787003;Shonai
+JMSDF Atsugi Air Base / Naval Air Facility Atsugi;35.454601;139.449997;Ayase / Yamato
+JMSDF Tateyama Air Base;34.987099;139.828995;Tateyama
+Chofu Airport;35.6717;139.528;Chofu
+Hachijojima Airport;33.114843;139.785645;Hachijojima
+Iruma Air Base;35.8419;139.410995;Sayama
+JGSDF Kisarazu Airfield;35.3983;139.910004;Kisarazu
+JMSDF Shimofusa Air Base;35.798901;140.011002;Matsudo
+Oshima Airport;34.7820015;139.3600006;Izu Oshima
+Miyakejima Airport;34.07360077;139.5599976;Miyakejima
+Tokyo Haneda International Airport;35.549678;139.786958;Tokyo
+Utsunomiya Air Field;36.5145;139.87101;Utsunomiya
+Yokota Air Base;35.748501;139.348007;Fussa
+Muan International Airport;34.991406;126.382814;Muan (Piseo-ri)
+Gwangju Airport;35.123173;126.805444;Gwangju
+Gunsan Airport / Gunsan Air Base;35.903801;126.615997;Gunsan
+Yeosu Airport;34.84230042;127.6169968;Yeosu
+Gangneung Airport (K-18);37.753601;128.943915;Gangneung
+Wonju Airport / Hoengseong Air Base (K-38/K-46);37.437113;127.960051;Wonju
+Yangyang International Airport;38.060481;128.669822;Gonghang-ro
+Jeju International Airport;33.512058;126.492548;Jeju City
+Jeongseok Airport;33.39960098;126.711998;Jeju Island
+Gimhae International Airport;35.179501;128.938004;Busan
+Sacheon Airport / Sacheon Air Base;35.088591;128.071747;Sacheon
+Ulsan Airport;35.59349823;129.352005;Ulsan
+Camp Humphreys (A-511) Desiderio Army Airfield;36.962363;127.031126;Pyeongtaek
+Incheon International Airport;37.469101;126.450996;Seoul
+Seoul Air Base (K-16);37.444744;127.112718;Seongnam
+Osan Air Base;37.091457;127.029448;Pyeongtaek
+Seoul Gimpo International Airport;37.5583;126.791;Seoul
+Suwon Airport;37.239399;127.007004;Suwon
+Pohang Airport (G-815/K-3);35.987955;129.420383;Pohang
+Jungwon Air Base/Chungju Airport;37.03024;127.886353;Gimseang-ro
+Daegu International Airport;35.894394;128.656989;Daegu
+Cheongju International Airport/Cheongju Air Base (K-59/G-513);36.71556;127.500289;Cheongju
+Yecheon Airbase;36.630373;128.34971;Yecheon-ri
+Naha International Airport;26.192437;127.639804;Naha
+Kadena Air Base;26.351667;127.769444;Okinawa
+New Ishigaki Airport;24.396389;124.245;Ishigaki
+Kumejima Airport;26.363445;126.71384;Kumejima
+Minamidaito Airport;25.8465;131.263;Minamidaito
+Miyako Airport;24.782801;125.294998;Miyakojima
+Iejima Airport;26.722537;127.786801;Ie
+Kitadaito Airport;25.94470024;131.3269959;Kitadaitōjima
+Shimojishima Airport;24.8267;125.144997;Miyakojima
+Tarama Airport;24.653793;124.675453;Tarama
+Yoron Airport;27.043847;128.401648;Yoron
+Futenma Marine Corps Air Station;26.2743;127.755997;
+Yonaguni Airport;24.467298;122.979827;Yonaguni
+Subic Bay International Airport / Naval Air Station Cubi Point;14.794833;120.271883;Olongapo
+Clark International Airport / Clark Air Base;15.186;120.559998;Mabalacat
+Cagayan North International Airport;18.182388;121.746223;Lal-lo
+Laoag International Airport;18.175089;120.531006;Laoag City
+Bicol International Airport;13.111915;123.676829;Legazpi
+Ninoy Aquino International Airport;14.5086;121.019997;Manila (Pasay)
+Danilo Atienza Air Base;14.4954;120.903999;Cavite
+Itbayat Jorge Abad Airport;20.722521;121.809969;Itbayat
+Lubang Airport;13.8554;120.105003;Lubang
+Allah Valley Airport;6.367903;124.752431;Surallah
+Rajah Buayan Air Base;6.105476;125.234882;General Santos City
+Cotabato (Awang) Airport;7.164753;124.209938;Datu Odin Sinsuat
+Francisco Bangoy International Airport;7.12552;125.646004;Davao
+Bancasi Airport;8.9515;125.4788;Butuan
+Bislig Airport;8.195052;126.321015;Bislig
+Dipolog Airport;8.601983;123.341875;Dipolog
+Camiguin Airport;9.253894;124.709115;Mambajao
+Jolo Airport;6.05367;121.011002;Jolo
+Sanga Sanga Airport;5.048196;119.743338;Bongao
+Labo Airport;8.17851;123.842003;Ozamiz
+Pagadian Airport;7.825632;123.459635;Pagadian
+Mati National Airport;6.949091;126.27368;Mati
+General Santos International Airport;6.057208;125.096243;General Santos
+Surigao Airport;9.755838326;125.4809475;Surigao City
+Tandag Airport;9.072002;126.17132;Tandag
+Laguindingan International Airport;8.612203;124.456496;Laguindingan
+Zamboanga International Airport;6.92242;122.059998;Zamboanga
+Bohol-Panglao International Airport;9.573045;123.770143;Panglao
+Loakan Airport;16.375034;120.619949;Baguio
+Daet Airport;14.1292;122.980003;Daet
+San Jose Airport;12.36149979;121.0469971;San Jose
+Mamburao Airport;13.208048;120.605457;Mamburao
+Naga Airport;13.5848999;123.2699966;Naga
+Basco Airport;20.4513;121.980003;Basco
+Dr. Juan C. Angara Airport;15.729309;121.500034;Baler
+San Fernando Airport;16.5956;120.303001;San Fernando
+Tuguegarao Airport;17.64336768;121.7331505;Tuguegarao City
+Virac Airport;13.5763998;124.2060013;Virac
+Marinduque Airport;13.36100006;121.8259964;Gasan
+Cauayan Airport;16.92989922;121.7529984;Cauayan City
+Daniel Z. Romualdez Airport;11.227761;125.027783;Tacloban City
+Bacolod-Silay International Airport;10.776237;123.018879;Bacolod City
+Calbayog Airport;12.072574;124.54508;Calbayog City
+Sibulan Airport;9.334183;123.30191;Dumaguete City
+Godofredo P. Ramos Airport;11.9245;121.954002;Caticlan
+Catarman National Airport;12.50161;124.635258;Catarman
+Iloilo International Airport;10.833017;122.493358;Cabatuan
+Moises R. Espinosa Airport;12.369682;123.630095;Masbate
+Kalibo International Airport;11.6794;122.375999;Kalibo
+Mactan Cebu International Airport;10.309261;123.97974;Cebu City/Lapu-Lapu City
+Ormoc Airport;11.057715;124.565622;Ormoc City
+Puerto Princesa International Airport / PAF Antonio Bautista Air Base;9.742044;118.75911;Puerto Princesa
+Roxas Airport;11.59770012;122.7519989;Roxas City
+Evelio Javier Airport;10.766644;121.932506;San Jose
+Tugdan Airport;12.31099987;122.0849991;Tablas Island
+Francisco B. Reyes (Busuanga) Airport;12.121865;120.100801;Coron
+Red Sea International Airport;25.627975;37.088914;Hanak
+Levashovo Air Base;60.0867;30.1933;St. Petersburg
+Bada Air Base;51.406917;109.900091;Bada
+Balashov Air Base;51.531687;43.301718;Balashov
+Borisoglebsk Air Base;51.366699;42.178299;Borisoglebsk
+Khotilovo Air Base;57.654999;34.099998;Bologoye
+Lipetsk Air Base;52.634998;39.445;Lipetsk
+Buturlinovka Air Base;50.79221;40.606155;Buturlinovka
+Chindant Air Base;50.396823;116.346114;Borzya
+Kaliningrad Chkalovsk Naval Air Base;54.766556;20.396819;Kaliningrad
+Irkutsk Northwest Airport;52.367642;104.183335;Irkutsk
+Mius Airport;54.958332;43.311668;Sarov
+Yamburg Airport;67.987288;75.09804;Yamburg
+Chernyakhovsk Naval Air Base;54.601676;21.782375;Chernyakhovsk
+Ostrov Naval Air Base;57.299999;28.4333;Ostrov
+Pribylovo Naval Air Base;60.458332;28.746668;Pribilovo
+Krymsk Air Base;44.962905;37.999071;Krymsk
+Krasnodar Central Air Base;45.082429;38.944312;Krasnodar
+Bobrovka Air Base;53.145;50.709999;Kinel
+Budyonnovsk Air Base;44.830002;44.013;Budyonnovsk
+Chernigovka Air Base;44.32239;132.545289;Chernigovka
+Mozdok Air Base;43.78499985;44.59999847;Mozdok
+Taganrog Tsentralny Air Base;47.24645;38.8403;Taganrog
+Sormovo Airfield;56.32;43.799999;Nizhniy Novgorod
+Seshcha Air Base;53.715258;33.339083;Dubrovka
+Millerovo Air Base;48.955177;40.296356;Millerovo
+Privolzhskiy Air Base;46.395726;47.887688;Astrakhan
+Kapustin Yar Airfield;48.667;45.732;Znamensk
+Vozdvizhenka Air Base;43.907501;131.925008;Vozdvizhenka
+Rostov-on-Don Central Air Base;47.277386;39.635556;Rostov-on-Don
+Akhtubinsk Air Base;48.3085;46.2365;Akhtubinsk
+Kubinka Air Base;55.611695;36.650002;Kubinka
+Velikiye Luki Airport;56.381066;30.607846;Velikiye Luki
+Rtishchevo Air Base;52.297317;43.7241;Rtishchevo
+Semyazino Airport;56.127423;40.315202;Vladimir
+Soltsy-2 Air Base;58.139545;30.33042;Soltsy
+Yermolino Air Base;55.228627;36.608609;Balabanovo
+Myachkovo Airfield;55.560817;37.983947;Moscow
+Staraya Russa Air Base;57.961399;31.384399;Staraya Russa
+Fedotovo Naval Air Base;59.190372;39.123459;Kipelovo
+Severomorsk-1 Naval Air Base;69.03167;33.418331;Severomorsk
+Severomorsk-3 Naval Air Base;68.866669;33.716667;Severomorsk
+Dyagilevo Air Base;54.642284;39.569047;Ryazan
+Khanskaya Air Base;44.67956;40.036059;Maykop
+Smolensk North Airport;54.824;32.025;Smolensk
+Yeysk Airport;46.68;38.21;Yeysk
+Kamensk-Uralskiy Air Base;56.436699;61.986698;Kamensk Uralskiy
+Dolinsk-Sokol Air Base;47.2617;142.768005;Dolinsk
+Samara Kryazh Air Base;53.108299;50.098301;Samara
+Dzhida Air Base;50.677425;106.138573;Dzhida
+Oreshkovo Airfield;54.467731;36.073685;Kaluga
+Bagay-Baranovka Air Base;52.139652;46.969387;Sennoy
+Kansk Air Base;56.123299;95.6633;Kansk
+Tambov Air Base;52.700626;41.374168;Tambov
+Danilovo Air Base;56.66;48.033298;Yoshkar Ola
+Olenya Air Base;68.151802;33.463902;Olenegorsk
+Rogachyovo Air Base;71.616699;52.478298;Belaya
+Shatalovo Air Base;54.34;32.473301;Pochinok
+Cheryomushki Air Base;52.072963;113.433267;Chita
+Chuguyevka Air Base;44.083302;133.867996;Chuguyevka
+Smuravyovo Air Base;58.814999;28.0133;Gdov
+Ivanovo North Air Base;57.0583;40.981701;Ivanovo
+Lyambir Air Base;54.28499985;45.16830063;Saransk
+Ulan-Ude East Airport;51.849998;107.737999;Ulan Ude
+Michurinsk Air Base;52.917455;40.365826;Michurinsk
+Step Air Base;51.020051;115.431016;Chita
+Yugorsk Sovetsky Air Base;61.268299;63.138302;Yugorsk
+Uprun Air Base;54.375;61.353298;Uvelsky
+Voronezh Baltimore Air Base;51.62;39.14;Voronezh
+Sharomy Air Base;54.294492;158.151505;Sharomy
+Engels Air Base;51.480499;46.215;Saratov
+Vorkuta Sovetskiy Air Base;67.463303;64.306702;Vorkuta
+Krechevitsy Air Base;58.625;31.385;Novgorod
+Rzhev Air Base;56.259998;34.408298;Rzhev
+Shaykovka Air Base;54.2267;34.3717;Kirov
+King Salman Air Base;24.465259;46.659279;Riyadh
+Gävle–Sandviken Airport;60.594444;16.951111;Sandviken
+Khovaling Airport;38.364134;69.986299;Khovilling
+Gissar Air Base;38.51229858;68.67250061;Dushanbe
+Farkhor Air Base;37.46979904;69.38079834;Parkhar
+Balkanabat International Airport;39.681052;54.206008;Balkanabat
+Mary North Airport;37.66429901;61.82699966;Mary
+Temelli Air Base;39.73885727;32.37863922;Polatlı
+Keşan Air Base;40.787068;26.606655;Keşan
+Zuoying Naval Airfield;22.705;120.280998;Kaohsiung (Zuoying)
+Nizhyn Air Base;51.088535;31.870995;Nizhyn
+Oktyabrskoe Air Base;45.31999969;34.09999847;Oktyabrskoe
+Kirovskoe Air Base;45.16699982;35.18299866;Kirovskoe
+Melitopol Air Base;46.880001;35.305;Melitopol
+Kacha Air Base;44.779764;33.572245;Kacha
+Bila Tserkva Air Base;49.795228;30.024435;Bila Tserkva
+Zhovtneve Air Base;45.639999;28.67;Bolgrad
+Dolgintsevo Air Base;47.887;33.533;Kryvyi Rih
+Batken Airport;40.042899;70.83784;Batken
+Almaty International Airport;43.354267;77.042828;Almaty
+Balkhash Airport;46.894246;75.004533;Balkhash
+Taldykorgan Airport;45.12255;78.442758;Taldykorgan
+Nursultan Nazarbayev International Airport;51.027035;71.467094;Astana
+Kokshetau International Airport;53.329102;69.594597;Kokshetau
+Petropavl International Airport;54.775622;69.187415;Petropavl
+Taraz International Airport;42.8536;71.303596;Taraz
+Manas International Airport;43.061298;74.4776;Bishkek
+Osh International Airport;40.609001;72.793297;Osh
+Karakol International Airport;42.508099;78.407799;Karakol
+Kant Air Base;42.85319901;74.84649658;Kant
+Shymkent International Airport;42.365021;69.47564;Shymkent
+Hazrat Sultan International Airport;43.311087;68.550352;Turkıstan
+Zhezkazgan National Airport;47.708953;67.738094;Zhezkazgan
+Sary-Arka Airport;49.670799;73.334396;Karaganda
+Baikonur Krayniy International Airport;45.621994;63.210773;Baikonur
+Yubileyniy Airfield;46.052421;63.249185;Töretam
+Korkyt Ata International Airport;44.706902;65.592499;Kyzylorda
+Manshuk Mametova International Airport;51.151976;51.543652;Uralsk
+Ayaguz Airport;47.919218;80.452194;Ayaguz
+Ekibastuz Airport;51.5909996;75.21499634;Ekibastuz
+Oskemen International Airport;50.035033;82.496057;Ust-Kamenogorsk (Oskemen)
+Pavlodar International Airport;52.194982;77.073088;Pavlodar
+Semei International Airport;50.351295;80.234398;Semey
+Aktau International Airport;43.860093;51.09086;Aktau
+Atyrau International Airport;47.121318;51.820343;Atyrau
+Shalkar Airport;47.904999;59.619999;Shalkar
+Aktobe International Airport;50.248116;57.204144;Aktobe
+Kostanay International Airport;53.206902;63.550301;Kostanay
+Nasosnaya Air Base;40.591599;49.5574;Sumqayit
+Khojaly Airport;39.901402;46.786999;Khojaly
+Kyurdamir Air Base;40.27360153;48.16360092;Kyurdamir
+Baku Kala Air Base;40.408409;50.200287;Baku
+Heydar Aliyev International Airport;40.47278;50.050931;Baku
+Ganja International Airport;40.738692;46.320383;Ganja
+Nakhchivan International Airport;39.188801;45.458401;Nakhchivan
+Gabala International Airport;40.808617;47.725389;Gabala
+Zaqatala International Airport;41.557823;46.669464;Zaqatala
+Lachin International Airport;39.883787;46.363137;Lachin
+Issyk-Kul International Airport;42.585584;76.701181;Tamchy
+Shirak International Airport;40.750401;43.859299;Gyumri
+Erebuni Airport;40.12210083;44.46500015;Yerevan
+Zvartnots International Airport;40.148941;44.397887;Yerevan
+Platon Oyunsky Yakutsk International Airport;62.0933;129.770996;Yakutsk
+Chulman Airport;56.91389847;124.9140015;Neryungri
+Moma Airport;66.450861;143.261551;Khonuu
+Magan Airport;62.103484;129.545288;Magan
+Olyokminsk Airport;60.401833;120.476094;Olyokminsk
+Ust-Nera Airport;64.550003;143.115005;Ust-Nera
+Kyzyl-Syr Airport;63.887303;122.775779;Kyzyl-Syr
+Vilyuisk Airport;63.756668;121.693336;Vilyuisk
+Aykhal Airport;65.959198;111.546501;
+Lensk Airport;60.723594;114.825319;Lensk
+Polyarny Airport;66.400398;112.029999;Yakutia
+Mirny Airport;62.53469849;114.0390015;Mirny
+Saskylakh Airport;71.927902;114.080002;Saskylakh
+Belaya Gora Airport;68.556227;146.22784;Belaya Gora
+Srednekolymsk Airport;67.4805;153.7364;Srednekolymsk
+Chokurdakh Airport;70.6231;147.901993;Chokurdah
+Cherskiy Airport;68.740601;161.337997;Cherskiy
+Tiksi Airport;71.697701;128.903;Tiksi
+Zyryanka Airport;65.7485;150.8889;Zyryanka
+Zhigansk Airport;66.79650116;123.3610001;Zhigansk
+Gudauta Air Base;43.104;40.5793;Gudauta
+Dollyar Air Base;40.8876;45.957001;Dollyar
+Tbilisi Marneuli Air Base;41.459202;44.783199;Tbilisi
+Tbilisi Soganlug Air Base;41.64920044;44.93640137;Tbilisi
+Vaziani Air Base;41.627998;45.0308;Gamarjveba 1
+Bolshiye Shiraki Air Base;41.37950134;46.36729813;Bolshiye Shiraki
+Ambrolauri Airport;42.52687;43.13538;Ambrolauri
+David the Builder Kutaisi International Airport;42.177448;42.485353;Kopitnari
+Alexander Kartveli Batumi International Airport;41.60939;41.600315;Batumi
+Vladislav Ardzinba Sukhum International Airport;42.8582;41.128101;Sukhumi
+Tbilisi International Airport;41.669201;44.9547;Tbilisi
+Ignatyevo Airport;50.426723;127.415502;Blagoveschensk
+Khabarovsk Novy Airport;48.528338;135.188588;Khabarovsk
+Dzemgi Airport;50.605625;137.081266;Komsomolsk-na-Amur
+Kamenny Ruchey Naval Air Base;49.235703;140.1931;Sovetskaya Gavan
+Komsomolsk-on-Amur Airport;50.409;136.934006;Komsomolsk-on-Amur
+Sovetskaya Gavan (Maygatka) Airport;48.925067;140.035348;Sovetskaya Gavan
+Ugolny Yuri Ryktheu Airport;64.734902;177.740997;Anadyr
+Provideniya Bay Airport;64.378098;-173.242996;Chukotka
+Omsukchan Airport;62.457001;155.744995;Omsukchan
+Chaybukha Airport;61.834999;160.548004;Chaybukha
+Keperveem Airport;67.845001;166.139999;Keperveem
+Sokol Airport;59.9109993;150.7200012;Magadan
+Pevek Airport;69.783302;170.597;Apapelgino
+Seymchan Airport;62.92078;152.422775;Seymchan
+Magadan-13 Airport;59.62329865;150.9219971;Magadan
+Severo-Evensk Airport;61.921786;159.229059;Evensk
+Nikolayevsk-na-Amure Airport;53.154999;140.649994;Nikolayevsk-na-Amure Airport
+Okhotsk Airport;59.410065;143.056503;Okhotsk
+Palana Airport;59.082064;159.891577;Palana
+Yelizovo Airport;53.168716;158.451068;Petropavlovsk-Kamchatsky
+Yuzhno-Sakhalinsk International Airport;46.885461;142.717466;Yuzhno-Sakhalinsk
+Vladivostok International Airport;43.396256;132.148155;Artyom
+Chita-Kadala International Airport;52.024841;113.305839;Chita
+Krasnokamensk Airport;50.033108;118.061142;Krasnokamensk
+Bratsk Airport;56.3696;101.701822;Bratsk
+Zheleznogorsk Airport;56.487701;104.106003;Zheleznogorsk-Ilimsky
+Irkutsk International Airport;52.266707;104.395563;Irkutsk
+Ust-Kut Airport;56.856701;105.730003;Ust-Kut
+Baikal International Airport;51.808614;107.439652;Ulan Ude
+Boryspil International Airport;50.345001;30.894699;Boryspil
+Mariupol International Airport;47.076099;37.4496;Mariupol
+Berdyansk Airport;46.814999;36.758099;Berdyansk
+Dnipro International Airport;48.357201;35.100601;Dnipro
+Zaporizhzhia International Airport;47.866962;35.314723;Zaporizhia
+Kryvyi Rih International Airport;48.043301;33.209999;Kryvyi Rih
+Sevastopol International Airport / Belbek Air Base;44.691822;33.57462;Sevastopol
+Simferopol International Airport;45.0522;33.975101;Simferopol
+Gvardeyskoye (Hvardiiske) Air Base;45.116192;33.976625;Hvardiiske
+Saky Air Base;45.090611;33.598536;Novofedorivka
+Dzhankoy Air Base;45.700901;34.4189;Dzhankoy
+Kharkiv International Airport;49.926943;36.290814;Kharkiv
+Suprunovka Airport;49.5686;34.397202;Poltava
+Cherkasy International Airport;49.4156;31.9953;Cherkasy
+Igor Sikorsky Kyiv International Airport (Zhuliany);50.40194;30.45194;Kyiv
+Hostomel Airport;50.6035;30.1919;Kiev
+Ozerne Air Base;50.158298;28.7383;Zhytomyr
+Zhytomyr Airport;50.270556;28.738611;Zhytomyr
+Khmelnytskyi Airport;49.359699;26.933399;Khmelnytskyi
+Ivano-Frankivsk International Airport;48.884201;24.6861;Ivano-Frankivsk
+Lviv International Airport;49.8125;23.9561;Lviv
+Chernivtsi International Airport;48.2593;25.980801;Chernivtsi
+Rivne International Airport;50.607101;26.1416;Rivne
+Uzhhorod International Airport;48.6343;22.263399;Uzhhorod
+Kherson International Airport;46.6758;32.506401;Kherson
+Mykolaiv International Airport [CLOSED];47.057899;31.9198;Mykolaiv
+Odesa International Airport;46.427196;30.672649;Odesa
+Vinnytsia/Gavyryshivka International Airport;49.242531;28.613778;Vinnitsa
+Talagi Airport;64.60030365;40.71670151;Archangelsk
+Vaskovo Airport;64.441704;40.4217;Arkhangelsk
+Naryan Mar Airport;67.639999;53.121899;Naryan Mar
+Amderma Airport;69.763712;61.556711;Amderma
+Kotlas Airport;61.2358017;46.69749832;Kotlas
+Pulkovo Airport;59.800301;30.262501;St. Petersburg
+Pushkin Airport;59.685001;30.338301;St. Petersburg
+Emperor Nicholas II Murmansk Airport;68.7817;32.750801;Murmansk
+Princess Olga Pskov International Airport;57.781316;28.39384;Pskov
+Petrozavodsk Airport;61.885201;34.154701;Petrozavodsk
+Peski Airfield;61.831944;34.295555;Petrozavodsk
+Cherepovets Airport;59.27360153;38.01580048;Cherepovets
+Velikiy Ustyug Airport;60.7883;46.259998;Velikiy Ustyug
+Vologda Airport;59.282501;39.944401;Vologda
+Brest International Airport;52.108138;23.89676;Brest
+Gomel Airport;52.52700043;31.01670074;Gomel
+Vitebsk Vostochny Airport;55.12649918;30.34959984;Vitebsk
+Khrabrovo Airport;54.89161;20.598559;Kaliningrad
+Baranavichi Air Base;53.099998;26.049999;Baranavichi
+Hrodna Airport;53.602001;24.053801;Hrodna
+Minsk National Airport;53.888071;28.039964;Minsk
+Babruisk Air Base;53.105;29.205;Babruisk
+Mogilev Airport;53.95489883;30.0951004;Mogilev
+Abakan International Airport;53.740002;91.385002;Abakan
+Barnaul Gherman Titov International Airport;53.361285;83.539701;Barnaul
+Gorno-Altaysk Airport;51.969204;85.836539;Gorno-Altaysk
+Alexei Leonov Kemerovo International Airport;55.2701;86.107201;Kemerovo
+Baykit Airport;61.676701;96.355003;Baykit
+Yeniseysk Airport;58.474201;92.112503;Yeniseysk
+Podkamennaya Tunguska Airport;61.589699;89.994003;Bor
+Severo-Yeniseysk Airport;60.373299;93.011703;Severo-Yeniseysk
+Vanavara Airport;60.356229;102.309641;Vanavara
+Krasnoyarsk International Airport;56.175743;92.485788;Krasnoyarsk
+Krasnoyarsk Cheremshanka Airport;56.177584;92.545881;Krasnoyarsk
+Achinsk Airport;56.269185;90.57511;Achinsk
+Kyzyl Airport;51.669399;94.400597;Kyzyl
+Yeltsovka Airport;55.0924;83.004501;Novosibirsk
+Novosibirsk Tolmachevo Airport;55.019756;82.618675;Novosibirsk
+Omsk Central Airport;54.963124;73.312418;Omsk
+Omsk Severny Airport;54.974998;73.555;Omsk
+Strezhevoy Airport;60.7094;77.660004;Strezhevoy
+Tomsk Kamov Airport;56.380299;85.208298;Tomsk
+Spichenkovo Airport;53.811401;86.877197;Novokuznetsk
+Dikson Airport;73.517807;80.379669;Dikson
+Nagurskoye Airfield;80.803207;47.663586;Alexandra Land
+Khatanga Airport;71.97810364;102.4909973;Khatanga
+Svetlogorsk Airport;66.839996;88.403336;Svetlogorsk
+Igarka Airport;67.437202;86.621902;Igarka
+Alykel International Airport;69.307951;87.325906;Norilsk
+Anapa Vityazevo Airport;45.002102;37.347301;Krasnyi Kurgan
+Gelendzhik Airport;44.58209263;38.01248074;Gelendzhik
+Krasnodar Pashkovsky International Airport;45.034465;39.174215;Krasnodar
+Akhmat Kadyrov Grozny International Airport;43.388106;45.699772;Grozny
+Makhachkala Uytash International Airport;42.816799;47.652302;Makhachkala
+Mineralnye Vody Airport;44.225101;43.081902;Mineralnyye Vody
+Nalchik Airport;43.512901;43.6366;Nalchik
+Vladikavkaz Beslan International Airport;43.205101;44.606602;Beslan
+Magas Airport;43.323268;45.012568;Sunzha
+Stavropol Shpakovskoye Airport;45.10919952;42.1128006;Stavropol
+Dudinka Airport;69.375;86.15667;Dudinka
+Platov International Airport;47.493888;39.924722;Rostov-on-Don
+Taganrog Yuzhny Airport;47.198333;38.849167;Taganrog
+Sochi International Airport;43.449902;39.9566;Sochi
+Astrakhan Narimanovo Boris M. Kustodiev International Airport;46.282843;48.010511;Astrakhan
+Elista Airport;46.373901;44.330898;Elista
+Volgograd International Airport;48.78134;44.339194;Volgograd
+Kurchatov Chelyabinsk International Airport;55.303141;61.504927;Chelyabinsk
+Magnitogorsk International Airport;53.391991;58.755235;Magnitogorsk
+Sabetta International Airport;71.219167;72.052222;Sabetta
+Bovanenkovo Airport;70.315278;68.333611;Bovanenkovo
+Salekhard Airport;66.59079742;66.61100006;Salekhard
+Berezovo Airport;63.92100143;65.03050232;
+Khanty Mansiysk Airport;61.0285;69.086098;Khanty-Mansiysk
+Nyagan Airport;62.110001;65.614998;Nyagan
+Beloyarskiy Airport;63.686901;66.698601;
+Sovetskiy Airport;61.32662201;63.60191345;Sovetskiy
+Uray Airport;60.103298;64.826698;Uray
+Izhevsk Airport;56.834524;53.462172;Izhevsk
+Pobedilovo Airport;58.503883;49.347831;Kirov
+Nadym Airport;65.48090363;72.69889832;Nadym
+Novy Urengoy Airport;66.06939697;76.52030182;Novy Urengoy
+Nizhnevartovsk Airport;60.949299;76.483597;Nizhnevartovsk
+Perm International Airport;57.914501;56.021198;Perm
+Kogalym International Airport;62.19039917;74.53379822;Kogalym
+Nefteyugansk Airport;61.108299;72.650002;Nefteyugansk
+Noyabrsk Airport;63.18330002;75.26999664;Noyabrsk
+Surgut International Airport;61.340501;73.405782;Surgut
+Uktus Airport;56.701698;60.790001;Yekaterinburg
+Koltsovo Airport;56.74309921;60.80270004;Yekaterinburg
+Tobolsk Remezov Airport;58.059712;68.347997;Tobolsk
+Roshchino International Airport;57.178984;65.327696;Tyumen
+Kurgan Airport;55.4753;65.415604;Kurgan
+Ashgabat Bezmein Air Base;38.012001;58.195;Ashgabat
+Ashgabat International Airport;37.986801;58.361;Ashgabat
+Turkmenbaşy International Airport;40.062833;53.005085;Turkmenbaşy
+Mary International Airport;37.62353;61.895668;Mary
+Dashoguz International Airport;41.759853;59.836149;Daşoguz
+Türkmenabat International Airport;38.930662;63.563982;Türkmenabat
+Dushanbe International Airport;38.543746;68.822977;Dushanbe
+Kulob International Airport;37.988098;69.805;Kulob
+Khujand International Airport;40.215401;69.694702;Khujand
+Bokhtar International Airport;37.866315;68.864475;Bokhtar
+Namangan International Airport;40.984622;71.5578;Namangan
+Andijan International Airport;40.727699;72.293999;Andijan
+Fergana International Airport;40.358799;71.745003;Fergana
+Nukus International Airport;42.4884;59.623299;Nukus
+Urgench International Airport;41.58274;60.64338;Urgench
+Navoi International Airport;40.117599;65.172658;Navoi
+Bukhara International Airport;39.775319;64.482279;Bukhara
+Samarkand International Airport;39.701842;66.981467;Samarkand
+Termez Airport;37.287261;67.311869;Termez
+Tashkent-Khumo International Airport;41.312889;69.395535;Tashkent
+Tashkent International Airport;41.2579;69.281197;Tashkent
+Zomin Airport;40.01402;68.41103;Zomin
+Kostroma Sokerkino Airport;57.796902;41.019402;Kostroma
+Grabtsevo Airport;54.54999924;36.3666687;Kaluga
+Ivanovo South Airport;56.93939972;40.94079971;Ivanovo
+Staroselye Airport;58.104198;38.929401;Rybinsk
+Bryansk International Airport;53.214403;34.175965;Bryansk
+Zhukovsky International Airport;55.553299;38.150002;Moscow
+Domodedovo International Airport;55.408798;37.9063;Moscow
+Golden Ring Yaroslavl International Airport;57.560699;40.157398;Tunoshna
+Sheremetyevo International Airport;55.977486;37.386677;Moscow
+Migalovo Air Base;56.8246994;35.75770187;Tver
+Tretyakovo Airport;54.904999;39.026669;Lukhovitsy
+Chkalovskiy Air Base;55.8783;38.061699;Moscow
+Belgorod International Airport;50.643799;36.590099;Belgorod
+Kursk East Airport;51.750599;36.295601;Kursk
+Lipetsk Airport;52.702801;39.5378;Lipetsk
+Voronezh International Airport;51.814324;39.230948;Voronezh
+Donskoye Airport;52.806099;41.4828;Tambov
+Vnukovo International Airport;55.591499;37.261501;Moscow
+Ukhta Airport;63.566898;53.804699;Ukhta
+Inta Airport;66.055568;60.11088;Inta
+Vuktyl Airport;63.823299;57.279999;Vuktyl
+Pechora Airport;65.121101;57.130798;Pechora
+Usinsk Airport;66.0047;57.367199;Usinsk
+Izhma Airport;65.0317;53.970001;Izhma
+Vorkuta Airport;67.488602;63.993099;Vorkuta
+Ust-Tsylma Airport;65.437294;52.200336;Ust-Tsylma
+Syktyvkar Airport;61.64699936;50.8451004;Syktyvkar
+Nizhny Novgorod / Strigino International Airport;56.227351;43.785152;Nizhny Novgorod
+Bugulma Airport;54.641184;52.800229;Bugulma
+Kazan International Airport;55.606201;49.278702;Kazan
+Begishevo Airport;55.564701;52.092499;Nizhnekamsk
+Borisoglebskoye Airport;55.866699;49.133301;Kazan
+Yoshkar-Ola Airport;56.7006;47.904701;Yoshkar-Ola
+Cheboksary Airport;56.090302;47.347301;Cheboksary
+Ulyanovsk Baratayevka Airport;54.27016;48.225569;Ulyanovsk
+Ulyanovsk Vostochny Airport;54.401001;48.8027;Cherdakly
+Orenburg Central Airport;51.792668;55.457229;Orenburg
+Orsk Airport;51.072498;58.5956;Orsk
+Penza Airport;53.1106;45.021099;Penza
+Saransk International Airport;54.12513;45.212257;Saransk
+Balakovo Airport;51.858299;47.745602;Balakovo
+Gagarin International Airport;51.712778;46.171111;Saratov
+Ufa International Airport;54.557499;55.874401;Ufa
+Buguruslan Severny Airport;53.718399;52.371899;Buguruslan
+Bezymyanka Airfield;53.220001;50.325001;Samara
+Kurumoch International Airport;53.504902;50.164299;Samara
+Rewa Airport. Chorhata. REWA;24.503401;81.220299;Rewa
+Gondia Airport;21.526817;80.290347;Gondia
+Sardar Vallabh Patel International Airport;23.0772;72.634697;Ahmedabad
+Akola Airport;20.698931;77.056883;Akola
+Aurangabad Airport;19.862875;75.396312;Aurangabad
+Chhatrapati Shivaji Maharaj International Airport;19.088699;72.867897;Mumbai
+Bhuj Airport;23.28779984;69.67019653;Bhuj
+Belagavi Airport;15.8593;74.618301;Belgaum
+Vadodara International Airport;22.336201;73.226303;Vadodara
+Raja Bhoj International Airport;23.2875;77.337402;Bhopal
+Bhavnagar Airport;21.75219917;72.18520355;Bhavnagar
+Daman Airport;20.434401;72.843201;Daman
+Hubballi Airport;15.361084;75.082096;Hubballi
+Rajkot International Airport;22.378824;71.039391;Rajkot
+Devi Ahilya Bai Holkar International Airport;22.721404;75.80051;Indore
+Jabalpur Airport;23.177799;80.052002;Jabalpur
+Jamnagar Airport;22.46549988;70.01260376;Jamnagar
+Kandla Airport;23.1127;70.100304;Kandla
+Khajuraho Airport;24.8172;79.918602;Khajuraho
+Kolhapur Airport;16.6647;74.289398;Kolhapur
+Keshod Airport;21.317101;70.270401;Keshod
+Murod Kond Airport;18.411501;76.464699;Latur
+Nanded Airport;19.1833;77.316704;Nanded
+Dr. Babasaheb Ambedkar International Airport;21.092199;79.047203;Nagpur
+Nashik International Airport;20.119101;73.912903;Nashik
+Pune International Airport;18.5821;73.919701;Pune
+Porbandar Airport;21.649524;69.656405;Porbandar
+Ratnagiri Airport;17.013599;73.327797;
+Rajkot Airport;22.3092;70.779503;Rajkot
+Swami Vivekananda Airport;21.180401;81.7388;Raipur
+Shirdi International Airport;19.689211;74.373655;Kakadi
+Solapur Airport;17.62800026;75.93479919;Solapur
+Surat International Airport;21.115531;72.743251;Surat
+Maharana Pratap Airport;24.61770058;73.89610291;Udaipur
+Bandaranaike International Colombo Airport;7.180759907;79.88410187;Colombo
+Anuradhapura Airport;8.301542;80.42848;Anuradhapura
+Batticaloa International Airport;7.705073;81.677163;Batticaloa
+Colombo Ratmalana International Airport;6.821638;79.885859;Colombo
+Ampara Airport;7.336745;81.623869;Ampara
+Hingurakgoda Air Force Base;8.04981;80.9814;Polonnaruwa Town
+Jaffna International Airport;9.79233;80.070099;Jaffna
+Koggala Airport;5.99368;80.32029724;Galle
+China Bay Airport;8.539159;81.18128;Trincomalee
+Mattala Rajapaksa International Airport;6.283878;81.124163;Mattala
+Battambang Airport;13.0956;103.223999;Battambang
+Phnom Penh International Airport;11.547155;104.844699;Phnom Penh (Pou Senchey)
+Ratanakiri Airport;13.72999954;106.9869995;Ratanakiri
+Siem Reap-Angkor International Airport;13.36974;104.223831;Siem Reap
+Sihanouk International Airport;10.570557;103.632067;Preah Sihanouk
+Along Airport;28.1753006;94.80200195;
+Agartala - Maharaja Bir Bikram Airport;23.886999;91.240402;Agartala
+Bagdogra Airport;26.6812;88.328598;Siliguri
+Shillong Airport;25.70359993;91.97869873;Shillong
+Lal Bahadur Shastri International Airport;25.452171;82.862549;Varanasi
+Biju Patnaik International Airport;20.251021;85.814747;Bhubaneswar
+Bilaspur Airport;21.9884;82.111;Bilaspur
+Netaji Subhash Chandra Bose International Airport;22.654012;88.44765;Kolkata
+Dhanbad Airport;23.834;86.425301;
+Kazi Nazrul Islam Airport;23.6225;87.243;Durgapur
+Darbhanga Airport;26.192801;85.916901;Darbhanga
+Gorakhpur Airport;26.73970032;83.4496994;Gorakhpur
+Lokpriya Gopinath Bordoloi International Airport;26.106654;91.585226;Guwahati
+Gaya Airport;24.744301;84.951202;Gaya
+Hashimara Air Force Station;26.698299;89.369102;Jalpaiguri
+Bir Tikendrajit International Airport;24.76;93.896698;Imphal
+Sonari Airport;22.813706;86.168981;Jamshedpur
+Jorhat Airport;26.730456;94.175416;Jorhat
+Kushinagar International Airport;26.776534;83.889214;Kushinagar
+Kailashahar Airport;24.308657;92.00768;Kailashahar
+Silchar Airport;24.91290092;92.97869873;Silchar
+Lengpui Airport;23.840599;92.619698;Aizawl (Lengpui)
+Lilabari North Lakhimpur Airport;27.295682;94.097266;Lilabari
+Dibrugarh Airport;27.48390007;95.01689911;Dibrugarh
+Dimapur Airport;25.88389969;93.77110291;Dimapur
+Muzaffarpur Airport;26.119101;85.313698;Muzaffarpur
+Panagarh Air Force Station;23.47430038;87.42749786;
+Jay Prakash Narayan Airport;25.591299;85.087997;Patna
+Birsa Munda Airport;23.31430054;85.32170105;Ranchi
+Rourkela Airport;22.256571;84.815193;Rourkela
+Tezpur Airport;26.70910072;92.78469849;
+Utkela Airport;20.097778;83.183333;Bhawanipatna
+INS Dega Airport (visakhapatnam international airport);17.723506;83.227729;Visakhapatnam
+Ziro Airport;27.588301;93.828102;Ziro
+Barisal Airport;22.801001;90.301201;Barisal
+Cox's Bazar Airport;21.457517;91.963263;Cox's Bazar
+Shah Amanat International Airport;22.249599;91.813301;Chattogram (Chittagong)
+Hazrat Shahjalal International Airport;23.843347;90.397783;Dhaka
+Ishurdi Airport;24.1525;89.0494;Ishurdi
+Jessore Airport;23.1838;89.160797;Jashore (Jessore)
+Shah Makhdum Airport;24.437201;88.616501;Rajshahi
+Saidpur Airport;25.759199;88.908897;Saidpur
+Osmany International Airport;24.963993;91.864749;Sylhet
+Hong Kong International Airport;22.31184;113.914862;Hong Kong
+Shek Kong Air Base;22.4366;114.080002;Islands
+Agra Airport / Agra Air Force Station;27.157975;77.961025;Agra
+Prayagraj Airport;25.4401;81.733902;Allahabad
+Ambala Air Force Station;30.368099;76.816704;Ambala
+Sri Guru Ram Das Ji International Airport;31.7096;74.797302;Amritsar
+Nal Airport;28.070601;73.207199;Bikaner
+Kullu Manali Airport;31.876699;77.154404;Bhuntar
+Bhatinda Air Force Station;30.2701;74.755798;
+Bareilly Air Force Station;28.4221;79.450798;Bareilly
+Shaheed Bhagat Singh International Airport;30.6735;76.788498;Chandigarh
+Kanpur Airport;26.404301;80.410103;Kanpur
+Safdarjung Airport;28.585453;77.203563;New Delhi
+Dehradun Jolly Grant Airport;30.189243;78.176651;Dehradun (Jauligrant)
+Indira Gandhi International Airport;28.55563;77.09519;New Delhi
+Kangra Airport;32.164902;76.263018;Kangra
+Gwalior Airport;26.29330063;78.22779846;Gwalior
+Maharaja Agrasen International Airport;29.186065;75.74142;Hisar
+Halwara International Airport;30.748501;75.629799;Halwara
+Jodhpur Airport;26.25110054;73.04889679;Jodhpur
+Jaipur International Airport;26.8242;75.812202;Jaipur
+Jaisalmer Airport;26.8887;70.864998;
+Jammu Airport;32.688849;74.838152;Jammu
+Kishangarh Airport Ajmer;26.591007;74.812956;Ajmer (Kishangarh)
+Kota Airport;25.16020012;75.84559631;Kota
+Ludhiana Airport;30.85470009;75.95259857;
+Leh Kushok Bakula Rimpochee Airport;34.135899;77.546501;Leh
+Chaudhary Charan Singh International Airport;26.760599;80.889297;Lucknow
+Moradabad Airport;28.81746;78.92187;Moradabad
+Pathankot Airport;32.233611;75.634444;Pathankot
+Pantnagar Airport;29.0334;79.473701;Pantnagar
+Sirsa Air Force Station;29.5606;75.006104;
+Srinagar International Airport;33.987099;74.7742;Srinagar
+Udhampur Air Force Station;32.902152;75.155709;Udhampur
+Luang Phabang International Airport;19.904273;102.167191;Luang Phabang
+Pakse International Airport;15.133973;105.779871;Pakse
+Savannakhet Airport;16.55660057;104.7600021;
+Sam Neua Airport;20.4184;104.067001;
+Wattay International Airport;17.985052;102.566692;Vientiane
+Macau International Airport;22.149599;113.592003;Nossa Senhora do Carmo
+Long Thanh International Airport (Under Construction);10.772842;107.040596;Ho Chi Minh City (Long Thanh)
+Gautam Buddha International Airport;27.504636;83.410381;Siddharthanagar (Bhairahawa)
+Janakpur Airport;26.708799;85.922401;Janakpur
+Tribhuvan International Airport;27.6966;85.3591;Kathmandu
+Tenzing-Hillary Airport;27.686768;86.729479;Lukla
+Nepalgunj Airport;28.1036;81.667;Nepalgunj
+Pokhara Domestic Airport;28.200621;83.981203;Pokhara
+Taplejung Airport;27.3509;87.69525;Taplejung
+Biratnagar Airport;26.48150063;87.26399994;Biratnagar
+Campbell Bay Airport / INS Baaz;7.01304;93.922798;Campbell Bay
+Agatti Airport;10.8237;72.176003;Agatti
+HAL Airport;12.95;77.668198;Bangalore
+Bellary Airport;15.16279984;76.88279724;Bellary
+Kempegowda International Airport Bengaluru;13.1979;77.706299;Bengaluru
+Bidar Airport / Bidar Air Force Station;17.9081;77.487099;Bidar
+Vijayawada International Airport;16.530011;80.804888;Vijayawada
+Coimbatore International Airport;11.03;77.043404;Coimbatore
+Cochin International Airport;10.151047;76.400838;Kochi
+Calicut International Airport;11.135996;75.955152;Calicut
+Kadapa Airport;14.513154;78.769183;Kadapa
+Car Nicobar Air Force Base;9.153056;92.819273;IAF Camp
+Dundigul Air Force Academy;17.62719917;78.40339661;Hyderabad
+Manohar International Airport;15.744257;73.860625;Mopa
+Goa Dabolim International Airport;15.380062;73.833328;Vasco da Gama
+Rajiv Gandhi International Airport;17.231318;78.429855;Hyderabad
+Begumpet Airport;17.4531;78.467598;Hyderabad
+Kannur International Airport;11.916343;75.544979;Kannur
+Kurnool Airport;15.716288;78.16923;Orvakal
+Madurai Airport;9.83450985;78.09339905;Madurai
+Mangaluru International Airport;12.95471;74.886812;Mangaluru
+Chennai International Airport;12.990005;80.169296;Chennai
+Mysore Airport;12.229751;76.653683;Mysore
+Veer Savarkar International Airport / INS Utkrosh;11.640194;92.72902;Port Blair
+Pondicherry Airport;11.968;79.812;Puducherry (Pondicherry)
+Sri Sathya Sai Airport;14.14929962;77.79109955;Puttaparthi
+Rajahmundry Airport;17.105799;81.813204;Madhurapudi
+Salem Airport;11.7833004;78.06559753;Salem
+Tirupati International Airport;13.631988;79.539869;Tirupati
+Tiruchirappalli International Airport;10.762915;78.717741;Tiruchirappalli
+Thiruvananthapuram International Airport;8.481889;76.920029;Thiruvananthapuram
+Alluri Sitarama Raju International Airport (Vizag);17.971512;83.503617;Visakhapatnam
+Gelephu Airport;26.88456;90.46412;Gelephu
+Paro International Airport;27.4032;89.424599;Paro
+Maafaru International Airport;5.817407;73.468404;Noonu Atoll
+Gan International Airport;-0.692975;73.152627;Gan
+Hanimaadhoo International Airport;6.743235;73.167072;Haa Dhaalu Atoll
+Kadhdhoo Airport;1.85916996;73.52189636;Kadhdhoo
+Velana International Airport;4.19183;73.529099;Malé
+Kaadedhdhoo Airport;0.488131;72.996902;Huvadhu Atoll
+Villa International Airport Maamigili;3.471751;72.832633;Maamigili
+Don Mueang International Airport;13.9126;100.607002;Bangkok
+Kamphaeng Saen Airport;14.10200024;99.91719818;Nakhon Pathom
+Khok Kathiam Airport;14.87462;100.663397;Lop Buri
+Trat Airport;12.2746;102.319;Laem Ngop
+Suvarnabhumi Airport;13.6811;100.747002;Bangkok
+U-Tapao–Rayong–Pattaya International Airport;12.6799;101.004997;Rayong
+Chiang Mai International Airport;18.76679993;98.96260071;Chiang Mai
+Mae Hong Son Airport;19.3013;97.9758;Mae Hong Son
+Lampang Airport;18.27090073;99.5042038;
+Nan Airport;18.80789948;100.7829971;
+Phrae Airport;18.1322;100.165001;
+Mae Fah Luang - Chiang Rai International Airport;19.952299;99.882896;Chiang Rai
+Phetchabun Airport;16.6760006;101.1949997;
+Hua Hin Airport;12.63619995;99.95149994;Hua Hin
+Takhli Royal Thai Air Force Base;15.2773;100.295998;Takhli
+Mae Sot Airport;16.69989967;98.54509735;
+Sukhothai Airport;17.23800087;99.81819916;
+Phitsanulok Airport;16.7829;100.278999;Phitsanulok
+Tak Airport;16.896;99.253304;
+Surat Thani Airport;9.132599831;99.13559723;Surat Thani
+Narathiwat Airport;6.519919872;101.7429962;
+Chumphon Airport;10.7112;99.361702;Chumphon
+Nakhon Si Thammarat Airport;8.539620399;99.94470215;Nakhon Si Thammarat
+Krabi International Airport;8.095591;98.988955;Krabi
+Songkhla Airport;7.186560154;100.6080017;
+Pattani Airport;6.78546;101.153999;
+Samui International Airport;9.54779;100.061996;Na Thon (Ko Samui Island)
+Cha Eian Airport;8.47115;99.955597;Nakhon Si Thammarat
+Phuket International Airport;8.113257;98.3174;Phuket
+Ranong Airport;9.77762;98.585503;Ranong
+Hat Yai International Airport;6.93321;100.392998;Hat Yai
+Trang Airport;7.50874;99.6166;Trang
+Udon Thani International Airport;17.386186;102.788577;Udon Thani
+Sakon Nakhon Airport;17.19510078;104.1190033;
+Surin Airport;14.86830044;103.4980011;Surin
+Khon Kaen Airport;16.46660042;102.7839966;Khon Kaen
+Loei Airport;17.43910027;101.7220001;
+Buri Ram Airport;15.2295;103.252998;Buriram
+Nakhon Ratchasima Airport;14.9495;102.313004;Chaloem Phra Kiat
+Ubon Ratchathani Airport;15.25129986;104.8700027;Ubon Ratchathani
+Roi Et Airport;16.1168;103.774002;Roi Et
+Nakhon Phanom Airport;17.383801;104.642998;Nakhon Phanom
+Buon Ma Thuot Airport;12.66829968;108.1200027;Buon Ma Thuot
+Cat Bi International Airport;20.817428;106.724315;Haiphong (Hai An)
+Cà Mau Airport;9.177667;105.177778;Ca Mau City
+Cam Ranh International Airport / Cam Ranh Air Base;11.9982;109.219002;Nha Trang/nha Trang aiurportCam Ranh
+Con Dao Airport;8.73183;106.633003;Con Dao
+Can Tho International Airport;10.083397;105.709371;Can Tho
+Dien Bien Phu Airport;21.39749908;103.0080032;Dien Bien Phu
+Dong Hoi Airport;17.515;106.590556;Dong Hoi
+Lien Khuong Airport;11.750556;108.366997;Da Lat
+Da Nang International Airport;16.0439;108.198997;Da Nang
+Gia Lam Air Base;21.040501;105.886002;Hanoi  (Long Bien)
+Noi Bai International Airport;21.221201;105.806999;Hanoi (Soc Son)
+Phu Bai International Airport;16.400581;107.704094;Huế
+Phu Cat Airport;13.955;109.042;Quy Nohn
+Pleiku Airport;14.00450039;108.0169983;Pleiku
+Phú Quốc International Airport;10.169783;103.99353;Phu Quoc Island
+Rach Gia Airport;9.958029972;105.1323795;Rach Gia
+Dong Tac Airport;13.0496;109.334;Tuy Hoa
+Tan Son Nhat International Airport;10.8188;106.652;Ho Chi Minh City
+Van Don International Airport;21.120693;107.41539;Van Don
+Vinh Airport;18.73760033;105.6709976;Vinh
+Dawei Airport;14.1039;98.203598;Dawei
+Heho Airport;20.74714;96.792029;Heho
+Kengtung Airport;21.3015995;99.63600159;Kengtung
+Kyaukpyu Airport;19.42639923;93.53479767;Kyaukpyu
+Kawthoung Airport;10.04930019;98.53800201;Kawthoung
+Loikaw Airport;19.69149971;97.21479797;Loikaw
+Lashio Airport;22.97789955;97.75219727;Lashio
+Mandalay International Airport;21.70219994;95.97789764;Mandalay
+Myeik Airport;12.43980026;98.62149811;Mkeik
+Myitkyina Airport;25.3836;97.351898;Myitkyina
+Meiktila Air Base;20.88640022;95.89279175;Meiktila
+Momeik Airport;23.09250069;96.64530182;
+Mong Hsat Airport;20.51679993;99.25679779;Mong Hsat
+Nampong Air Base;25.35440063;97.29519653;Myitkyina
+Namsang Airport;20.89049911;97.73590088;Namsang
+Nay Pyi Taw International Airport;19.623501;96.200996;Naypyitaw
+Putao Airport;27.32990074;97.42630005;Putao
+Shante Air Base;20.94169998;95.91449738;Meiktila
+Sittwe Airport;20.133165;92.870693;Sittwe
+Thandwe Airport;18.46069908;94.30010223;Thandwe
+Tachileik Airport;20.48380089;99.93540192;Tachileik
+Yangon International Airport;16.90730095;96.1332016;Yangon
+Sultan Hasanuddin International Airport;-5.075539;119.553702;Makassar
+Frans Kaisiepo Airport;-1.19002;136.108002;Biak
+Stevanus Rumbewas Airport;-1.82842;136.062402;Serui
+Mozes Kilangin Airport;-4.52978;136.887388;Timika
+Sultan Muhammad Salahuddin Airport;-8.537184;118.685002;Bima
+Denpasar I Gusti Ngurah Rai International Airport;-8.748409;115.167123;Kuta. Badung
+Lombok International Airport;-8.759962;116.278169;Mataram (Pujut. Lombok Tengah)
+Sultan Babullah Airport;0.831012;127.381611;Ternate
+Pitu Airport;2.04599;128.324997;Gotalalamo-Morotai Island
+Toraja Airport;-3.184359;119.919104;Toraja
+Mutiara - SIS Al-Jufrie Airport;-0.916462;119.908647;Palu
+Kasiguncu Airport;-1.414121;120.659241;Poso-Celebes Island
+Syukuran Aminuddin Amir Airport;-1.035893;122.773934;Luwok
+Tjilik Riwut Airport;-2.227146;113.943388;Palangkaraya
+Yogyakarta International Airport;-7.905338;110.057264;Yogyakarta
+Tunggul Wulung Airport;-7.64506;109.033997;Cilacap
+Dortheys Hiyo Eluay International Airport;-2.579627;140.519857;Sentani
+Oksibil Airport;-4.9071;140.6277;Oksibil
+Mopah International Airport;-8.523898;140.419693;Merauke
+Tanah Merah Airport;-6.09669;140.303521;Tanah Merah
+Nusantara International Airport;-1.16053;116.71193;Nusantara
+Sultan Aji Muhammad Sulaiman Sepinggan International Airport;-1.268342;116.89452;Balikpapan
+Juwata International Airport / Suharnoko Harbani AFB;3.325145;117.564169;Tarakan
+Aji Pangeran Tumenggung Pranoto International Airport;-0.374478;117.250128;Samarinda
+Naha Airport;3.68478;125.527162;Tabukan Utara. Sangihe Islands
+Sam Ratulangi International Airport;1.548591;124.92625;Manado
+Warukin Airport;-2.21656;115.435997;Tanta-Tabalong
+Syamsudin Noor International Airport;-3.440112;114.761209;Banjarbaru
+Karel Sadsuitubun Airport;-5.760278;132.759444;Langgur
+Namniwel Airport;-3.143159;126.976469;Namniwel
+Pattimura International Airport;-3.71026;128.089005;Ambon
+Kalimarau Airport;2.14776;117.430705;Tanjung Redeb - Borneo Island
+Abdul Rachman Saleh Airport;-7.929099;112.714233;Malang
+Adisutjipto International Airport;-7.78818;110.431999;Yogyakarta
+Adisoemarmo International Airport;-7.516044;110.757492;Surakarta
+Juanda International Airport;-7.37983;112.787003;Surabaya
+Jenderal Ahmad Yani Airport;-6.970732;110.373244;Semarang
+Fakfak Airport;-2.920508;132.267011;Fakfak
+Utarom Airport;-3.6446;133.695116;Kaimana
+Babo Airport;-2.53224;133.438995;Babo
+Rendani Airport;-0.891833;134.048996;Manokwari
+Domine Eduard Osok Airport;-0.894;131.287;Sorong
+El Tari Airport;-10.1716;123.670998;Kupang
+Wamena Airport;-4.097324;138.952417;Wamena
+Matahora Airport;-5.292123;123.636233;Wangi-wangi Island
+Sangia Nibandera Airport;-4.338158;121.524047;Kolaka
+Bintulu Airport;3.123850107;113.0199966;Bintulu
+Kuching International Airport;1.487364;110.352859;Kuching
+Limbang Airport;4.808300018;115.0100021;Limbang
+Mukah Airport;2.881944;112.043333;Mukah
+Marudi Airport;4.178734;114.330318;Marudi
+Miri Airport;4.32201;113.987;Miri
+Sibu Airport;2.2616;111.985001;Sibu
+Bario Airport;3.734648;115.478548;Bario
+Lahad Datu Airport;5.03241;118.32376;Lahad Datu
+Kota Kinabalu International Airport;5.932743;116.049324;Kota Kinabalu
+Labuan Airport;5.301667;115.248333;Labuan
+Sandakan Airport;5.900899887;118.0589981;Sandakan
+Tawau Airport;4.31338;118.12152;Tawau
+Mulu Airport;4.04832983;114.8050003;Mulu
+Brunei International Airport;4.9442;114.928001;Bandar Seri Begawan
+Sultan Syarif Kasim II International Airport / Roesmin Nurjadin AFB;0.458647;101.444321;Pekanbaru
+Pinang Kampai Airport;1.609026;101.433493;Dumai
+Japura Airport;-0.352808;102.334999;Rengat-Sumatra Island
+Kertajati International Airport;-6.647384;108.165561;Kertajati
+Husein Sastranegara International Airport;-6.90063;107.575996;Bandung
+Hang Nadim International Airport;1.12103;104.119003;Batam
+Raja Haji Fisabilillah International Airport;0.92397;104.53341;Tanjung Pinang-Bintan Island
+Halim Perdanakusuma International Airport;-6.266989;106.890318;Jakarta
+Soekarno-Hatta International Airport;-6.12557;106.655998;Jakarta
+Radin Inten II International Airport;-5.246803;105.182531;Bandar Lampung
+Binaka Airport;1.166275;97.705196;Gunungsitoli
+Aek Godang Airport;1.4001;99.430496;Padang Sidempuan
+Soewondo Air Force Base;3.558425;98.672275;Medan
+Kualanamu International Airport;3.637847;98.870566;Beringin
+Dr. Ferdinand Lumban Tobing Airport;1.557127;98.887145;Sibolga (Pinangsori)
+Alas Leuser Airport;3.391456;97.863726;Kutacane
+Nanga Pinoh Airport;-0.34864;111.746155;Nanga Pinoh-Borneo Island
+Rahadi Osman Airport;-1.817165;109.963469;Ketapang
+Ranai Airport;3.90871;108.388;Ranai-Natuna Besar Island
+Supadio International Airport;-0.152258;109.404493;Pontianak
+Pangsuma Airport;0.834579;112.940217;Putussibau-Borneo Island
+Tebelian Airport;-0.045214;111.458049;Sintang
+Depati Amir Airport;-2.1622;106.139;Pangkal Pinang
+Fatmawati Soekarno Airport;-3.8637;102.338997;Bengkulu
+Sultan Mahmud Badaruddin II Airport;-2.897653;104.698147;Palembang
+Pendopo Airport;-3.286070108;103.8799973;Talang Gudang-Sumatra Island
+Minangkabau International Airport;-0.785964;100.280384;Padang (Katapiang)
+Cut Nyak Dhien Airport;4.040998;96.253312;Kuala Pesisir
+Rembele Airport;4.72113;96.851943;Takengon
+Lhok Sukon Airport;5.06951;97.259201;Lhok Sukon-Sumatra Island
+Sultan Iskandar Muda International Airport;5.525087;95.41997;Banda Aceh
+Kluang Airport;2.041389942;103.3069992;Kluang
+Tioman Airport;2.81818;104.160004;Tioman Island
+Sultan Abdul Halim Airport;6.189670086;100.3980026;Alor Satar
+RMAF Butterworth Air Base;5.46592;100.390999;Butterworth
+Sultan Ismail Petra Airport;6.16685009;102.2929993;Kota Baharu
+Kuantan Airport;3.77538991;103.2089996;Kuantan
+Kerteh Airport;4.53722;103.427002;Kerteh
+Sultan Azlan Shah Airport;4.56733;101.091643;Ipoh
+Senai International Airport;1.64131;103.669998;Johor Bahru
+Kuala Lumpur International Airport;2.74558;101.709999;Sepang
+Langkawi International Airport;6.32973;99.728699;Langkawi
+Malacca International Airport;2.265613;102.252778;Malacca
+Sultan Mahmud Airport;5.382639885;103.1029968;Kuala Terengganu
+Penang International Airport;5.296303;100.276185;Penang
+Sultan Abdul Aziz Shah International Airport;3.13058;101.549004;Subang
+Commander in Chief of FALINTIL. Kay Rala Xanana Gusmão. International Airport;-9.301856;125.286302;Suai
+Presidente Nicolau Lobato International Airport;-8.546562;125.524507;Dili
+Baucau Airport;-8.486479;126.399981;Baucau
+Oecusse Route of the Sandalwood International Airport;-9.198419;124.337873;Oecussi-Ambeno
+Changi Air Base (East);1.344140053;104.0090027;Singapore
+Sembawang Air Base;1.42526;103.813004;Sembawang
+Paya Lebar Air Base;1.36042;103.910004;Paya Lebar
+Tengah Air Base;1.387561;103.708291;Western Water Catchment
+Seletar Airport;1.41555;103.86673;Seletar
+Singapore Changi Airport;1.35019;103.994003;Singapore
+Khankala Air Base;43.2981;45.7841;Grozny
+Lebyazhye Air Base;50.201698;45.208302;Kamyshin
+Cocos (Keeling) Islands Airport;-12.192218;96.834103;West Island
+Christmas Island International Airport;-10.450387;105.6911;Flying Fish Cove
+Wujah Al Hajar Air Base;34.281226;35.680096;Hamat
+Beijing Capital International Airport;40.077349;116.596702;Beijing
+Beijing Daxing International Airport;39.501289;116.413967;Beijing
+Beijing Xijiao Airport;39.958592;116.256765;Beijing
+Chengde Puning Airport;41.1225;118.073889;Chengde
+Chifeng Yulong Airport;42.159723;118.840971;Chifeng
+Qinhuangdao Beidaihe Airport;39.666384;119.061384;Qinhuangdao (Changli)
+Ordos Ejin Horo International Airport;39.493514;109.8599;Ordos
+Datong Yungang International Airport;40.06139;113.480509;Datong
+Erenhot Saiwusu International Airport;43.424079;112.091081;Erenhot
+Arxan Yi'ershi Airport;47.3106;119.9117;Arxan
+Handan Airport;36.524824;114.424126;Handan
+Hohhot Baita International Airport;40.849658;111.824598;Hohhot
+Holingol Huolinhe Airport;45.487222;119.407222;Holingol
+Hulunbuir Hailar Airport;49.208616;119.822301;Hailar
+Linfen Yaodu Airport;36.132629;111.641236;Linfen (Yaodu)
+Lüliang Dawu Airport;37.683333;111.142778;Lüliang
+Manzhouli Xijiao Airport;49.566667;117.33;Manzhouli
+Baotou Donghe International Airport;40.560001;109.997002;Baotou
+Shuozhou Zirun Airport;39.273241;112.691552;Shuozhou
+Shijiazhuang Zhengding International Airport;38.280701;114.696999;Shijiazhuang
+Tianjin Binhai International Airport;39.12440109;117.3460007;Tianjin
+Tongliao Airport;43.556702;122.199997;Tongliao
+Ulanqab Jining Airport;41.130266;113.107274;Ulanqab
+Wuhai Airport;39.7934;106.7993;Wuhai
+Xilinhot Airport;43.91559982;115.9639969;Xilinhot
+Yuncheng Yanhu International Airport;35.117823;111.034023;Yuncheng (Yanhu)
+Taiyuan Wusu International Airport;37.746899;112.627998;Taiyuan
+Bayannur Tianjitai Airport;40.926358;107.74093;Bayannur
+Zhangjiakou Ningyuan Airport;40.738664;114.933395;Zhangjiakou
+Zhalantun Genghis Khan Airport;47.865942;122.768662;Zhalantun
+Beihai Fucheng Airport;21.538659;109.293683;Beihai
+Baise (Bose) Bama Airport;23.7206;106.959999;Baise (Tianyang)
+Changde Taohuayuan Airport;28.9189;111.639999;Changde (Dingcheng)
+Huaihua Zhijiang Airport;27.443087;109.704666;Huaihua
+Chenzhou Beihu Airport;25.753419;112.845404;Chenzhou
+Zhangjiajie Hehua International Airport;29.104749;110.442786;Zhangjiajie (Yongding)
+Foshan Shadi Airport;23.0825;113.070833;Foshan (Nanhai)
+Guangzhou Baiyun International Airport;23.392401;113.299004;Guangzhou (Huadu)
+Changsha Huanghua International Airport;28.189199;113.220001;Changsha (Changsha)
+Hechi Jinchengjiang Airport;24.804344;107.710819;Hechi (Jinchengjiang)
+Huizhou Pingtan Airport;23.049999;114.599998;Huizhou (Pingtan)
+Guilin Liangjiang International Airport;25.219828;110.039553;Guilin (Lingui)
+Yongzhou Lingling Airport;26.338661;111.610043;Yongzhou
+Nanning Wuxu International Airport;22.598071;108.181922;Nanning (Jiangnan)
+Jieyang Chaoshan International Airport;23.552;116.5033;Jieyang (Rongcheng)
+Zhuhai Jinwan Airport;22.006399;113.375999;Zhuhai (Jinwan)
+Shaoyang Wugang Airport;26.806123;110.641042;Shaoyang (Wugang)
+Shenzhen Bao'an International Airport;22.639474;113.803262;Shenzhen
+Wuzhou Xijiang Airport;23.40316;111.09331;Tangbu
+Yulin Fumian Airport;22.433042;110.119996;Yulin
+Yueyang Sanhe Airport;29.311699;113.281574;Yueyang (Yueyanglou)
+Liuzhou Bailian Airport / Bailian Air Base;24.2075;109.390999;Liuzhou (Liujiang)
+Zhanjiang Wuchuan International Airport;21.481667;110.590278;Zhanjiang
+Zhengzhou Xinzheng International Airport;34.526497;113.849165;Zhengzhou
+Ezhou Huahu International Airport;30.341178;115.03926;Ezhou
+Enshi Xujiaping Airport;30.320299;109.485001;Enshi (Enshi)
+Guangzhou MR Air Base / Guanghua Airport;32.38866;111.69425;Xiangyang (Laohekou)
+Wuhan Tianhe International Airport;30.774798;114.213723;Wuhan (Huangpi)
+Jingzhou Shashi Airport;30.29281;112.44854;Jingzhou (Shashi)
+Luoyang Beijiao Airport;34.7411;112.388;Luoyang (Laocheng)
+Shennongjia Hongping Airport;31.626;110.34;Shennongjia (Hongping)
+Shiyan Wudangshan Airport;32.592889;110.906296;Shiyan (Maojian)
+Xiangyang Liuji Airport;32.152222;112.291666;Xiangyang (Xiangzhou)
+Xinyang Minggang Airport;32.540819;114.079141;Xinyang
+Yichang Sanxia Airport;30.554132;111.482563;Yichang (Xiaoting)
+Haikou Meilan International Airport;19.9349;110.459;Haikou (Meilan)
+Qionghai Bo'ao Airport;19.140951;110.452766;Qionghai (Basuo)
+Sanya Phoenix International Airport;18.3029;109.412003;Sanya (Tianya)
+Orang (Chongjin) Airport;41.428538;129.647555;Hoemun-ri
+Pyongyang Sunan International Airport;39.224098;125.669998;Pyongyang
+Sunchon Air Base;39.412463;125.890273;Sunchon
+Sondok Airport;39.745201;127.473999;Sŏndŏng-ni
+Wonsan Kalma Airport;39.165219;127.487931;Wonsan
+Dunhuang Mogao International Airport;40.161953;94.812827;Dunhuang
+Haixi Delingha Airport;37.125286;97.268658;Delingha
+Golog Maqên Airport;34.418066;100.301144;Golog (Maqên)
+Golmud Airport;36.4006;94.786102;Golmud
+Guyuan Liupanshan Airport;36.078889;106.216944;Guyuan (Yuanzhou)
+Huatugou Airport;38.201645;90.837843;Mengnai
+Hanzhong Chenggu Airport;33.133527;107.203817;Hanzhong (Chenggu)
+Yinchuan Hedong International Airport;38.322758;106.393214;Yinchuan
+Jinchang Jinchuan Airport;38.542222;102.348333;Jinchang
+Jiayuguan International Airport;39.859052;98.339344;Jiayuguan
+Lanzhou Zhongchuan International Airport;36.515202;103.620003;Lanzhou (Yongdeng)
+Longnan Chengzhou Airport;33.789918;105.790014;Longnan (Cheng)
+Qingyang Xifeng Airport;35.802638;107.598896;Qingyang (Xifeng)
+Xi'an Xiguan Airport;34.376701;109.120003;Xi'an (Baqiao)
+Tianshui Maijishan Airport;34.5601;105.860343;Tianshui (Maiji)
+Gannan Xiahe Airport;34.819014;102.622261;Gannan (Xiahe)
+Xining Caojiabao International Airport;36.52775;102.040215;Haidong (Huzhu Tu Autonomous County)
+Xi'an Xianyang International Airport;34.442207;108.762385;Xi'an
+Yan'an Nanniwan Airport;36.479413;109.464083;Yan'an (Baota)
+Yulin Yuyang Airport;38.35971;109.590927;Yulin
+Yushu Batang Airport;32.836389;97.036389;Yushu (Batang)
+Zhongwei Shapotou Airport;37.573125;105.154454;Zhongwei (Shapotou)
+Zhangye Ganzhou Airport;38.801899;100.675003;Zhangye (Ganzhou)
+Arvaikheer Airport;46.25030136;102.802002;Arvaikheer
+Altai Airport;46.37639999;96.22109985;Altai
+Bayankhongor Airport;46.1633;100.704002;Bayankhongor
+Bulgan Airport;48.85499954;103.4759979;Bulgan
+Baruun Urt Airport;46.66030121;113.2850037;
+Choibalsan Airport;48.135381;114.647231;
+Ulaanbaatar Chinggis Khaan International Airport;47.646916;106.819833;Ulaanbaatar (Sergelen)
+Dalanzadgad Airport;43.608628;104.367734;Dalanzadgad
+Khovd Airport;47.954102;91.628197;Khovd
+Mörön Airport;49.663677;100.100028;Mörön
+Buyant-Ukhaa International Airport;47.843102;106.766998;Ulaanbaatar
+Ulaangom Airport;50.066588;91.938273;Ulaangom
+Ölgii Mongolei International Airport;48.993301;89.922501;Ölgii
+Baoshan Yunrui Airport;25.053301;99.168297;Baoshan (Longyang)
+Cangyuan Washan Airport;23.276331;99.373169;Lincang (Cangyuan)
+Dali Fengyi Airport;25.649401;100.319;Dali (Xiaguan)
+Diqing Shangri-La Airport;27.7936;99.6772;Diqing (Shangri-La)
+Xishuangbanna Gasa International Airport;21.974648;100.762224;Jinghong (Gasa)
+Lancang Jingmai Airport;22.417733;99.784012;Pu'er (Lancang)
+Lincang Boshang Airport;23.7381;100.025002;Lincang
+Lijiang Sanyi International Airport;26.677483;100.244944;Lijiang
+Dehong Mangshi International Airport;24.4011;98.5317;Dehong (Mangshi)
+Kunming Changshui International Airport;25.110313;102.936743;Kunming
+Yuanmou Air Base;25.737499;101.882004;Chuxiong (Yuanmou)
+Xiamen Gaoqi International Airport;24.543889;118.127454;Xiamen
+Anqing Tianzhushan Airport / Anqing North Air Base;30.582199;117.050003;Anqing
+Bengbu Renheji Airport;32.847733;117.320244;Bengbu
+Changzhou Benniu International Airport;31.920485;119.77546;Changzhou
+Nanchang Changbei International Airport;28.864815;115.90271;Nanchang
+Dongying Shengli Airport;37.50137;118.789863;Dongying (Kenli)
+Fuyang Xiguan Airport;32.882157;115.734364;Yingzhou. Fuyang
+Fuzhou Changle International Airport;25.929254;119.672524;Fuzhou (Changle)
+Hangzhou Xiaoshan International Airport;30.23609;120.428865;Hangzhou
+Heze Mudan Airport;35.212972;115.736748;Heze (Dingtao)
+Jingdezhen Luojia Airport;29.3386;117.176003;Jingdezhen
+Jining Da'an Airport;35.647358;116.743269;Jining
+Jinan Yaoqiang International Airport;36.857201;117.216003;Jinan (Licheng)
+Quzhou Airport;28.96613;118.898793;Quzhou (Kezheng)
+Lianyungang Huaguoshan International Airport;34.41406;119.17899;Lianyungang
+Liancheng Guanzhishan Airport;25.67592;116.745907;Longyan (Liancheng)
+Taizhou Luqiao Airport;28.562201;121.429001;Taizhou (Luqiao)
+Linyi Qiyang Airport;35.052918;118.411828;Linyi (Hedong)
+Ningbo Lishe International Airport;29.82670021;121.461998;Ningbo
+Nanjing Lukou International Airport;31.735032;118.865949;Nanjing
+Nantong Xingdong International Airport;32.073566;120.980076;Nantong (Tongzhou)
+Hefei Xinqiao International Airport;31.98779;116.9769;Hefei
+Shanghai Pudong International Airport;31.1434;121.805;Shanghai (Pudong)
+Qingdao Jiaodong International Airport;36.361953;120.088171;Qingdao (Jiaozhou)
+Quanzhou Jinjiang International Airport;24.795855;118.588599;Quanzhou
+Rugao Air Base;32.258341;120.501131;Rugao (Nantong)
+Rizhao Shanzihe Airport;35.405033;119.324403;Rizhao (Donggang)
+Huai'an Lianshui Airport;33.792712;119.126657;Huai'an
+Sanming Shaxian Airport;26.4263;117.8336;Sanming (Sha)
+Shangrao Sanqingshan Airport;28.3797;117.9643;Shangrao (Hengfeng)
+Shanghai Hongqiao International Airport;31.198104;121.33426;Shanghai (Minhang)
+Suzhou Guangfu Airport;31.2631;120.401001;Suzhou
+Huangshan Tunxi International Airport;29.733299;118.255997;Huangshan
+Wuhu Xuanzhou Airport;31.1045;118.66687;Wuhu
+Weifang Nanyuan Airport;36.646702;119.119003;Weifang (Kuiwen)
+Weihai Dashuibo Airport;37.187099;122.228996;Weihai
+Sunan Shuofang International Airport;31.496952;120.43038;Wuxi
+Nanping Wuyishan Airport;27.7019;118.000999;Wuyishan
+Wenzhou Longwan International Airport;27.910572;120.853465;Wenzhou (Longwan)
+Xuzhou Guanyin International Airport;34.059056;117.555278;Xuzhou
+Yangzhou Taizhou Airport;32.5634;119.7198;Yangzhou
+Yichun Mingyueshan Airport;27.8025;114.3062;Yichun
+Yancheng Nanyang International Airport;33.428317;120.20545;Yancheng (Tinghu)
+Yantai Penglai International Airport;37.659724;120.978124;Yantai
+Yiwu Airport;29.342095;120.03116;Yiwu/Jinhua
+Zhoushan Putuoshan International Airport;29.933874;122.362307;Zhoushan
+Ngari Gunsa Airport;32.09794;80.053971;Shiquanhe
+Anshun Huangguoshu Airport;26.260556;105.873333;Anshun (Xixiu)
+Qamdo Bangda Airport;30.55360031;97.10829926;Bangda
+Bijie Feixiong Airport;27.267066;105.472097;Bijie
+Chongqing Jiangbei International Airport;29.712254;106.651895;Chongqing
+Dazhou Jinya Airport;31.048815;107.435646;Dazhou (Dachuan)
+Daocheng Yading Airport;29.31632;100.060317;Garzê (Daocheng)
+Tongren Dejiang Airport (Under Construction);28.121;108.1631;Tongren
+Guanghan Airport;30.9485;104.3296;Deyang (Guanghan)
+Guangyuan Panlong Airport;32.390254;105.694571;Guangyuan (Lizhou)
+Guiyang Longdongbao International Airport;26.541805;106.80402;Guiyang (Nanming)
+Hongyuan Airport;32.53154;102.35224;Ngawa (Hongyuan)
+Jiuzhai Huanglong Airport;32.853333;103.682222;Ngawa (Songpan)
+Kangding Airport;30.142464;101.73872;Garzê (Kangding)
+Kaili Huangping Airport;26.972;107.988;Kaili  (Huangping)
+Lhasa Gonggar International Airport;29.298001;90.911951;Shannan (Gonggar)
+Luzhou Yunlong Airport;29.030357;105.468407;Luzhou (Yunlong)
+Zunyi Maotai Airport;27.961837;106.435416;Zunyi
+Mianyang Nanjiao Airport;31.428101;104.740997;Mianyang (Fucheng)
+Liping Airport;26.32217;109.1499;Liping
+Nyingchi Mainling Airport;29.303301;94.335297;Nyingchi (Mainling)
+Liupanshui Yuezhao Airport;26.609417;104.979;Liupanshui (Zhongshan)
+Qianjiang Wulingshan Airport;29.51333333;108.8311111;Qianjiang
+Xigaze Peace Airport / Shigatse Air Base;29.350876;89.299157;Xigazê (Samzhubzê)
+Tengchong Tuofeng Airport;24.938056;98.485833;Baoshan (Tengchong)
+Chengdu Tianfu International Airport;30.31252;104.441284;Chengdu (Jianyang)
+Tongren Fenghuang Airport;27.883333;109.308889;Tongren (Daxing)
+Chengdu Shuangliu International Airport;30.558257;103.945966;Chengdu (Shuangliu)
+Chongqing Xiannüshan Airport;29.465658;107.693664;Wulong
+Xichang Qingshan Airport;27.9891;102.183998;Liangshan (Xichang)
+Yibin Wuliangye Airport;28.858431;104.526157;Yibin (Cuiping)
+Xingyi Wanfenglin Airport;25.083423;104.960804;Xingyi
+Panzhihua Bao'anying Airport;26.54;101.79852;Panzhihua (Renhe)
+Zunyi Xinzhou Airport;27.810723;107.247189;Zunyi
+Aksu Hongqipo Airport;41.262501;80.291702;Aksu (Onsu)
+Altay Xuedu Airport;47.749886;88.085808;Altay
+Bole Alashankou Airport;44.895461;82.30007;Bole
+Qiemo Yudu Airport;38.234516;85.465462;Qiemo
+Fuyun Koktokay Airport;46.804169;89.512006;Fuyun
+Hami Airport;42.8414;93.669197;Hami
+Korla Licheng Airport;41.614979;86.140817;Korla
+Burqin Kanas Airport;48.2223;86.9959;Burqin
+Barkol Dahe Airport;43.756544;93.137164;Barkol
+Xinyuan Nalati Airport;43.4318;83.3786;Xinyuan
+Ruoqiang Loulan Airport;38.974722;88.008333;Ruoqiang Town
+Shache Airport;38.24542;77.056149;Shache
+Kashgar Laining International Airport;39.542273;76.02023;Kashgar
+Shanshan Airport;42.911701;90.247498;Shanshan
+Turpan Jiaohe Airport;43.0308;89.0987;Turpan
+Hotan Airport;37.03850174;79.86489868;Hotan
+Ürümqi Tianshan International Airport;43.913584;87.479372;Ürümqi
+Ili Yining International Airport;43.955799;81.330299;Ili (Yining / Ghulja)
+Anshan Teng'ao Airport / Anshan Air Base;41.105301;122.853996;Anshan
+Baicheng Chang'an Airport;45.505278;123.019722;Baicheng
+Changbaishan Airport;42.066944;127.602222;Baishan
+Changchun Longjia International Airport;43.996201;125.684998;Changchun
+Chaoyang Airport;41.538101;120.434998;Shuangta. Chaoyang
+Dandong Langtou International Airport;40.025453;124.28669;Dandong (Zhenxing)
+Wudalianchi Dedu Airport;48.441037;126.128374;Heihe
+Fuyuan Dongji Airport;48.197219;134.36298;Fuyuan
+Harbin Taiping International Airport;45.623402;126.25;Harbin
+Heihe Aihui Airport;50.171621;127.308884;Heihe
+Daxing'anling Elunchun Airport;50.371389;124.1175;Jiagedaqi
+Jiamusi Songjiang International Airport;46.842793;130.46426;Jiamusi
+Jiansanjiang Shidi Airport;47.108248;132.65792;Jiansanjiang
+Jixi Xingkaihu Airport;45.293;131.193;Jixi
+Jinzhou Bay Airport;40.936032;121.277114;Jinzhou (Linghai)
+Yichun Lindu Airport;47.752056;129.019125;Yichun
+Mudanjiang Hailang International Airport;44.525172;129.568634;Mudanjiang
+Mohe Gulian Airport;52.916871;122.422759;Mohe
+Qiqihar Sanjiazi Airport;47.229969;123.914179;Qiqihar
+Songyuan Chaganhu Airport;44.931143;124.552121;Qian Gorlos Mongol Autonomous County
+Dalian Zhoushuizi International Airport;38.965719;121.538477;Dalian (Ganjingzi)
+Tonghua Sanyuanpu Airport;42.048435;125.733963;Tonghua
+Shenyang Taoxian International Airport;41.6398;123.483668;Shenyang
+Xingcheng Air Base;40.580328;120.700374;Huludao (Xingcheng)
+Yanji Chaoyangchuan Airport;42.88280106;129.451004;Yanji
+Yingkou Lanqi Airport;40.542524;122.3586;Yingkou (Laobian)
+Shenyang Dongta Airport;41.784354;123.496308;Dadong. Shenyang
